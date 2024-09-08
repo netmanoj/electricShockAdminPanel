@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { MdEdit, MdSave } from 'react-icons/md';
 import { GrView } from 'react-icons/gr';
 import Popup from './Popup';
@@ -23,10 +23,20 @@ const DataTable = () => {
 
   const navigate = useNavigate(); // Initialize useNavigate
 
+  const [searchApplicantID, setSearchApplicantID] = useState(''); // Search term for Applicant ID
+  const [searchDate, setSearchDate] = useState(''); // Search term for Date of Application
+
   // Paging Range
   const pageRange = 20;
   const startPage = Math.max(1, currentPage - Math.floor(pageRange / 2));
   const endPage = Math.min(totalPages, startPage + pageRange - 1);
+
+  // Function to filter the table rows based on search criteria
+  const filteredRows = currentRows.filter((row) => {
+    const matchesApplicantID = row.ID_Number.includes(searchApplicantID);
+    const matchesDate = row.Date_of_Application.includes(searchDate);
+    return matchesApplicantID && matchesDate;
+  });
 
   // Function to export data to CSV
   const exportToCSV = () => {
@@ -36,7 +46,7 @@ const DataTable = () => {
       'Date of Application', 'Status', 'Reviewer ID', 'Reviewer Name'
     ];
 
-    const rows = currentRows.map(row => ([
+    const rows = filteredRows.map(row => ([
       row.ID,
       row.ID_Number,
       row.Applicant_Name,
@@ -62,12 +72,33 @@ const DataTable = () => {
 
   return (
     <div>
-       <h2>Electric Shock ⚡</h2>
+      <h2>Electric Shock ⚡</h2>
       {/* Button to navigate back to the homepage */}
       <button className='toggle-button2' onClick={() => navigate('/')}>
-      ⬅️ Go Back
+        ⬅️ Go Back
       </button>
       
+      {/* Search Fields */}
+      <div className="search-container">
+        <label htmlFor="search-applicant-id">Application ID : </label>
+        <input
+          type="text"
+          id="search-applicant-id"
+          value={searchApplicantID}
+          onChange={(e) => setSearchApplicantID(e.target.value)}
+          placeholder="Enter Applicant ID To Search"
+        />
+
+        <label htmlFor="search-date">Date of Appl. : </label>
+        <input
+          type="date"
+          id="search-date"
+          value={searchDate}
+          onChange={(e) => setSearchDate(e.target.value)}
+          placeholder="YYYY-MM-DD"
+        />
+      </div>
+
       <table border="1">
         <thead>
           <tr>
@@ -88,7 +119,7 @@ const DataTable = () => {
           </tr>
         </thead>
         <tbody>
-          {currentRows.map((row, index) => (
+          {filteredRows.map((row, index) => (
             <tr key={index}>
               <td>{row.ID}</td>
               <td>{row.ID_Number}</td>
@@ -209,7 +240,9 @@ const DataTable = () => {
           ))}
         </tbody>
       </table>
+
       {isShow && <Popup />}
+
       <div className='export-container'>
         <button className='export-btn' onClick={exportToCSV}>Export to CSV ⬇️</button>
       </div>
