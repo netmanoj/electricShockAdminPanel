@@ -7,7 +7,7 @@ const Form = ({ handleDateFilter, handleSearch }) => {
   return (
     <div className="form-container">
       <form onChange={handleSearch}>
-        <label>Search by Applicant ID</label>
+        <label>Search Using Appl. ID</label>
         <input
           type="text"
           placeholder="Search by Applicant Id"
@@ -18,7 +18,7 @@ const Form = ({ handleDateFilter, handleSearch }) => {
       </form>
       {/* Date Picker for filtering by Date of Application */}
       <form className="calendar">
-        <label>Search by Date of Application</label>
+        <label>Search Using Date of Appl.</label>
         <input type="date" onChange={(e) => handleDateFilter(e.target.value)} />
       </form>
     </div>
