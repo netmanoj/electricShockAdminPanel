@@ -1,0 +1,1201 @@
+ID,Applicant_Name,Gender,District,State,Pincode,Ownership,GovtID_Type,ID_Number,Category,Load_Applied (in KV),Date_of_Application,Date_of_Approval,Modified_Date,Status,Reviewer_ID,Reviewer_Name,Reviewer_Comments
+1,MICHAEL,Male,North,DELHI,110028,JOINT,AADHAR,6349499,Commerical,10,3/18/2021,10/12/2021,4/18/2021,Approved,1460,HEM CHAND,Installation pending
+2,DAVID,Male,South,DELHI,110007,INDIVIDUAL,VOTER_ID,76929,Commerical,6,8/25/2021,,9/25/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+3,JOHN,Male,East,DELHI,110065,INDIVIDUAL,PAN,6349499,Commerical,7,1/8/2021,,2/8/2021,Pending,1460,HEM CHAND,Documents verification in progress
+4,JENNIFER,Male,West,DELHI,110037,INDIVIDUAL,PASSPORT,615909293,Commerical,3,1/14/2021,,2/14/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+5,CHRIS,Male,North,DELHI,110013,INDIVIDUAL,PASSPORT,674510412,Residential,3,7/15/2021,,8/15/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+6,JESSICA,Male,North,DELHI,110054,INDIVIDUAL,AADHAR,9.49E+11,Commerical,5,4/3/2021,,5/3/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+7,LISA,Male,North,DELHI,110001,INDIVIDUAL,PAN,7768237,Residential,9,9/17/2021,,10/17/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+8,MIKE,Male,North,DELHI,110018,INDIVIDUAL,VOTER_ID,76623,Commerical,8,10/16/2021,,11/16/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+9,ANTHONY,Male,North,DELHI,110042,INDIVIDUAL,PASSPORT,946919751,Residential,1,3/8/2021,,4/8/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+10,JAMES,Male,North,DELHI,110065,JOINT,PAN,3142144,Residential,4,3/15/2021,,4/15/2021,Pending,1460,HEM CHAND,Documents verification in progress
+11,ROBERT,Male,North,DELHI,110034,JOINT,PAN,3757059,Commerical,7,10/30/2021,,11/30/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+12,JASON,Male,North,DELHI,110019,INDIVIDUAL,AADHAR,2.53E+11,Commerical,3,4/15/2021,5/15/2021,5/15/2021,Connection Released,1460,HEM CHAND,Installation completed
+13,BRIAN,Male,North,DELHI,110048,JOINT,VOTER_ID,90809,Commerical,6,11/11/2021,12/11/2021,12/11/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+14,KEVIN,Male,North,DELHI,110028,INDIVIDUAL,PASSPORT,840545693,Residential,7,6/25/2021,7/25/2021,7/25/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+15,ANDREW,Male,North,DELHI,110055,INDIVIDUAL,VOTER_ID,91845,Commerical,12,2/23/2021,3/23/2021,3/23/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+16,MICHELLE,Male,North,DELHI,110005,INDIVIDUAL,PASSPORT,617745068,Residential,8,10/6/2021,11/6/2021,11/6/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+17,DANIEL,Male,North,DELHI,110002,INDIVIDUAL,PASSPORT,734846801,Residential,3,3/19/2021,4/19/2021,4/19/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+18,MARIA,Male,North,DELHI,110031,INDIVIDUAL,VOTER_ID,82338,Residential,12,11/6/2021,12/6/2021,12/6/2021,Connection Released,1678,Manoj Pandey,Installation completed
+19,NICOLE,Male,North,DELHI,110022,INDIVIDUAL,PAN,1913149,Residential,7,3/9/2021,4/9/2021,4/9/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+20,ALEX,Male,North,DELHI,110062,INDIVIDUAL,VOTER_ID,76379,Commerical,4,9/25/2021,10/25/2021,10/25/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+21,MELISSA,Male,North,DELHI,110007,INDIVIDUAL,AADHAR,8.67E+11,Commerical,10,7/23/2021,8/23/2021,8/23/2021,Connection Released,1678,Manoj Pandey,Installation completed
+22,ERIC,Male,North,DELHI,110025,JOINT,VOTER_ID,86546,Residential,11,10/10/2021,11/10/2021,11/10/2021,Connection Released,1678,Manoj Pandey,Installation completed
+23,SARAH,Male,North,DELHI,110059,JOINT,PAN,7198550,Commerical,6,8/16/2021,9/16/2021,9/16/2021,Approved,2456,RAHUL SINGH,Installation pending
+24,MARK,Male,North,DELHI,110058,INDIVIDUAL,VOTER_ID,79716,Commerical,12,12/2/2021,8/31/2021,1/2/2022,Approved,1311,Sudhanshu Gupta,Installation pending
+25,JOE,Male,North,DELHI,110063,INDIVIDUAL,PAN,1784042,Residential,9,11/14/2021,5/22/2021,12/14/2021,Approved,4510,VINOD GUPTA,Installation pending
+26,JOSEPH,Male,North,DELHI,110039,INDIVIDUAL,PAN,8142564,Commerical,5,12/22/2021,11/13/2021,1/22/2022,Approved,1678,Manoj Pandey,Installation pending
+27,STEPHANIE,Male,North,DELHI,110061,INDIVIDUAL,PASSPORT,498064422,Residential,2,10/22/2021,2/4/2021,11/22/2021,Approved,1460,HEM CHAND,Installation pending
+28,PAUL,Male,North,DELHI,110023,INDIVIDUAL,PAN,7253926,Residential,7,1/6/2021,5/11/2021,2/6/2021,Rejected ,1460,HEM CHAND,KYC failed
+29,PETER,Male,North,DELHI,110026,INDIVIDUAL,VOTER_ID,80499,Commerical,10,4/7/2021,8/1/2021,5/7/2021,Rejected ,1460,HEM CHAND,KYC failed
+30,JONATHAN,Male,North,DELHI,110014,INDIVIDUAL,AADHAR,7.30E+11,Commerical,12,8/28/2021,4/29/2021,9/28/2021,Rejected ,1460,HEM CHAND,KYC failed
+31,CHRISTOPHER,Male,North,DELHI,110060,INDIVIDUAL,PAN,1136961,Residential,4,8/16/2021,5/26/2021,9/16/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+32,LAUREN,Male,North,DELHI,110021,JOINT,PASSPORT,448437646,Commerical,7,7/31/2021,10/12/2021,8/31/2021,Connection Released,1460,HEM CHAND,Installation completed
+33,LAURA,Male,North,DELHI,110012,INDIVIDUAL,PAN,2157440,Commerical,12,4/22/2021,1/13/2022,5/22/2021,Connection Released,1460,HEM CHAND,Installation completed
+34,ELIZABETH,Male,North,DELHI,110011,INDIVIDUAL,PAN,5732469,Commerical,11,10/13/2021,10/5/2021,11/13/2021,Connection Released,1678,Manoj Pandey,Installation completed
+35,MATTHEW,Male,North,DELHI,110058,INDIVIDUAL,VOTER_ID,70550,Residential,4,1/4/2021,9/22/2021,2/4/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+36,RICHARD,Male,North,DELHI,110045,INDIVIDUAL,AADHAR,2.02E+11,Residential,3,4/11/2021,3/7/2021,5/11/2021,Connection Released,1460,HEM CHAND,Installation completed
+37,MATT,Male,North,DELHI,110047,INDIVIDUAL,PAN,3403216,Residential,9,7/1/2021,4/7/2021,8/1/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+38,STEVEN,Male,North,DELHI,110032,INDIVIDUAL,PAN,9829576,Commerical,5,3/29/2021,5/18/2021,4/29/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+39,MARY,Male,North,DELHI,110034,INDIVIDUAL,AADHAR,1.29E+11,Commerical,9,4/26/2021,11/3/2021,5/26/2021,Connection Released,1460,HEM CHAND,Installation completed
+40,ADAM,Male,North,DELHI,110050,INDIVIDUAL,AADHAR,1.69E+11,Commerical,6,9/12/2021,7/25/2021,10/12/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+41,KAREN,Male,North,DELHI,110040,JOINT,PASSPORT,33150797,Commerical,7,12/13/2021,9/15/2021,1/13/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+42,AMY,Male,North,DELHI,110010,JOINT,AADHAR,8.32E+11,Residential,12,9/5/2021,11/18/2021,10/5/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+43,CHRISTINE,Male,North,DELHI,110026,INDIVIDUAL,PAN,3701065,Residential,12,9/7/2021,8/17/2021,10/7/2021,Rejected ,2456,RAHUL SINGH,KYC failed
+44,AMANDA,Male,North,DELHI,110061,JOINT,VOTER_ID,70312,Residential,10,1/27/2021,2/28/2021,2/27/2021,Rejected ,1678,Manoj Pandey,KYC failed
+45,RACHEL,Male,North,DELHI,110064,INDIVIDUAL,PASSPORT,716259579,Residential,11,10/27/2021,7/25/2021,11/27/2021,Rejected ,1460,HEM CHAND,KYC failed
+46,SUSAN,Male,North,DELHI,110049,INDIVIDUAL,VOTER_ID,91261,Commerical,1,5/25/2021,10/17/2021,6/25/2021,Rejected ,1678,Manoj Pandey,KYC failed
+47,RYAN,Male,North,DELHI,110029,INDIVIDUAL,AADHAR,1.12E+11,Residential,1,8/22/2021,10/22/2021,9/22/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+48,CHRISTINA,Male,North,DELHI,110004,INDIVIDUAL,PAN,6915817,Residential,3,2/7/2021,10/22/2021,3/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+49,DANIELLE,Male,North,DELHI,110005,INDIVIDUAL,VOTER_ID,71178,Commerical,1,3/7/2021,6/6/2021,4/7/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+50,STEVE,Male,North,DELHI,110043,INDIVIDUAL,PASSPORT,52584158,Commerical,4,3/28/2021,12/23/2021,4/28/2021,Rejected ,2456,RAHUL SINGH,KYC failed
+51,EMILY,Male,North,DELHI,110059,INDIVIDUAL,VOTER_ID,95692,Commerical,9,1/26/2021,8/13/2021,2/26/2021,Rejected ,1460,HEM CHAND,KYC failed
+52,WILLIAM,Male,North,DELHI,110053,INDIVIDUAL,PASSPORT,684119441,Commerical,8,4/18/2021,2/28/2021,5/18/2021,Connection Released,1460,HEM CHAND,Installation completed
+53,JOSÉ,Male,North,DELHI,110018,JOINT,AADHAR,2.63E+11,Commerical,4,10/3/2021,8/27/2021,11/3/2021,Connection Released,1678,Manoj Pandey,Installation completed
+54,SEAN,Male,North,DELHI,110045,JOINT,VOTER_ID,94726,Residential,2,6/25/2021,11/22/2021,7/25/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+55,SCOTT,Male,North,DELHI,110044,INDIVIDUAL,PASSPORT,766310059,Commerical,12,9/23/2021,7/18/2021,10/23/2021,Rejected ,1311,Sudhanshu Gupta,KYC failed
+56,ANNA,Male,North,DELHI,110001,INDIVIDUAL,PASSPORT,343565406,Commerical,1,10/21/2021,9/4/2021,11/21/2021,Rejected ,1678,Manoj Pandey,KYC failed
+57,FRANK,Male,North,DELHI,110056,INDIVIDUAL,AADHAR,7.26E+11,Residential,8,8/15/2021,1/26/2022,9/15/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+58,THOMAS,Male,North,DELHI,110054,INDIVIDUAL,PASSPORT,889733350,Commerical,3,10/18/2021,7/20/2021,11/18/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+59,NICK,Male,North,DELHI,110013,INDIVIDUAL,PASSPORT,477715935,Commerical,10,7/17/2021,5/26/2021,8/17/2021,Connection Released,1678,Manoj Pandey,Installation completed
+60,JUSTIN,Male,North,DELHI,110013,INDIVIDUAL,VOTER_ID,75282,Commerical,8,1/28/2021,2/8/2021,2/28/2021,Connection Released,1460,HEM CHAND,Installation completed
+61,ASHLEY,Male,North,DELHI,110042,INDIVIDUAL,PASSPORT,19465207,Commerical,5,6/25/2021,5/15/2021,7/25/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+62,DAN,Male,North,DELHI,110010,INDIVIDUAL,AADHAR,9.88E+11,Residential,6,9/17/2021,1/13/2022,10/17/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+63,LINDA,Male,North,DELHI,110001,JOINT,PASSPORT,43102556,Commerical,9,9/22/2021,8/2/2021,10/22/2021,Connection Released,1678,Manoj Pandey,Installation completed
+64,ANDREA,Male,North,DELHI,110016,INDIVIDUAL,PASSPORT,790284972,Residential,6,1/20/2021,11/27/2021,2/20/2021,Rejected ,2456,RAHUL SINGH,KYC failed
+65,JEFF,Male,North,DELHI,110062,INDIVIDUAL,PAN,5531105,Residential,5,4/6/2021,11/1/2021,5/6/2021,Rejected ,2456,RAHUL SINGH,KYC failed
+66,GEORGE,Male,North,DELHI,110043,INDIVIDUAL,AADHAR,1.81E+11,Residential,12,2/18/2021,10/26/2021,3/18/2021,Rejected ,1678,Manoj Pandey,KYC failed
+67,PATRICK,Male,North,DELHI,110002,INDIVIDUAL,PAN,2022120,Residential,12,8/19/2021,8/7/2021,9/19/2021,Rejected ,1678,Manoj Pandey,KYC failed
+68,ANGELA,Male,North,DELHI,110028,INDIVIDUAL,AADHAR,2.51E+11,Residential,2,9/22/2021,1/25/2022,10/22/2021,Connection Released,1460,HEM CHAND,Installation completed
+69,TOM,Male,North,DELHI,110007,INDIVIDUAL,AADHAR,6.00E+11,Commerical,8,5/6/2021,7/11/2021,6/6/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+70,KELLY,Male,North,DELHI,110041,INDIVIDUAL,VOTER_ID,70995,Residential,8,11/23/2021,7/10/2021,12/23/2021,Connection Released,1460,HEM CHAND,Installation completed
+71,KATIE,Male,North,DELHI,110030,INDIVIDUAL,VOTER_ID,86012,Commerical,11,2/3/2021,7/20/2021,3/3/2021,Rejected ,1460,HEM CHAND,KYC failed
+72,STEPHEN,Male,North,DELHI,110028,JOINT,VOTER_ID,85483,Residential,4,1/26/2021,1/13/2022,2/26/2021,Approved,1678,Manoj Pandey,Installation pending
+73,??Ä?Å,Male,North,DELHI,110054,JOINT,AADHAR,2.91E+11,Residential,5,7/13/2021,8/7/2021,8/13/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+74,BARBARA,Male,North,DELHI,110012,INDIVIDUAL,PASSPORT,205726513,Commerical,12,1/28/2021,1/14/2022,2/28/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+75,SAMANTHA,Male,North,DELHI,110012,JOINT,AADHAR,4.88E+11,Residential,2,7/27/2021,5/17/2021,8/27/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+76,NANCY,Male,North,DELHI,110048,INDIVIDUAL,PASSPORT,757246673,Commerical,9,10/22/2021,6/18/2021,11/22/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+77,PATRÍCIA,Male,North,DELHI,110046,INDIVIDUAL,VOTER_ID,87004,Commerical,10,6/18/2021,2/23/2021,7/18/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+78,JULIE,Male,North,DELHI,110027,INDIVIDUAL,PAN,1932234,Commerical,11,10/25/2021,9/30/2021,11/25/2021,Approved,4510,VINOD GUPTA,Installation pending
+79,CARLOS,Male,North,DELHI,110008,INDIVIDUAL,PAN,3960937,Commerical,10,6/17/2021,1/17/2022,7/17/2021,Approved,4510,VINOD GUPTA,Installation pending
+80,REBECCA,Male,North,DELHI,110026,INDIVIDUAL,PASSPORT,568435057,Residential,9,10/7/2021,9/1/2021,11/7/2021,Approved,1678,Manoj Pandey,Installation pending
+81,SARA,Male,North,DELHI,110009,INDIVIDUAL,VOTER_ID,82672,Commerical,1,8/9/2021,4/20/2021,9/9/2021,Approved,1678,Manoj Pandey,Installation pending
+82,LUÍS,Male,North,DELHI,110050,INDIVIDUAL,PASSPORT,686326136,Residential,1,8/4/2021,2/22/2021,9/4/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+83,JAY,Male,North,DELHI,110048,INDIVIDUAL,PAN,7236303,Commerical,6,12/26/2021,12/13/2021,1/26/2022,Connection Released,1311,Sudhanshu Gupta,Installation completed
+84,DENISE,Male,North,DELHI,110034,JOINT,AADHAR,7.43E+11,Commerical,8,6/20/2021,3/28/2021,7/20/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+85,KIM,Male,North,DELHI,110005,JOINT,PAN,9165084,Commerical,12,3/21/2021,3/8/2021,4/21/2021,Approved,4510,VINOD GUPTA,Installation pending
+86,ROB,Male,North,DELHI,110004,INDIVIDUAL,VOTER_ID,72018,Commerical,5,5/3/2021,4/5/2021,6/3/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+87,DANNY,Male,North,DELHI,110027,INDIVIDUAL,VOTER_ID,75090,Commerical,3,4/26/2021,3/8/2021,5/26/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+88,ERIN,Male,North,DELHI,110045,INDIVIDUAL,AADHAR,9.94E+11,Commerical,1,1/8/2021,1/7/2022,2/8/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+89,BEN,Male,North,DELHI,110060,INDIVIDUAL,AADHAR,9.56E+11,Residential,5,4/15/2021,8/26/2021,5/15/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+90,HEATHER,Male,North,DELHI,110063,INDIVIDUAL,PASSPORT,382917454,Residential,7,12/13/2021,1/14/2022,1/13/2022,Connection Released,4510,VINOD GUPTA,Installation completed
+91,VANESSA,Male,North,DELHI,110031,INDIVIDUAL,VOTER_ID,76338,Residential,11,7/2/2021,4/30/2021,8/2/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+92,CHARLES,Male,North,DELHI,110033,INDIVIDUAL,AADHAR,9.04E+11,Residential,7,1/1/2022,1/19/2022,2/1/2022,Approved,1460,HEM CHAND,Installation pending
+93,KATE,Male,North,DELHI,110040,INDIVIDUAL,PASSPORT,870269215,Commerical,8,12/14/2021,7/29/2021,1/14/2022,Approved,1460,HEM CHAND,Installation pending
+94,KIMBERLY,Male,North,DELHI,110018,JOINT,PASSPORT,800060483,Residential,10,2/20/2021,7/2/2021,3/20/2021,Approved,4510,VINOD GUPTA,Installation pending
+95,TONY,Male,North,DELHI,110012,INDIVIDUAL,AADHAR,8.92E+11,Commerical,9,1/4/2021,4/11/2021,2/4/2021,Approved,4510,VINOD GUPTA,Installation pending
+96,TIFFANY,Male,North,DELHI,110046,INDIVIDUAL,VOTER_ID,80529,Commerical,11,10/27/2021,2/10/2021,11/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+97,SAM,Male,North,DELHI,110029,INDIVIDUAL,AADHAR,1.46E+11,Residential,12,10/1/2021,5/13/2021,11/1/2021,Connection Released,1460,HEM CHAND,Installation completed
+98,JUAN,Male,North,DELHI,110012,INDIVIDUAL,PAN,2422542,Commerical,6,9/26/2021,10/21/2021,10/26/2021,Connection Released,1678,Manoj Pandey,Installation completed
+99,DONNA,Male,North,DELHI,110061,INDIVIDUAL,PAN,4862646,Residential,8,2/23/2021,3/1/2021,3/23/2021,Approved,1678,Manoj Pandey,Installation pending
+100,ERICA,Male,North,DELHI,110057,INDIVIDUAL,AADHAR,7.73E+11,Commerical,10,5/16/2021,1/21/2022,6/16/2021,Approved,2456,RAHUL SINGH,Installation pending
+101,JEFFREY,Male,North,DELHI,110005,INDIVIDUAL,VOTER_ID,75945,Residential,8,7/7/2021,2/28/2021,8/7/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+102,GREG,Male,North,DELHI,110060,INDIVIDUAL,PASSPORT,110602044,Commerical,10,12/25/2021,9/3/2021,1/25/2022,Connection Released,1678,Manoj Pandey,Installation completed
+103,JOSHUA,Male,North,DELHI,110018,JOINT,AADHAR,8.66E+11,Residential,4,6/11/2021,9/9/2021,7/11/2021,Connection Released,1460,HEM CHAND,Installation completed
+104,JOSH,Male,North,DELHI,110027,JOINT,AADHAR,3.40E+11,Commerical,5,6/10/2021,11/18/2021,7/10/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+105,SANDRA,Male,North,DELHI,110036,INDIVIDUAL,AADHAR,2.65E+11,Residential,5,6/20/2021,2/7/2021,7/20/2021,Connection Released,1460,HEM CHAND,Installation completed
+106,SHARON,Male,North,DELHI,110041,JOINT,VOTER_ID,79025,Residential,1,12/8/2021,5/27/2021,1/8/2022,Approved,1678,Manoj Pandey,Installation pending
+107,JENNY,Male,North,DELHI,110040,INDIVIDUAL,PAN,2704475,Commerical,3,2/6/2021,2/23/2021,3/6/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+108,LIZ,Male,North,DELHI,110051,INDIVIDUAL,PASSPORT,513014573,Residential,12,2/19/2021,4/19/2021,3/19/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+109,JÚLIA,Male,North,DELHI,110036,INDIVIDUAL,PAN,7313130,Commerical,3,7/16/2021,12/7/2021,8/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+110,JAMIE,Male,North,DELHI,110051,INDIVIDUAL,PASSPORT,432921276,Commerical,7,12/13/2021,7/16/2021,1/13/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+111,TIM,Male,North,DELHI,110043,INDIVIDUAL,PASSPORT,720291686,Residential,5,7/7/2021,12/7/2021,8/7/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+112,MICHELE,Male,North,DELHI,110054,INDIVIDUAL,VOTER_ID,93714,Residential,8,12/14/2021,8/9/2021,1/14/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+113,MARC,Male,North,DELHI,110028,INDIVIDUAL,VOTER_ID,72736,Commerical,3,9/20/2021,9/20/2021,10/20/2021,Approved,1460,HEM CHAND,Installation pending
+114,AARON,Male,North,DELHI,110024,INDIVIDUAL,PAN,3000326,Commerical,2,1/13/2021,2/7/2021,2/13/2021,Approved,2456,RAHUL SINGH,Installation pending
+115,JIM,Male,North,DELHI,110047,JOINT,PAN,6720071,Residential,7,4/17/2021,1/30/2022,5/17/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+116,DAVE,Male,North,DELHI,110039,JOINT,AADHAR,2.20E+11,Residential,6,5/18/2021,6/29/2021,6/18/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+117,VICTORIA,Male,North,DELHI,110015,INDIVIDUAL,AADHAR,7.42E+11,Residential,6,1/23/2021,8/22/2021,2/23/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+118,CHRISTIAN,Male,North,DELHI,110025,INDIVIDUAL,PASSPORT,953873672,Commerical,9,8/31/2021,6/18/2021,9/30/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+119,MEGAN,Male,North,DELHI,110036,INDIVIDUAL,PAN,4741153,Residential,9,12/17/2021,12/21/2021,1/17/2022,Connection Released,1311,Sudhanshu Gupta,Installation completed
+120,JON,Male,North,DELHI,110022,INDIVIDUAL,PAN,4204193,Residential,4,1/31/2021,10/6/2021,2/28/2021,Approved,4510,VINOD GUPTA,Installation pending
+121,BILL,Male,North,DELHI,110023,INDIVIDUAL,AADHAR,4.00E+11,Residential,12,12/1/2021,6/5/2021,1/1/2022,Approved,2456,RAHUL SINGH,Installation pending
+122,ALLISON,Male,North,DELHI,110033,INDIVIDUAL,VOTER_ID,81125,Commerical,12,5/27/2021,1/29/2022,6/27/2021,Approved,4510,VINOD GUPTA,Installation pending
+123,ANDY,Male,North,DELHI,110054,INDIVIDUAL,PASSPORT,527418964,Commerical,7,2/28/2021,5/7/2021,3/28/2021,Approved,1678,Manoj Pandey,Installation pending
+124,CAROL,Male,North,DELHI,110040,INDIVIDUAL,AADHAR,9.06E+11,Residential,3,8/1/2021,10/5/2021,9/1/2021,Connection Released,1678,Manoj Pandey,Installation completed
+125,GARY,Male,North,DELHI,110013,JOINT,PASSPORT,251258961,Residential,10,3/20/2021,7/1/2021,4/20/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+126,DIANE,Male,North,DELHI,110021,INDIVIDUAL,PASSPORT,846516148,Residential,9,1/22/2021,11/10/2021,2/22/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+127,JACKIE,Male,North,DELHI,110019,INDIVIDUAL,AADHAR,9.97E+11,Commerical,9,8/10/2021,2/28/2021,9/10/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+128,CATHERINE,Male,North,DELHI,110044,INDIVIDUAL,AADHAR,7.87E+11,Residential,4,3/13/2021,6/12/2021,4/13/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+129,TARA,Male,North,DELHI,110002,INDIVIDUAL,PAN,9877121,Residential,7,11/13/2021,3/25/2021,12/13/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+130,VÍCTOR,Male,North,DELHI,110002,INDIVIDUAL,PASSPORT,893867257,Commerical,6,2/28/2021,7/23/2021,3/28/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+131,NATALIE,Male,North,DELHI,110061,INDIVIDUAL,PASSPORT,891209422,Commerical,5,2/8/2021,5/30/2021,3/8/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+132,KEITH,Male,North,DELHI,110024,INDIVIDUAL,PASSPORT,716691114,Residential,8,3/5/2021,3/25/2021,4/5/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+133,EDWARD,Male,North,DELHI,110062,INDIVIDUAL,PASSPORT,217933521,Residential,2,2/8/2021,10/8/2021,3/8/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+134,JACK,Male,North,DELHI,110037,JOINT,AADHAR,2.50E+11,Residential,4,9/17/2021,10/9/2021,10/17/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+135,GINA,Male,North,DELHI,110061,JOINT,PASSPORT,207176186,Residential,11,2/7/2021,8/10/2021,3/7/2021,Approved,1460,HEM CHAND,Installation pending
+136,DANA,Male,North,DELHI,110009,INDIVIDUAL,AADHAR,9.58E+11,Commerical,4,11/16/2021,6/27/2021,12/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+137,JEREMY,Male,North,DELHI,110036,JOINT,PASSPORT,496381498,Commerical,9,11/26/2021,5/21/2021,12/26/2021,Approved,2456,RAHUL SINGH,Installation pending
+138,NICHOLAS,Male,North,DELHI,110041,INDIVIDUAL,VOTER_ID,79885,Residential,11,12/7/2021,5/8/2021,1/7/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+139,KRISTEN,Male,North,DELHI,110015,INDIVIDUAL,AADHAR,8.91E+11,Commerical,3,7/26/2021,11/13/2021,8/26/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+140,ANA,Male,North,DELHI,110028,INDIVIDUAL,VOTER_ID,88223,Commerical,12,12/14/2021,1/14/2022,1/14/2022,Connection Released,4510,VINOD GUPTA,Installation completed
+141,KATHY,Male,North,DELHI,110009,INDIVIDUAL,VOTER_ID,99486,Commerical,7,1/22/2021,9/17/2021,2/22/2021,Approved,1678,Manoj Pandey,Installation pending
+142,BRANDON,Male,North,DELHI,110004,INDIVIDUAL,PASSPORT,763663199,Residential,2,1/30/2021,8/3/2021,2/28/2021,Approved,4510,VINOD GUPTA,Installation pending
+143,ANNE,Male,North,DELHI,110024,INDIVIDUAL,PASSPORT,868957081,Residential,1,3/30/2021,5/6/2021,4/30/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+144,ALEXANDRA,Male,North,DELHI,110043,INDIVIDUAL,PASSPORT,511105190,Commerical,4,12/19/2021,11/1/2021,1/19/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+145,CYNTHIA,Male,North,DELHI,110062,INDIVIDUAL,AADHAR,9.72E+11,Residential,12,6/29/2021,4/21/2021,7/29/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+146,MÓNICA,Male,North,DELHI,110036,JOINT,PASSPORT,138534247,Commerical,3,11/18/2021,11/3/2021,12/18/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+147,VINCENT,Male,North,DELHI,110041,JOINT,PASSPORT,739729773,Commerical,5,1/7/2021,8/31/2021,2/7/2021,Approved,4510,VINOD GUPTA,Installation pending
+148,JACQUELINE,Male,North,DELHI,110051,INDIVIDUAL,PAN,6900937,Residential,10,9/11/2021,7/4/2021,10/11/2021,Approved,2456,RAHUL SINGH,Installation pending
+149,MARIE,Male,North,DELHI,110025,INDIVIDUAL,PAN,8602313,Commerical,2,6/12/2021,7/20/2021,7/12/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+150,DEBORAH,Male,North,DELHI,110062,INDIVIDUAL,PAN,3484281,Commerical,9,6/2/2021,9/27/2021,7/2/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+151,KATHERINE,Male,North,DELHI,110050,INDIVIDUAL,PASSPORT,711597509,Commerical,7,3/11/2021,6/21/2021,4/11/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+152,WENDY,Male,North,DELHI,110042,INDIVIDUAL,VOTER_ID,75542,Residential,12,1/10/2021,9/4/2021,2/10/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+153,EDDIE,Male,North,DELHI,110001,INDIVIDUAL,AADHAR,4.19E+11,Commerical,1,8/1/2021,9/3/2021,9/1/2021,Approved,2456,RAHUL SINGH,Installation pending
+154,CINDY,Male,North,DELHI,110045,INDIVIDUAL,VOTER_ID,70778,Commerical,12,6/17/2021,6/5/2021,7/17/2021,Approved,1460,HEM CHAND,Installation pending
+155,ALAN,Male,North,DELHI,110019,INDIVIDUAL,VOTER_ID,95974,Residential,5,4/13/2021,10/5/2021,5/13/2021,Connection Released,1678,Manoj Pandey,Installation completed
+156,DEBBIE,Male,North,DELHI,110055,INDIVIDUAL,VOTER_ID,90842,Residential,7,9/21/2021,3/10/2021,10/21/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+157,TINA,Male,North,DELHI,110041,INDIVIDUAL,PAN,3603760,Commerical,12,2/1/2021,2/17/2021,3/1/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+158,JIMMY,Male,North,DELHI,110028,INDIVIDUAL,PASSPORT,567517110,Commerical,8,12/21/2021,8/27/2021,1/21/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+159,DAWN,Male,North,DELHI,110023,INDIVIDUAL,PAN,3671327,Residential,1,1/28/2021,11/21/2021,2/28/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+160,KATHLEEN,Male,North,DELHI,110038,JOINT,PAN,6786439,Residential,5,7/1/2021,7/10/2021,8/1/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+161,DENNIS,Male,North,DELHI,110042,JOINT,VOTER_ID,96070,Residential,12,11/15/2021,12/19/2021,12/15/2021,Approved,4510,VINOD GUPTA,Installation pending
+162,CRYSTAL,Male,North,DELHI,110058,INDIVIDUAL,PASSPORT,636147164,Commerical,3,4/16/2021,8/30/2021,5/16/2021,Approved,2456,RAHUL SINGH,Installation pending
+163,LESLIE,Male,North,DELHI,110017,INDIVIDUAL,VOTER_ID,95742,Residential,7,5/3/2021,4/7/2021,6/3/2021,Approved,2456,RAHUL SINGH,Installation pending
+164,JILL,Male,North,DELHI,110003,INDIVIDUAL,PASSPORT,514965405,Residential,10,8/3/2021,2/20/2021,9/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+165,ROBIN,Male,North,DELHI,110048,INDIVIDUAL,PAN,2538243,Residential,12,8/9/2021,8/27/2021,9/9/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+166,IAN,Male,North,DELHI,110048,INDIVIDUAL,VOTER_ID,76004,Residential,1,10/18/2021,11/16/2021,11/18/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+167,BRYAN,Male,North,DELHI,110019,INDIVIDUAL,VOTER_ID,82040,Commerical,7,12/26/2021,9/16/2021,1/26/2022,Approved,2456,RAHUL SINGH,Installation pending
+168,JESSE,Male,North,DELHI,110042,INDIVIDUAL,VOTER_ID,90577,Residential,8,8/14/2021,11/3/2021,9/14/2021,Approved,1678,Manoj Pandey,Installation pending
+169,ALEXANDER,Male,North,DELHI,110038,INDIVIDUAL,VOTER_ID,80188,Commerical,1,1/7/2021,3/24/2021,2/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+170,HENRY,Male,North,DELHI,110015,JOINT,AADHAR,3.56E+11,Commerical,12,4/27/2021,12/7/2021,5/27/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+171,KRISTIN,Male,North,DELHI,110027,INDIVIDUAL,PAN,7507442,Commerical,6,1/23/2021,3/3/2021,2/23/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+172,PAMELA,Male,North,DELHI,110051,INDIVIDUAL,AADHAR,6.61E+11,Residential,8,3/19/2021,7/29/2021,4/19/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+173,CRAIG,Male,North,DELHI,110035,INDIVIDUAL,AADHAR,7.24E+11,Residential,9,11/7/2021,11/16/2021,12/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+174,BETH,Male,North,DELHI,110065,INDIVIDUAL,VOTER_ID,77416,Residential,3,4/5/2021,1/1/2022,5/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+175,JANET,Male,North,DELHI,110020,INDIVIDUAL,AADHAR,6.81E+11,Residential,12,10/15/2021,5/27/2021,11/15/2021,Approved,1460,HEM CHAND,Installation pending
+176,LORI,Male,North,DELHI,110023,INDIVIDUAL,PAN,9528616,Residential,7,9/23/2021,6/26/2021,10/23/2021,Approved,1460,HEM CHAND,Installation pending
+177,JANE,Male,North,DELHI,110029,INDIVIDUAL,VOTER_ID,96836,Commerical,12,12/22/2021,8/26/2021,1/22/2022,Approved,1678,Manoj Pandey,Installation pending
+178,GREGORY,Male,North,DELHI,110058,INDIVIDUAL,PAN,1672138,Commerical,12,6/16/2021,9/20/2021,7/16/2021,Connection Released,1678,Manoj Pandey,Installation completed
+179,NATASHA,Male,North,DELHI,110050,INDIVIDUAL,PAN,6201560,Commerical,7,11/7/2021,11/27/2021,12/7/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+180,JEN,Male,North,DELHI,110046,INDIVIDUAL,VOTER_ID,89049,Commerical,8,7/9/2021,1/11/2022,8/9/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+181,JORDAN,Male,North,DELHI,110057,INDIVIDUAL,AADHAR,6.85E+11,Residential,6,10/7/2021,8/16/2021,11/7/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+182,SHAWN,Male,North,DELHI,110052,INDIVIDUAL,PASSPORT,171004150,Residential,12,3/9/2021,1/23/2022,4/9/2021,Approved,2456,RAHUL SINGH,Installation pending
+183,KYLE,Male,North,DELHI,110041,JOINT,AADHAR,9.89E+11,Commerical,5,8/20/2021,2/1/2021,9/20/2021,Connection Released,1460,HEM CHAND,Installation completed
+184,THERESA,Male,North,DELHI,110043,JOINT,PAN,2329125,Residential,11,1/7/2021,7/22/2021,2/7/2021,Connection Released,1678,Manoj Pandey,Installation completed
+185,CAROLINE,Male,North,DELHI,110062,INDIVIDUAL,PASSPORT,953809090,Residential,7,12/30/2021,6/26/2021,1/30/2022,Connection Released,1460,HEM CHAND,Installation completed
+186,JOANNE,Male,North,DELHI,110051,INDIVIDUAL,AADHAR,7.99E+11,Commerical,12,5/29/2021,5/8/2021,6/29/2021,Connection Released,1678,Manoj Pandey,Installation completed
+187,JOEL,Male,North,DELHI,110009,INDIVIDUAL,PAN,9625550,Commerical,4,7/22/2021,9/16/2021,8/22/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+188,ANGEL,Male,North,DELHI,110032,INDIVIDUAL,VOTER_ID,98218,Residential,9,3/26/2021,5/7/2021,4/26/2021,Approved,1678,Manoj Pandey,Installation pending
+189,ALICIA,Male,North,DELHI,110024,INDIVIDUAL,VOTER_ID,97034,Commerical,5,11/1/2021,11/26/2021,12/1/2021,Approved,2456,RAHUL SINGH,Installation pending
+190,JOEY,Male,North,DELHI,110056,INDIVIDUAL,PASSPORT,266349880,Commerical,6,4/24/2021,1/27/2022,5/24/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+191,CARMEN,Male,North,DELHI,110052,INDIVIDUAL,AADHAR,8.65E+11,Commerical,2,6/27/2021,7/12/2021,7/27/2021,Approved,1678,Manoj Pandey,Installation pending
+192,KEN,Male,North,DELHI,110042,INDIVIDUAL,VOTER_ID,88167,Commerical,5,5/18/2021,8/26/2021,6/18/2021,Connection Released,1460,HEM CHAND,Installation completed
+193,ELLEN,Male,North,DELHI,110015,JOINT,PAN,1831541,Residential,10,11/21/2021,6/15/2021,12/21/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+194,LINDSAY,Male,North,DELHI,110020,INDIVIDUAL,PASSPORT,737203164,Commerical,9,9/6/2021,3/9/2021,10/6/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+195,VALERIE,Male,North,DELHI,110031,INDIVIDUAL,VOTER_ID,85927,Residential,10,9/29/2021,11/27/2021,10/29/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+196,ANN,Male,North,DELHI,110061,INDIVIDUAL,VOTER_ID,78698,Residential,1,4/25/2021,5/17/2021,5/25/2021,Approved,4510,VINOD GUPTA,Installation pending
+197,TRACY,Male,North,DELHI,110036,INDIVIDUAL,AADHAR,3.88E+11,Residential,9,5/5/2021,8/26/2021,6/5/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+198,COURTNEY,Male,North,DELHI,110003,INDIVIDUAL,VOTER_ID,82240,Commerical,2,7/26/2021,6/30/2021,8/26/2021,Approved,4510,VINOD GUPTA,Installation pending
+199,MELANIE,Male,North,DELHI,110031,INDIVIDUAL,PASSPORT,214914488,Residential,9,5/28/2021,9/22/2021,6/28/2021,Approved,1678,Manoj Pandey,Installation pending
+200,BENJAMIN,Male,North,DELHI,110004,INDIVIDUAL,AADHAR,9.44E+11,Residential,10,12/17/2021,1/31/2022,1/17/2022,Approved,1460,HEM CHAND,Installation pending
+201,PHILIP,Male,North,DELHI,110048,INDIVIDUAL,PASSPORT,268712464,Residential,3,1/25/2021,7/12/2021,2/25/2021,Approved,2456,RAHUL SINGH,Installation pending
+202,JEAN,Male,North,DELHI,110043,INDIVIDUAL,VOTER_ID,93499,Commerical,7,12/29/2021,6/9/2021,1/29/2022,Connection Released,4510,VINOD GUPTA,Installation completed
+203,KENNETH,Male,North,DELHI,110006,INDIVIDUAL,AADHAR,1.87E+11,Residential,4,4/7/2021,6/22/2021,5/7/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+204,SHANNON,Male,North,DELHI,110030,INDIVIDUAL,PASSPORT,786547609,Residential,10,9/5/2021,2/28/2021,10/5/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+205,LARRY,Male,North,DELHI,110001,INDIVIDUAL,PAN,2196970,Commerical,2,1/14/2021,3/2/2021,2/14/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+206,STACEY,Male,North,DELHI,110021,INDIVIDUAL,VOTER_ID,99574,Residential,1,8/5/2021,7/11/2021,9/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+207,WILL,Male,North,DELHI,110008,JOINT,AADHAR,3.88E+11,Residential,4,6/1/2021,2/28/2021,7/1/2021,Connection Released,1460,HEM CHAND,Installation completed
+208,ALISON,Male,North,DELHI,110001,INDIVIDUAL,PAN,8174983,Residential,1,10/10/2021,8/11/2021,11/10/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+209,ALEXIS,Male,North,DELHI,110003,INDIVIDUAL,AADHAR,9.01E+11,Residential,3,1/28/2021,6/30/2021,2/28/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+210,BOB,Male,North,DELHI,110048,INDIVIDUAL,AADHAR,2.79E+11,Residential,9,5/12/2021,6/27/2021,6/12/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+211,RAYMOND,Male,North,DELHI,110034,INDIVIDUAL,PASSPORT,45239882,Commerical,5,2/25/2021,7/25/2021,3/25/2021,Connection Released,1678,Manoj Pandey,Installation completed
+212,GRACE,Male,North,DELHI,110023,INDIVIDUAL,PASSPORT,607651256,Residential,12,9/3/2021,5/24/2021,10/3/2021,Approved,2456,RAHUL SINGH,Installation pending
+213,JUDY,Male,North,DELHI,110003,INDIVIDUAL,PAN,3703652,Commerical,3,2/27/2021,1/30/2022,3/27/2021,Approved,1678,Manoj Pandey,Installation pending
+214,MARGARET,Male,North,DELHI,110022,INDIVIDUAL,AADHAR,4.13E+11,Residential,1,12/13/2021,9/5/2021,1/13/2022,Approved,2456,RAHUL SINGH,Installation pending
+215,VERÓNICA,Male,North,DELHI,110046,INDIVIDUAL,AADHAR,8.72E+11,Residential,1,9/16/2021,4/13/2021,10/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+216,ALI,Male,North,DELHI,110045,INDIVIDUAL,PASSPORT,22804188,Residential,8,6/23/2021,8/23/2021,7/23/2021,Connection Released,1460,HEM CHAND,Installation completed
+217,ANNIE,Male,North,DELHI,110001,INDIVIDUAL,VOTER_ID,93761,Residential,4,4/30/2021,10/15/2021,5/30/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+218,HELEN,Male,North,DELHI,110002,INDIVIDUAL,VOTER_ID,89102,Residential,1,2/25/2021,1/9/2022,3/25/2021,Connection Released,1460,HEM CHAND,Installation completed
+219,JORGE,Male,North,DELHI,110003,JOINT,PASSPORT,662438660,Residential,6,7/3/2021,5/17/2021,8/3/2021,Approved,1678,Manoj Pandey,Installation pending
+220,MAX,Male,North,DELHI,110054,INDIVIDUAL,AADHAR,2.15E+11,Residential,6,6/5/2021,1/25/2022,7/5/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+221,EVAN,Male,North,DELHI,110046,INDIVIDUAL,VOTER_ID,81124,Residential,7,9/8/2021,4/26/2021,10/8/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+222,JOHNNY,Male,North,DELHI,110027,INDIVIDUAL,AADHAR,9.91E+11,Commerical,8,9/9/2021,6/18/2021,10/9/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+223,JOANNA,Male,North,DELHI,110034,INDIVIDUAL,AADHAR,8.59E+11,Commerical,11,7/10/2021,7/8/2021,8/10/2021,Connection Released,1678,Manoj Pandey,Installation completed
+224,CLAUDIA,Male,North,DELHI,110017,INDIVIDUAL,PAN,7867655,Residential,5,1/26/2021,9/7/2021,2/26/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+225,CAROLYN,Male,North,DELHI,110039,INDIVIDUAL,VOTER_ID,86494,Commerical,10,2/27/2021,12/29/2021,3/27/2021,Approved,1460,HEM CHAND,Installation pending
+226,ERIKA,Male,North,DELHI,110016,INDIVIDUAL,PAN,4654911,Commerical,11,8/18/2021,2/1/2021,9/18/2021,Approved,1678,Manoj Pandey,Installation pending
+227,RON,Male,North,DELHI,110044,INDIVIDUAL,AADHAR,9.02E+11,Residential,1,5/6/2021,11/30/2021,6/6/2021,Approved,2456,RAHUL SINGH,Installation pending
+228,TIMOTHY,Male,North,DELHI,110007,INDIVIDUAL,VOTER_ID,87098,Commerical,7,5/27/2021,2/4/2021,6/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+229,JÉRRY,Male,North,DELHI,110052,INDIVIDUAL,AADHAR,6.89E+11,Residential,9,4/21/2021,2/1/2022,5/21/2021,Connection Released,1678,Manoj Pandey,Installation completed
+230,RAY,Male,North,DELHI,110064,INDIVIDUAL,VOTER_ID,76563,Commerical,10,4/8/2021,12/7/2021,5/8/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+231,ANDRE,Male,North,DELHI,110054,INDIVIDUAL,PAN,2614921,Commerical,9,9/5/2021,5/19/2021,10/5/2021,Approved,1678,Manoj Pandey,Installation pending
+232,RICH,Male,North,DELHI,110041,INDIVIDUAL,PASSPORT,410561927,Residential,10,3/4/2021,7/24/2021,4/4/2021,Approved,2456,RAHUL SINGH,Installation pending
+233,LOUIS,Male,North,DELHI,110052,JOINT,VOTER_ID,82008,Residential,2,10/13/2021,11/30/2021,11/13/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+234,TOMMY,Male,North,DELHI,110026,INDIVIDUAL,PAN,7370890,Commerical,9,12/14/2021,8/20/2021,1/14/2022,Connection Released,1678,Manoj Pandey,Installation completed
+235,MARTIN,Male,North,DELHI,110062,INDIVIDUAL,AADHAR,6.86E+11,Residential,3,8/17/2021,1/2/2022,9/17/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+236,MAUREEN,Male,North,DELHI,110002,INDIVIDUAL,AADHAR,7.81E+11,Residential,9,7/3/2021,1/28/2022,8/3/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+237,MÏGÛÉL,Male,North,DELHI,110022,INDIVIDUAL,AADHAR,8.51E+11,Residential,6,4/6/2021,8/22/2021,5/6/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+238,CHERYL,Male,North,DELHI,110043,INDIVIDUAL,PAN,3581928,Commerical,8,4/23/2021,7/21/2021,5/23/2021,Approved,1678,Manoj Pandey,Installation pending
+239,CATHY,Male,North,DELHI,110007,INDIVIDUAL,AADHAR,7.51E+11,Commerical,5,5/26/2021,1/3/2022,6/26/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+240,EILEEN,Male,North,DELHI,110058,INDIVIDUAL,AADHAR,2.43E+11,Commerical,2,11/3/2021,3/4/2021,12/3/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+241,TODD,Male,North,DELHI,110018,JOINT,AADHAR,5.53E+11,Commerical,11,10/1/2021,10/11/2021,11/1/2021,Connection Released,1678,Manoj Pandey,Installation completed
+242,BÏLLY,Male,North,DELHI,110018,INDIVIDUAL,AADHAR,9.45E+11,Commerical,8,3/21/2021,9/4/2021,4/21/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+243,TANYA,Male,North,DELHI,110050,INDIVIDUAL,AADHAR,4.47E+11,Commerical,2,10/3/2021,6/8/2021,11/3/2021,Connection Released,1678,Manoj Pandey,Installation completed
+244,PAULA,Male,North,DELHI,110022,INDIVIDUAL,VOTER_ID,86755,Commerical,1,4/10/2021,1/23/2022,5/10/2021,Approved,2456,RAHUL SINGH,Installation pending
+245,SANDY,Male,North,DELHI,110038,INDIVIDUAL,PASSPORT,603469165,Residential,9,7/22/2021,7/23/2021,8/22/2021,Approved,4510,VINOD GUPTA,Installation pending
+246,SUZANNE,Male,North,DELHI,110014,INDIVIDUAL,PAN,5746207,Commerical,7,7/31/2021,4/2/2021,8/31/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+247,CHARLIE,Male,North,DELHI,110050,INDIVIDUAL,VOTER_ID,93311,Commerical,6,6/4/2021,12/5/2021,7/4/2021,Connection Released,1678,Manoj Pandey,Installation completed
+248,JASMINE,Male,North,DELHI,110020,INDIVIDUAL,AADHAR,3.31E+11,Residential,2,6/20/2021,6/18/2021,7/20/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+249,EVELYN,Male,North,DELHI,110045,INDIVIDUAL,VOTER_ID,95488,Residential,10,8/27/2021,11/5/2021,9/27/2021,Connection Released,1460,HEM CHAND,Installation completed
+250,SABRINA,Male,North,DELHI,110005,INDIVIDUAL,VOTER_ID,86266,Residential,7,5/21/2021,2/28/2021,6/21/2021,Connection Released,1460,HEM CHAND,Installation completed
+251,NINA,Male,North,DELHI,110041,INDIVIDUAL,AADHAR,5.90E+11,Commerical,2,6/22/2021,5/14/2021,7/22/2021,Approved,1460,HEM CHAND,Installation pending
+252,RENEE,Male,North,DELHI,110018,INDIVIDUAL,AADHAR,9.67E+11,Residential,2,10/30/2021,2/9/2021,11/30/2021,Approved,2456,RAHUL SINGH,Installation pending
+253,RICK,Male,North,DELHI,110016,INDIVIDUAL,PASSPORT,25169447,Residential,5,7/3/2021,2/15/2021,8/3/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+254,MONIQUE,Male,North,DELHI,110026,INDIVIDUAL,AADHAR,1.78E+11,Commerical,7,1/21/2021,6/19/2021,2/21/2021,Approved,2456,RAHUL SINGH,Installation pending
+255,LEE,Male,North,DELHI,110018,JOINT,VOTER_ID,74005,Residential,6,8/4/2021,12/29/2021,9/4/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+256,BOBBY,Male,North,DELHI,110051,INDIVIDUAL,PASSPORT,416619713,Residential,11,8/3/2021,4/15/2021,9/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+257,BRITTANY,Male,North,DELHI,110048,INDIVIDUAL,PAN,5985110,Commerical,11,5/5/2021,8/28/2021,6/5/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+258,ED,Male,North,DELHI,110036,INDIVIDUAL,PAN,9396273,Commerical,2,8/9/2021,11/19/2021,9/9/2021,Approved,1678,Manoj Pandey,Installation pending
+259,MARIO,Male,North,DELHI,110056,INDIVIDUAL,PASSPORT,884108221,Residential,6,7/28/2021,2/27/2021,8/28/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+260,EDWIN,Male,North,DELHI,110052,JOINT,AADHAR,5.42E+11,Residential,5,9/5/2021,11/17/2021,10/5/2021,Connection Released,1678,Manoj Pandey,Installation completed
+261,DEBRA,Male,North,DELHI,110013,INDIVIDUAL,PASSPORT,57779144,Commerical,7,8/14/2021,5/27/2021,9/14/2021,Approved,1678,Manoj Pandey,Installation pending
+262,DEREK,Male,North,DELHI,110062,INDIVIDUAL,AADHAR,8.72E+11,Commerical,9,10/3/2021,3/24/2021,11/3/2021,Approved,4510,VINOD GUPTA,Installation pending
+263,STACY,Male,North,DELHI,110064,INDIVIDUAL,AADHAR,1.37E+11,Commerical,2,9/12/2021,7/9/2021,10/12/2021,Approved,2456,RAHUL SINGH,Installation pending
+264,JOAN,Male,North,DELHI,110010,INDIVIDUAL,VOTER_ID,82174,Commerical,2,8/4/2021,1/24/2022,9/4/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+265,PAT,Male,North,DELHI,110063,INDIVIDUAL,AADHAR,1.22E+11,Commerical,7,2/10/2021,4/19/2021,3/10/2021,Connection Released,1678,Manoj Pandey,Installation completed
+266,GABRIEL,Male,North,DELHI,110048,INDIVIDUAL,PAN,3572447,Commerical,11,1/17/2021,5/29/2021,2/17/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+267,KENNY,Male,North,DELHI,110030,INDIVIDUAL,AADHAR,1.00E+12,Commerical,9,7/27/2021,1/13/2022,8/27/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+268,OMAR,Male,North,DELHI,110028,INDIVIDUAL,VOTER_ID,81860,Commerical,11,11/16/2021,11/2/2021,12/16/2021,Approved,1678,Manoj Pandey,Installation pending
+269,JAKE,Male,North,DELHI,110039,INDIVIDUAL,AADHAR,2.89E+11,Residential,7,4/28/2021,9/21/2021,5/28/2021,Approved,4510,VINOD GUPTA,Installation pending
+270,JAIME,Male,North,DELHI,110004,INDIVIDUAL,PAN,8424260,Residential,12,10/21/2021,11/21/2021,11/21/2021,Connection Released,1460,HEM CHAND,Installation completed
+271,LEAH,Male,North,DELHI,110035,INDIVIDUAL,PAN,8203566,Residential,2,8/6/2021,4/8/2021,9/6/2021,Approved,1460,HEM CHAND,Installation pending
+272,ALICE,Male,North,DELHI,110065,INDIVIDUAL,AADHAR,3.87E+11,Commerical,2,1/22/2021,2/24/2021,2/22/2021,Approved,1678,Manoj Pandey,Installation pending
+273,IRENE,Male,North,DELHI,110012,INDIVIDUAL,PASSPORT,628905801,Commerical,12,6/10/2021,9/28/2021,7/10/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+274,ANTONIO,Male,North,DELHI,110004,JOINT,AADHAR,3.69E+11,Residential,12,11/19/2021,12/24/2021,12/19/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+275,MAGGIE,Male,North,DELHI,110053,INDIVIDUAL,PASSPORT,327908774,Commerical,11,7/30/2021,6/27/2021,8/30/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+276,PHIL,Male,North,DELHI,110023,INDIVIDUAL,VOTER_ID,87916,Commerical,5,2/26/2021,7/14/2021,3/26/2021,Approved,1678,Manoj Pandey,Installation pending
+277,ERIK,Male,North,DELHI,110041,INDIVIDUAL,VOTER_ID,88948,Residential,3,6/8/2021,8/10/2021,7/8/2021,Approved,1460,HEM CHAND,Installation pending
+278,COLLEEN,Male,North,DELHI,110046,INDIVIDUAL,VOTER_ID,92639,Residential,12,5/7/2021,1/31/2022,6/7/2021,Approved,1460,HEM CHAND,Installation pending
+279,ALYSSA,Male,North,DELHI,110051,INDIVIDUAL,AADHAR,3.97E+11,Residential,2,7/13/2021,6/30/2021,8/13/2021,Approved,4510,VINOD GUPTA,Installation pending
+280,RAFAEL,Male,North,DELHI,110004,JOINT,AADHAR,7.49E+11,Commerical,10,3/7/2021,12/17/2021,4/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+281,ROSE,Male,North,DELHI,110064,INDIVIDUAL,PAN,4690945,Residential,9,1/20/2021,6/30/2021,2/20/2021,Connection Released,1460,HEM CHAND,Installation completed
+282,KRISTINA,Male,North,DELHI,110010,INDIVIDUAL,PAN,2360313,Commerical,1,7/27/2021,12/26/2021,8/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+283,BRUCE,Male,North,DELHI,110029,INDIVIDUAL,VOTER_ID,70770,Commerical,11,11/19/2021,4/21/2021,12/19/2021,Approved,1460,HEM CHAND,Installation pending
+284,SAMUEL,Male,North,DELHI,110048,INDIVIDUAL,AADHAR,3.13E+11,Residential,11,10/6/2021,10/7/2021,11/6/2021,Approved,4510,VINOD GUPTA,Installation pending
+285,SONIA,Male,North,DELHI,110051,INDIVIDUAL,VOTER_ID,74590,Residential,6,10/16/2021,10/20/2021,11/16/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+286,ADRIÁN,Male,North,DELHI,110031,INDIVIDUAL,VOTER_ID,86638,Commerical,9,8/16/2021,11/25/2021,9/16/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+287,NIKKI,Male,North,DELHI,110018,INDIVIDUAL,PAN,4320680,Commerical,11,10/3/2021,2/19/2021,11/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+288,ELAINE,Male,North,DELHI,110032,INDIVIDUAL,PAN,9242719,Residential,3,2/24/2021,10/26/2021,3/24/2021,Connection Released,1678,Manoj Pandey,Installation completed
+289,GLORIA,Male,North,DELHI,110051,INDIVIDUAL,PASSPORT,273099507,Commerical,3,11/7/2021,6/2/2021,12/7/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+290,BRENDA,Male,North,DELHI,110042,INDIVIDUAL,AADHAR,9.02E+11,Residential,2,3/22/2021,6/23/2021,4/22/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+291,JENNA,Male,North,DELHI,110033,INDIVIDUAL,AADHAR,7.94E+11,Commerical,6,6/19/2021,2/28/2021,7/19/2021,Approved,2456,RAHUL SINGH,Installation pending
+292,JOYCE,Male,North,DELHI,110024,INDIVIDUAL,VOTER_ID,95228,Residential,10,11/19/2021,10/9/2021,12/19/2021,Approved,1678,Manoj Pandey,Installation pending
+293,TERESA,Male,North,DELHI,110005,INDIVIDUAL,AADHAR,8.71E+11,Residential,3,2/3/2021,3/15/2021,3/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+294,NEIL,Male,North,DELHI,110021,JOINT,AADHAR,7.82E+11,Residential,10,6/29/2021,3/15/2021,7/29/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+295,ELENA,Male,North,DELHI,110025,INDIVIDUAL,PAN,5977441,Residential,1,10/16/2021,1/10/2022,11/16/2021,Connection Released,1460,HEM CHAND,Installation completed
+296,RONALD,Male,North,DELHI,110016,INDIVIDUAL,PASSPORT,280274260,Commerical,6,5/21/2021,3/2/2021,6/21/2021,Approved,1460,HEM CHAND,Installation pending
+297,ALBERT,Male,North,DELHI,110036,INDIVIDUAL,PAN,1752549,Residential,3,7/13/2021,3/3/2021,8/13/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+298,MARINA,Male,North,DELHI,110014,INDIVIDUAL,VOTER_ID,86568,Residential,3,12/1/2021,12/7/2021,1/1/2022,Connection Released,1678,Manoj Pandey,Installation completed
+299,CARL,Male,North,DELHI,110060,JOINT,PAN,4553378,Commerical,1,4/27/2021,7/17/2021,5/27/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+300,CLAIRE,Male,North,DELHI,110036,INDIVIDUAL,PASSPORT,998098223,Residential,3,5/26/2021,3/25/2021,6/26/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+301,RUTH,Male,North,DELHI,110041,INDIVIDUAL,PAN,7141779,Residential,11,7/26/2021,2/2/2021,8/26/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+302,MEREDITH,Male,North,DELHI,110028,INDIVIDUAL,PAN,4162655,Residential,12,8/20/2021,7/28/2021,9/20/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+303,RANDY,Male,North,DELHI,110036,INDIVIDUAL,VOTER_ID,97559,Commerical,9,2/3/2021,5/21/2021,3/3/2021,Approved,2456,RAHUL SINGH,Installation pending
+304,IVÁN,Male,North,DELHI,110049,INDIVIDUAL,PASSPORT,123717197,Commerical,11,9/24/2021,7/24/2021,10/24/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+305,JACOB,Male,North,DELHI,110055,INDIVIDUAL,AADHAR,9.91E+11,Residential,3,6/16/2021,9/9/2021,7/16/2021,Approved,1460,HEM CHAND,Installation pending
+306,JARED,Male,North,DELHI,110016,INDIVIDUAL,PASSPORT,728059726,Residential,10,11/2/2021,11/6/2021,12/2/2021,Approved,1678,Manoj Pandey,Installation pending
+307,LAURIE,Male,North,DELHI,110019,INDIVIDUAL,VOTER_ID,84838,Residential,3,10/27/2021,8/28/2021,11/27/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+308,HÉCTOR,Male,North,DELHI,110013,INDIVIDUAL,AADHAR,2.74E+11,Residential,6,12/11/2021,5/10/2021,1/11/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+309,MEGHAN,Male,North,DELHI,110059,INDIVIDUAL,VOTER_ID,98215,Residential,10,7/16/2021,8/17/2021,8/16/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+310,MIRIAM,Male,North,DELHI,110018,INDIVIDUAL,AADHAR,6.00E+11,Residential,3,10/5/2021,11/2/2021,11/5/2021,Approved,1678,Manoj Pandey,Installation pending
+311,LYNN,Male,North,DELHI,110052,JOINT,PAN,8117463,Commerical,3,3/18/2021,7/20/2021,4/18/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+312,BRAD,Male,North,DELHI,110034,INDIVIDUAL,AADHAR,6.73E+11,Commerical,2,12/23/2021,12/11/2021,1/23/2022,Connection Released,1678,Manoj Pandey,Installation completed
+313,LUCY,Male,North,DELHI,110029,INDIVIDUAL,VOTER_ID,79126,Residential,6,7/3/2021,6/6/2021,8/3/2021,Approved,1678,Manoj Pandey,Installation pending
+314,RICARDO,Male,North,DELHI,110036,INDIVIDUAL,PAN,1084875,Commerical,4,11/4/2021,3/16/2021,12/4/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+315,EMMA,Male,North,DELHI,110045,INDIVIDUAL,PAN,1247157,Commerical,9,2/11/2021,7/15/2021,3/11/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+316,CARRIE,Male,North,DELHI,110058,INDIVIDUAL,AADHAR,4.15E+11,Residential,1,7/29/2021,9/8/2021,8/29/2021,Approved,2456,RAHUL SINGH,Installation pending
+317,BRËNDAN,Male,North,DELHI,110057,INDIVIDUAL,PAN,3440757,Residential,7,1/1/2021,11/29/2021,2/1/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+318,REGINA,Male,North,DELHI,110065,INDIVIDUAL,PASSPORT,680830075,Residential,2,6/22/2021,11/4/2021,7/22/2021,Connection Released,1460,HEM CHAND,Installation completed
+319,HANNAH,Male,North,DELHI,110004,INDIVIDUAL,VOTER_ID,98882,Residential,4,5/26/2021,1/29/2022,6/26/2021,Connection Released,1460,HEM CHAND,Installation completed
+320,CRISTINA,Male,North,DELHI,110003,JOINT,PASSPORT,337504092,Commerical,3,11/19/2021,6/30/2021,12/19/2021,Approved,1678,Manoj Pandey,Installation pending
+321,ARIEL,Male,North,DELHI,110018,JOINT,PASSPORT,408034043,Commerical,4,1/16/2021,2/17/2021,2/16/2021,Approved,1460,HEM CHAND,Installation pending
+322,ESTHER,Male,North,DELHI,110009,INDIVIDUAL,AADHAR,2.30E+11,Commerical,5,4/8/2021,12/14/2021,5/8/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+323,COREY,Male,North,DELHI,110049,JOINT,VOTER_ID,81603,Residential,8,11/26/2021,1/13/2022,12/26/2021,Approved,4510,VINOD GUPTA,Installation pending
+324,CAITLIN,Male,North,DELHI,110038,INDIVIDUAL,AADHAR,6.14E+11,Commerical,12,8/16/2021,2/23/2021,9/16/2021,Connection Released,1460,HEM CHAND,Installation completed
+325,EVA,Male,North,DELHI,110008,INDIVIDUAL,AADHAR,2.67E+11,Commerical,10,4/7/2021,8/22/2021,5/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+326,BRETT,Male,North,DELHI,110045,INDIVIDUAL,PAN,4507777,Residential,4,10/26/2021,7/22/2021,11/26/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+327,DOUGLAS,Male,North,DELHI,110034,INDIVIDUAL,AADHAR,7.47E+11,Residential,9,12/27/2021,10/20/2021,1/27/2022,Connection Released,1311,Sudhanshu Gupta,Installation completed
+328,EUGENE,Male,North,DELHI,110012,INDIVIDUAL,PASSPORT,482788945,Commerical,1,6/12/2021,11/23/2021,7/12/2021,Connection Released,1460,HEM CHAND,Installation completed
+329,DOUG,Male,North,DELHI,110012,INDIVIDUAL,PASSPORT,933240949,Commerical,12,7/26/2021,6/19/2021,8/26/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+330,FRED,Male,North,DELHI,110022,INDIVIDUAL,AADHAR,5.82E+11,Residential,10,5/15/2021,2/3/2021,6/15/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+331,TERRY,Male,North,DELHI,110017,INDIVIDUAL,PAN,5818951,Residential,3,2/9/2021,1/23/2022,3/9/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+332,DON,Male,North,DELHI,110005,JOINT,AADHAR,9.05E+11,Residential,5,10/27/2021,6/13/2021,11/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+333,SIMÓN,Male,North,DELHI,110012,JOINT,VOTER_ID,95146,Commerical,3,4/17/2021,9/29/2021,5/17/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+334,RALPH,Male,North,DELHI,110043,INDIVIDUAL,PAN,6378896,Commerical,11,7/26/2021,11/1/2021,8/26/2021,Connection Released,1678,Manoj Pandey,Installation completed
+335,SETH,Male,North,DELHI,110013,INDIVIDUAL,AADHAR,4.31E+11,Commerical,12,5/30/2021,4/9/2021,6/30/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+336,NATHAN,Male,North,DELHI,110041,INDIVIDUAL,AADHAR,4.34E+11,Commerical,1,8/22/2021,6/29/2021,9/22/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+337,JANICE,Male,North,DELHI,110037,INDIVIDUAL,AADHAR,7.43E+11,Residential,9,3/4/2021,3/25/2021,4/4/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+338,MARTHA,Male,North,DELHI,110041,INDIVIDUAL,VOTER_ID,84040,Commerical,6,1/25/2021,12/3/2021,2/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+339,MARISSA,Male,North,DELHI,110001,INDIVIDUAL,PASSPORT,931497517,Commerical,12,3/8/2021,2/21/2021,4/8/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+340,LORRAINE,Male,North,DELHI,110016,INDIVIDUAL,VOTER_ID,75470,Residential,5,7/13/2021,3/5/2021,8/13/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+341,MOLLY,Male,North,DELHI,110054,INDIVIDUAL,AADHAR,4.98E+11,Residential,8,9/12/2021,8/15/2021,10/12/2021,Pending,1460,HEM CHAND,Documents verification in progress
+342,VIVIAN,Male,North,DELHI,110050,JOINT,VOTER_ID,70521,Commerical,7,12/10/2021,12/23/2021,1/10/2022,Pending,1460,HEM CHAND,Documents verification in progress
+343,TAMARA,Male,North,DELHI,110051,INDIVIDUAL,AADHAR,3.35E+11,Residential,6,3/28/2021,11/19/2021,4/28/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+344,SHEILA,Male,North,DELHI,110060,INDIVIDUAL,PAN,6413123,Commerical,2,2/17/2021,10/12/2021,3/17/2021,Pending,1460,HEM CHAND,Documents verification in progress
+345,BARRY,Male,North,DELHI,110014,INDIVIDUAL,VOTER_ID,88053,Commerical,11,1/12/2021,9/22/2021,2/12/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+346,PETE,Male,North,DELHI,110002,INDIVIDUAL,PASSPORT,764335797,Commerical,1,3/16/2021,8/23/2021,4/16/2021,Approved,2456,RAHUL SINGH,Installation pending
+347,SOPHIA,Male,North,DELHI,110017,INDIVIDUAL,PASSPORT,305744996,Residential,11,1/25/2021,1/2/2022,2/25/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+348,MARILYN,Male,North,DELHI,110030,INDIVIDUAL,AADHAR,9.02E+11,Commerical,4,12/30/2021,5/8/2021,1/30/2022,Approved,1678,Manoj Pandey,Installation pending
+349,ARTHUR,Male,North,DELHI,110005,INDIVIDUAL,PAN,4917104,Commerical,12,3/12/2021,8/25/2021,4/12/2021,Approved,1460,HEM CHAND,Installation pending
+350,LAWRENCE,Male,North,DELHI,110038,INDIVIDUAL,PASSPORT,94652380,Commerical,6,5/2/2021,4/7/2021,6/2/2021,Approved,1678,Manoj Pandey,Installation pending
+351,OLGA,Male,North,DELHI,110047,JOINT,AADHAR,4.82E+11,Residential,12,12/12/2021,10/22/2021,1/12/2022,Approved,1678,Manoj Pandey,Installation pending
+352,TYLER,Male,North,DELHI,110055,JOINT,VOTER_ID,74595,Residential,6,9/1/2021,11/12/2021,10/1/2021,Approved,2456,RAHUL SINGH,Installation pending
+353,ÓSCAR,Male,North,DELHI,110054,INDIVIDUAL,VOTER_ID,94923,Residential,5,10/30/2021,5/28/2021,11/30/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+354,KERRY,Male,North,DELHI,110017,JOINT,PAN,6850743,Residential,7,5/22/2021,8/4/2021,6/22/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+355,JULIO,Male,North,DELHI,110053,INDIVIDUAL,VOTER_ID,88898,Residential,5,9/20/2021,11/12/2021,10/20/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+356,CARLA,Male,North,DELHI,110015,INDIVIDUAL,PASSPORT,959945742,Residential,12,10/2/2021,10/27/2021,11/2/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+357,YVONNE,Male,North,DELHI,110032,INDIVIDUAL,PASSPORT,71293756,Commerical,5,10/13/2021,5/6/2021,11/13/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+358,SASHA,Male,North,DELHI,110008,INDIVIDUAL,PASSPORT,380637930,Residential,1,4/6/2021,,5/6/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+359,HARRY,Male,North,DELHI,110012,INDIVIDUAL,AADHAR,3.92E+11,Commerical,2,12/2/2021,,1/2/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+360,TRAVIS,Male,North,DELHI,110048,INDIVIDUAL,PASSPORT,256053316,Residential,3,8/3/2021,,9/3/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+361,JULIAN,Male,North,DELHI,110010,INDIVIDUAL,VOTER_ID,89615,Commerical,3,9/10/2021,,10/10/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+362,DINA,Male,North,DELHI,110029,INDIVIDUAL,VOTER_ID,78390,Residential,2,4/9/2021,,5/9/2021,Pending,1460,HEM CHAND,Documents verification in progress
+363,RITA,Male,North,DELHI,110043,JOINT,PASSPORT,239878526,Commerical,2,8/21/2021,,9/21/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+364,ROGER,Male,South,DELHI,110045,JOINT,VOTER_ID,89773,Residential,5,7/13/2021,,8/13/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+365,ANGIE,Male,South,DELHI,110053,INDIVIDUAL,VOTER_ID,99378,Commerical,10,9/1/2021,6/12/2021,10/1/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+366,JOY,Male,South,DELHI,110010,INDIVIDUAL,PASSPORT,384637089,Commerical,9,3/23/2021,9/13/2021,4/23/2021,Approved,4510,VINOD GUPTA,Installation pending
+367,NELSON,Male,South,DELHI,110051,INDIVIDUAL,AADHAR,3.88E+11,Commerical,10,1/27/2021,8/20/2021,2/27/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+368,JUDITH,Male,South,DELHI,110049,INDIVIDUAL,PASSPORT,731230196,Residential,4,2/21/2021,6/15/2021,3/21/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+369,APRIL,Male,South,DELHI,110010,INDIVIDUAL,VOTER_ID,72493,Commerical,2,8/18/2021,,9/18/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+370,ROSA,Male,South,DELHI,110052,INDIVIDUAL,VOTER_ID,70273,Commerical,9,5/24/2021,,6/24/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+371,ANNETTE,Male,South,DELHI,110064,INDIVIDUAL,PASSPORT,542614500,Commerical,2,11/21/2021,,12/21/2021,Pending,1460,HEM CHAND,Documents verification in progress
+372,HOWARD,Male,South,DELHI,110056,INDIVIDUAL,VOTER_ID,99876,Commerical,7,10/5/2021,2/18/2021,11/5/2021,Approved,1460,HEM CHAND,Installation pending
+373,SHIRLEY,Male,South,DELHI,110036,JOINT,AADHAR,4.78E+11,Commerical,1,10/5/2021,8/12/2021,11/5/2021,Approved,4510,VINOD GUPTA,Installation pending
+374,MARCUS,Male,South,DELHI,110034,INDIVIDUAL,PASSPORT,783209302,Residential,7,12/17/2021,,1/17/2022,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+375,ANITA,Male,South,DELHI,110014,INDIVIDUAL,VOTER_ID,76918,Commerical,6,5/22/2021,,6/22/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+376,FERNANDO,Male,South,DELHI,110004,INDIVIDUAL,PASSPORT,628884506,Residential,6,9/26/2021,,10/26/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+377,GAIL,Male,South,DELHI,110006,INDIVIDUAL,PASSPORT,391839184,Residential,4,5/14/2021,3/9/2021,6/14/2021,Approved,4510,VINOD GUPTA,Installation pending
+378,RICKY,Male,South,DELHI,110064,INDIVIDUAL,VOTER_ID,98404,Residential,5,6/26/2021,12/18/2021,7/26/2021,Approved,1678,Manoj Pandey,Installation pending
+379,DONALD,Male,South,DELHI,110034,INDIVIDUAL,AADHAR,8.81E+11,Commerical,1,10/14/2021,,11/14/2021,Pending,1460,HEM CHAND,Documents verification in progress
+380,SUE,Male,South,DELHI,110009,INDIVIDUAL,PASSPORT,833928432,Residential,6,12/18/2021,,1/18/2022,Pending,4510,VINOD GUPTA,Documents verification in progress
+381,MARCO,Male,South,DELHI,110001,INDIVIDUAL,AADHAR,6.64E+11,Commerical,1,2/9/2021,,3/9/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+382,WAYNE,Male,South,DELHI,110060,JOINT,PASSPORT,588516064,Residential,2,3/6/2021,,4/6/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+383,JÓHANNA,Male,South,DELHI,110043,JOINT,PAN,4823514,Residential,10,9/9/2021,,10/9/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+384,ÖLIVIA,Male,South,DELHI,110036,INDIVIDUAL,PAN,1654481,Residential,9,3/3/2021,,4/3/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+385,TAYLOR,Male,South,DELHI,110040,JOINT,PASSPORT,175838076,Commerical,8,12/1/2021,,1/1/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+386,AMBER,Male,South,DELHI,110029,INDIVIDUAL,VOTER_ID,85260,Residential,2,2/10/2021,5/14/2021,3/10/2021,Approved,1460,HEM CHAND,Installation pending
+387,MARISA,Male,South,DELHI,110061,INDIVIDUAL,PASSPORT,382375170,Commerical,9,11/20/2021,7/17/2021,12/20/2021,Approved,2456,RAHUL SINGH,Installation pending
+388,AL,Male,South,DELHI,110021,INDIVIDUAL,PAN,3696499,Residential,2,9/16/2021,4/30/2021,10/16/2021,Approved,2456,RAHUL SINGH,Installation pending
+389,LINDSEY,Male,South,DELHI,110007,INDIVIDUAL,VOTER_ID,76666,Commerical,9,3/24/2021,10/24/2021,4/24/2021,Approved,1678,Manoj Pandey,Installation pending
+390,JILLIAN,Male,South,DELHI,110028,INDIVIDUAL,AADHAR,5.15E+11,Residential,11,5/9/2021,,6/9/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+391,NADIA,Male,South,DELHI,110016,INDIVIDUAL,PASSPORT,846741280,Commerical,5,10/31/2021,,11/30/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+392,ROBERTO,Male,South,DELHI,110008,INDIVIDUAL,PASSPORT,858241523,Residential,3,4/4/2021,,5/4/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+393,YVETTE,Male,South,DELHI,110004,INDIVIDUAL,PAN,2593187,Residential,4,12/17/2021,8/18/2021,1/17/2022,Approved,1678,Manoj Pandey,Installation pending
+394,FRANCISCO,Male,South,DELHI,110042,JOINT,AADHAR,4.86E+11,Commerical,4,8/24/2021,11/24/2021,9/24/2021,Approved,2456,RAHUL SINGH,Installation pending
+395,HOLLY,Male,South,DELHI,110033,JOINT,PAN,2493851,Commerical,11,12/28/2021,,1/28/2022,Pending,1460,HEM CHAND,Documents verification in progress
+396,YOLANDA,Male,South,DELHI,110054,INDIVIDUAL,PASSPORT,513270294,Residential,2,6/26/2021,,7/26/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+397,JOANN,Male,South,DELHI,110042,INDIVIDUAL,PASSPORT,576655151,Residential,12,6/23/2021,,7/23/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+398,SIMONE,Male,South,DELHI,110048,INDIVIDUAL,PAN,7725205,Residential,8,8/4/2021,,9/4/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+399,JESSIE,Male,South,DELHI,110008,INDIVIDUAL,PAN,4435836,Residential,3,11/17/2021,,12/17/2021,Pending,1460,HEM CHAND,Documents verification in progress
+400,ZACH,Male,South,DELHI,110047,INDIVIDUAL,PAN,2103877,Residential,6,2/15/2021,7/23/2021,3/15/2021,Approved,2456,RAHUL SINGH,Installation pending
+401,ANDRÉS,Male,South,DELHI,110015,INDIVIDUAL,PASSPORT,557780157,Residential,4,3/15/2021,7/22/2021,4/15/2021,Approved,1460,HEM CHAND,Installation pending
+402,PEDRO,Male,South,DELHI,110064,INDIVIDUAL,PASSPORT,369144272,Commerical,5,7/22/2021,6/7/2021,8/22/2021,Approved,1460,HEM CHAND,Installation pending
+403,LILY,Male,South,DELHI,110028,INDIVIDUAL,VOTER_ID,78267,Residential,4,4/10/2021,2/9/2021,5/10/2021,Approved,1678,Manoj Pandey,Installation pending
+404,DREW,Male,South,DELHI,110031,JOINT,PAN,6053694,Commerical,12,9/20/2021,,10/20/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+405,CHAD,Male,South,DELHI,110047,INDIVIDUAL,AADHAR,3.16E+11,Commerical,7,10/22/2021,,11/22/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+406,JAVIER,Male,South,DELHI,110048,INDIVIDUAL,PAN,2664255,Commerical,9,4/8/2021,,5/8/2021,Pending,1460,HEM CHAND,Documents verification in progress
+407,FRANCES,Male,South,DELHI,110047,INDIVIDUAL,PASSPORT,722107456,Residential,3,9/4/2021,9/1/2021,10/4/2021,Approved,1678,Manoj Pandey,Installation pending
+408,KATHRYN,Male,South,DELHI,110048,INDIVIDUAL,PASSPORT,881096867,Commerical,5,11/19/2021,10/24/2021,12/19/2021,Approved,4510,VINOD GUPTA,Installation pending
+409,LEO,Male,South,DELHI,110050,INDIVIDUAL,PAN,4937581,Residential,8,1/9/2021,,2/9/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+410,CAROLINA,Male,South,DELHI,110060,INDIVIDUAL,AADHAR,6.82E+11,Residential,12,2/25/2021,,3/25/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+411,NATALIA,Male,South,DELHI,110008,INDIVIDUAL,PASSPORT,805954197,Residential,5,4/25/2021,,5/25/2021,Pending,1460,HEM CHAND,Documents verification in progress
+412,HEIDI,Male,South,DELHI,110055,INDIVIDUAL,VOTER_ID,85718,Commerical,7,6/23/2021,,7/23/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+413,JOSEPHINE,Male,South,DELHI,110006,JOINT,VOTER_ID,85656,Residential,7,4/11/2021,,5/11/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+414,NAOMI,Male,South,DELHI,110038,JOINT,VOTER_ID,85574,Commerical,5,8/2/2021,3/4/2021,9/2/2021,Approved,2456,RAHUL SINGH,Installation pending
+415,CASEY,Male,South,DELHI,110007,INDIVIDUAL,VOTER_ID,94646,Residential,1,1/19/2021,7/15/2021,2/19/2021,Approved,4510,VINOD GUPTA,Installation pending
+416,BONNIE,Male,South,DELHI,110007,JOINT,AADHAR,7.31E+11,Residential,7,6/13/2021,8/13/2021,7/13/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+417,MANUEL,Male,South,DELHI,110049,INDIVIDUAL,PAN,4737486,Commerical,1,6/26/2021,1/31/2022,7/26/2021,Approved,4510,VINOD GUPTA,Installation pending
+418,WALTER,Male,South,DELHI,110020,INDIVIDUAL,PAN,4688843,Commerical,1,4/15/2021,,5/15/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+419,TRACEY,Male,South,DELHI,110043,INDIVIDUAL,VOTER_ID,77884,Commerical,2,7/15/2021,,8/15/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+420,DARREN,Male,South,DELHI,110044,INDIVIDUAL,VOTER_ID,79630,Residential,11,2/9/2021,,3/9/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+421,LUKE,Male,South,DELHI,110021,INDIVIDUAL,PAN,1739314,Commerical,2,12/25/2021,11/5/2021,1/25/2022,Approved,1460,HEM CHAND,Installation pending
+422,GLENN,Male,South,DELHI,110029,INDIVIDUAL,PASSPORT,688607767,Commerical,8,4/24/2021,11/9/2021,5/24/2021,Approved,4510,VINOD GUPTA,Installation pending
+423,CAMILLE,Male,South,DELHI,110046,INDIVIDUAL,PAN,6347756,Commerical,6,10/4/2021,,11/4/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+424,SALLY,Male,South,DELHI,110037,INDIVIDUAL,VOTER_ID,82686,Commerical,6,4/14/2021,,5/14/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+425,SYLVIA,Male,South,DELHI,110020,JOINT,VOTER_ID,85111,Commerical,11,6/30/2021,,7/30/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+426,ALLEN,Male,South,DELHI,110021,JOINT,AADHAR,4.96E+11,Residential,3,6/21/2021,,7/21/2021,Pending,1460,HEM CHAND,Documents verification in progress
+427,FELICIA,Male,South,DELHI,110042,INDIVIDUAL,VOTER_ID,79879,Commerical,11,4/6/2021,,5/6/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+428,IRIS,Male,South,DELHI,110056,INDIVIDUAL,PAN,3140820,Residential,8,6/20/2021,7/21/2021,7/20/2021,Approved,2456,RAHUL SINGH,Installation pending
+429,FELIX,Male,South,DELHI,110007,INDIVIDUAL,VOTER_ID,85817,Commerical,8,3/2/2021,3/12/2021,4/2/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+430,BIANCA,Male,South,DELHI,110044,INDIVIDUAL,PAN,6782427,Residential,3,8/14/2021,7/29/2021,9/14/2021,Approved,1678,Manoj Pandey,Installation pending
+431,ARLENE,Male,South,DELHI,110006,INDIVIDUAL,PAN,9803697,Commerical,12,1/3/2021,6/21/2021,2/3/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+432,KARINA,Male,South,DELHI,110045,INDIVIDUAL,PASSPORT,303436742,Commerical,12,2/3/2021,,3/3/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+433,COLIN,Male,South,DELHI,110034,INDIVIDUAL,PAN,1638728,Residential,5,5/25/2021,,6/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+434,BROOKE,Male,South,DELHI,110013,INDIVIDUAL,VOTER_ID,72252,Commerical,10,9/15/2021,,10/15/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+435,ABBY,Male,South,DELHI,110024,JOINT,PASSPORT,446961942,Commerical,5,5/5/2021,4/3/2021,6/5/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+436,MORGAN,Male,South,DELHI,110032,INDIVIDUAL,PASSPORT,817750203,Commerical,1,12/19/2021,5/11/2021,1/19/2022,Approved,1678,Manoj Pandey,Installation pending
+437,TED,Male,South,DELHI,110021,INDIVIDUAL,PASSPORT,431074150,Residential,7,11/4/2021,,12/4/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+438,ISAAC,Male,South,DELHI,110031,INDIVIDUAL,PASSPORT,851385046,Residential,7,8/2/2021,,9/2/2021,Pending,1460,HEM CHAND,Documents verification in progress
+439,JODI,Male,South,DELHI,110053,INDIVIDUAL,AADHAR,6.31E+11,Commerical,3,9/23/2021,,10/23/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+440,FRANCESCA,Male,South,DELHI,110062,INDIVIDUAL,AADHAR,8.04E+11,Residential,4,4/1/2021,,5/1/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+441,ADRIENNE,Male,South,DELHI,110062,INDIVIDUAL,PASSPORT,113786492,Residential,2,6/25/2021,,7/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+442,ANGELO,Male,South,DELHI,110028,INDIVIDUAL,VOTER_ID,78746,Residential,11,6/10/2021,4/9/2021,7/10/2021,Approved,1678,Manoj Pandey,Installation pending
+443,ELI,Male,South,DELHI,110058,INDIVIDUAL,PASSPORT,464208950,Residential,10,6/2/2021,2/28/2021,7/2/2021,Approved,1678,Manoj Pandey,Installation pending
+444,RUSSELL,Male,South,DELHI,110006,JOINT,AADHAR,6.60E+11,Residential,11,3/12/2021,12/18/2021,4/12/2021,Approved,1678,Manoj Pandey,Installation pending
+445,ADRIANA,Male,South,DELHI,110033,JOINT,VOTER_ID,81433,Residential,5,10/2/2021,11/15/2021,11/2/2021,Approved,1460,HEM CHAND,Installation pending
+446,TONI,Male,South,DELHI,110042,INDIVIDUAL,AADHAR,8.00E+11,Residential,6,2/5/2021,,3/5/2021,Pending,1460,HEM CHAND,Documents verification in progress
+447,CÉSAR,Male,South,DELHI,110058,JOINT,PASSPORT,121132687,Commerical,9,12/2/2021,,1/2/2022,Pending,1460,HEM CHAND,Documents verification in progress
+448,WANDA,Male,South,DELHI,110020,INDIVIDUAL,VOTER_ID,87231,Residential,5,7/14/2021,,8/14/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+449,SAL,Male,South,DELHI,110019,INDIVIDUAL,VOTER_ID,97435,Residential,12,9/12/2021,12/12/2021,10/12/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+450,VIRGINIA,Male,South,DELHI,110019,INDIVIDUAL,PASSPORT,278342576,Commerical,9,3/18/2021,4/10/2021,4/18/2021,Approved,4510,VINOD GUPTA,Installation pending
+451,AUDREY,Male,South,DELHI,110040,INDIVIDUAL,AADHAR,7.96E+11,Residential,8,5/25/2021,,6/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+452,JENN,Male,South,DELHI,110028,INDIVIDUAL,AADHAR,3.27E+11,Residential,4,6/29/2021,,7/29/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+453,LATOYA,Male,South,DELHI,110039,INDIVIDUAL,PASSPORT,621234693,Residential,3,7/12/2021,,8/12/2021,Pending,1460,HEM CHAND,Documents verification in progress
+454,CHELSEA,Male,South,DELHI,110045,INDIVIDUAL,PASSPORT,993852236,Commerical,7,2/16/2021,,3/16/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+455,DANIELA,Male,South,DELHI,110040,INDIVIDUAL,VOTER_ID,73013,Commerical,12,7/7/2021,,8/7/2021,Pending,1460,HEM CHAND,Documents verification in progress
+456,TRICIA,Male,South,DELHI,110016,JOINT,VOTER_ID,99763,Commerical,9,4/7/2021,7/11/2021,5/7/2021,Approved,2456,RAHUL SINGH,Installation pending
+457,SHANE,Male,South,DELHI,110016,JOINT,VOTER_ID,96130,Commerical,3,2/16/2021,2/19/2021,3/16/2021,Approved,1460,HEM CHAND,Installation pending
+458,DESIREE,Male,South,DELHI,110037,INDIVIDUAL,VOTER_ID,82112,Commerical,7,6/9/2021,4/25/2021,7/9/2021,Approved,2456,RAHUL SINGH,Installation pending
+459,BETTY,Male,South,DELHI,110024,INDIVIDUAL,PASSPORT,785212508,Residential,4,9/15/2021,7/3/2021,10/15/2021,Approved,2456,RAHUL SINGH,Installation pending
+460,JANINE,Male,South,DELHI,110061,INDIVIDUAL,PASSPORT,80691888,Residential,8,5/20/2021,,6/20/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+461,CONNIE,Male,South,DELHI,110035,INDIVIDUAL,PAN,5308912,Residential,3,6/25/2021,,7/25/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+462,KARA,Male,South,DELHI,110064,INDIVIDUAL,PAN,5002553,Commerical,10,3/5/2021,,4/5/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+463,CASSANDRA,Male,South,DELHI,110007,INDIVIDUAL,PAN,4081257,Commerical,4,8/10/2021,11/30/2021,9/10/2021,Approved,1460,HEM CHAND,Installation pending
+464,JEANETTE,Male,South,DELHI,110026,INDIVIDUAL,PAN,2093368,Residential,4,5/17/2021,6/7/2021,6/17/2021,Approved,1460,HEM CHAND,Installation pending
+465,RAQUEL,Male,South,DELHI,110049,INDIVIDUAL,AADHAR,3.90E+11,Commerical,1,6/30/2021,,7/30/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+466,BECKY,Male,South,DELHI,110016,INDIVIDUAL,VOTER_ID,70342,Residential,5,9/6/2021,,10/6/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+467,PHILLIP,Male,South,DELHI,110046,INDIVIDUAL,VOTER_ID,99058,Commerical,6,11/9/2021,,12/9/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+468,PEGGY,Male,South,DELHI,110047,INDIVIDUAL,VOTER_ID,72767,Residential,5,6/3/2021,6/7/2021,7/3/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+469,KEISHA,Male,South,DELHI,110055,INDIVIDUAL,PASSPORT,846234925,Commerical,8,12/24/2021,8/2/2021,1/24/2022,Approved,2456,RAHUL SINGH,Installation pending
+470,VICKY,Male,South,DELHI,110015,JOINT,PAN,6208291,Commerical,4,10/16/2021,7/15/2021,11/16/2021,Approved,1460,HEM CHAND,Installation pending
+471,GABRIELLE,Male,South,DELHI,110021,JOINT,VOTER_ID,84362,Commerical,12,6/29/2021,2/7/2021,7/29/2021,Approved,1678,Manoj Pandey,Installation pending
+472,MARLENE,Male,South,DELHI,110010,INDIVIDUAL,PAN,6600042,Commerical,11,10/12/2021,,11/12/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+473,STEFANIE,Male,South,DELHI,110057,INDIVIDUAL,PASSPORT,103430282,Residential,1,5/15/2021,,6/15/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+474,TAMMY,Male,South,DELHI,110045,INDIVIDUAL,VOTER_ID,78789,Commerical,12,5/8/2021,,6/8/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+475,VINNY,Male,South,DELHI,110043,INDIVIDUAL,AADHAR,9.12E+11,Residential,10,4/5/2021,2/27/2021,5/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+476,JESS,Male,South,DELHI,110045,INDIVIDUAL,PASSPORT,454000184,Commerical,9,4/9/2021,7/7/2021,5/9/2021,Approved,2456,RAHUL SINGH,Installation pending
+477,ROY,Male,South,DELHI,110035,INDIVIDUAL,PAN,6323517,Residential,11,2/12/2021,,3/12/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+478,DOROTHY,Male,South,DELHI,110001,INDIVIDUAL,PASSPORT,211327757,Residential,4,11/22/2021,,12/22/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+479,MANNY,Male,South,DELHI,110008,INDIVIDUAL,PAN,7398013,Commerical,1,6/28/2021,,7/28/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+480,CANDICE,Male,South,DELHI,110030,JOINT,AADHAR,9.52E+11,Residential,7,10/7/2021,,11/7/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+481,DOMINIQUE,Male,South,DELHI,110039,INDIVIDUAL,VOTER_ID,85864,Residential,7,11/18/2021,,12/18/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+482,FRANCIS,Male,South,DELHI,110010,INDIVIDUAL,PAN,9918368,Residential,12,6/10/2021,7/1/2021,7/10/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+483,KATRINA,Male,South,DELHI,110003,INDIVIDUAL,AADHAR,6.75E+11,Commerical,4,7/15/2021,11/29/2021,8/15/2021,Approved,2456,RAHUL SINGH,Installation pending
+484,DIEGO,Male,South,DELHI,110023,INDIVIDUAL,PAN,7891496,Commerical,2,10/22/2021,5/29/2021,11/22/2021,Approved,4510,VINOD GUPTA,Installation pending
+485,RICHIE,Male,South,DELHI,110029,INDIVIDUAL,AADHAR,8.60E+11,Residential,1,7/6/2021,2/11/2021,8/6/2021,Approved,1678,Manoj Pandey,Installation pending
+486,INGRID,Male,South,DELHI,110036,INDIVIDUAL,VOTER_ID,95641,Residential,10,10/29/2021,,11/29/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+487,TATIANA,Male,South,DELHI,110046,INDIVIDUAL,PASSPORT,865754231,Residential,8,1/28/2021,,2/28/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+488,DEAN,Male,South,DELHI,110040,INDIVIDUAL,VOTER_ID,96059,Residential,2,5/24/2021,,6/24/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+489,DWAYNE,Male,South,DELHI,110003,INDIVIDUAL,PAN,6126151,Residential,1,3/23/2021,6/26/2021,4/23/2021,Approved,1678,Manoj Pandey,Installation pending
+490,DEE,Male,South,DELHI,110023,INDIVIDUAL,PAN,6379819,Residential,8,5/26/2021,12/11/2021,6/26/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+491,CARA,Male,South,DELHI,110039,INDIVIDUAL,PASSPORT,965491727,Residential,9,4/23/2021,,5/23/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+492,MARCIA,Male,South,DELHI,110013,INDIVIDUAL,PAN,1767042,Residential,1,6/29/2021,,7/29/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+493,SOPHIE,Male,South,DELHI,110065,JOINT,PAN,3339278,Residential,6,6/16/2021,,7/16/2021,Pending,1460,HEM CHAND,Documents verification in progress
+494,SHAUN,Male,South,DELHI,110016,JOINT,PASSPORT,293394434,Residential,11,11/19/2021,,12/19/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+495,ZACHARY,Male,South,DELHI,110015,INDIVIDUAL,AADHAR,8.07E+11,Commerical,11,4/8/2021,,5/8/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+496,TROY,Male,South,DELHI,110042,INDIVIDUAL,PAN,7109994,Commerical,8,10/10/2021,7/15/2021,11/10/2021,Approved,4510,VINOD GUPTA,Installation pending
+497,ARI,Male,South,DELHI,110012,INDIVIDUAL,PAN,5868060,Commerical,12,10/23/2021,5/15/2021,11/23/2021,Approved,1460,HEM CHAND,Installation pending
+498,EDGAR,Male,South,DELHI,110005,INDIVIDUAL,VOTER_ID,77219,Commerical,4,8/29/2021,12/10/2021,9/29/2021,Approved,4510,VINOD GUPTA,Installation pending
+499,FRANKIE,Male,South,DELHI,110008,INDIVIDUAL,PAN,6403132,Commerical,11,12/20/2021,3/14/2021,1/20/2022,Approved,1311,Sudhanshu Gupta,Installation pending
+500,MAYA,Male,South,DELHI,110057,INDIVIDUAL,VOTER_ID,89857,Commerical,5,4/18/2021,,5/18/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+501,SALVATORE,Male,South,DELHI,110064,INDIVIDUAL,AADHAR,9.79E+11,Commerical,2,12/2/2021,,1/2/2022,Pending,1460,HEM CHAND,Documents verification in progress
+502,DERRICK,Male,South,DELHI,110048,INDIVIDUAL,PAN,2367628,Residential,2,6/10/2021,,7/10/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+503,JEANNE,Male,South,DELHI,110050,JOINT,AADHAR,2.98E+11,Residential,11,2/7/2021,1/4/2022,3/7/2021,Approved,1460,HEM CHAND,Installation pending
+504,LYDIA,Male,South,DELHI,110024,INDIVIDUAL,PAN,1654199,Residential,7,12/10/2021,6/1/2021,1/10/2022,Approved,2456,RAHUL SINGH,Installation pending
+505,ROBYN,Male,South,DELHI,110026,INDIVIDUAL,AADHAR,2.54E+11,Residential,8,10/12/2021,,11/12/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+506,NADINE,Male,South,DELHI,110045,INDIVIDUAL,AADHAR,9.42E+11,Residential,11,12/9/2021,,1/9/2022,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+507,NORA,Male,South,DELHI,110051,INDIVIDUAL,AADHAR,8.80E+11,Residential,4,11/16/2021,,12/16/2021,Pending,1460,HEM CHAND,Documents verification in progress
+508,ROSEMARY,Male,South,DELHI,110013,INDIVIDUAL,PAN,4988157,Residential,2,2/6/2021,,3/6/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+509,PHYLLIS,Male,South,DELHI,110049,INDIVIDUAL,VOTER_ID,96577,Residential,4,6/27/2021,,7/27/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+510,PATTY,Male,South,DELHI,110023,INDIVIDUAL,AADHAR,3.99E+11,Commerical,11,7/8/2021,8/8/2021,8/8/2021,Approved,1678,Manoj Pandey,Installation pending
+511,ALBERTO,Male,South,DELHI,110035,INDIVIDUAL,PASSPORT,829791378,Commerical,10,12/1/2021,1/1/2022,1/1/2022,Approved,4510,VINOD GUPTA,Installation pending
+512,SEBASTIAN,Male,South,DELHI,110002,INDIVIDUAL,PAN,7304525,Residential,11,9/29/2021,10/29/2021,10/29/2021,Approved,2456,RAHUL SINGH,Installation pending
+513,BETSY,Male,South,DELHI,110063,INDIVIDUAL,PASSPORT,400477546,Commerical,3,12/5/2021,1/5/2022,1/5/2022,Approved,1678,Manoj Pandey,Installation pending
+514,LILLIAN,Male,South,DELHI,110051,INDIVIDUAL,PASSPORT,127992071,Commerical,3,10/22/2021,4/21/2021,11/22/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+515,EMMANUEL,Male,South,DELHI,110013,INDIVIDUAL,AADHAR,2.65E+11,Residential,10,1/2/2021,8/26/2021,2/2/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+516,IRINA,Male,South,DELHI,110050,INDIVIDUAL,PAN,7232464,Commerical,8,11/16/2021,11/29/2021,12/16/2021,Pending,1460,HEM CHAND,Documents verification in progress
+517,NOAH,Male,South,DELHI,110007,JOINT,VOTER_ID,74447,Commerical,7,3/21/2021,6/6/2021,4/21/2021,Approved,4510,VINOD GUPTA,Installation pending
+518,DEVON,Male,South,DELHI,110037,INDIVIDUAL,PAN,6633293,Residential,5,7/26/2021,9/24/2021,8/26/2021,Approved,4510,VINOD GUPTA,Installation pending
+519,STANLEY,Male,South,DELHI,110034,INDIVIDUAL,PAN,1312120,Residential,10,5/23/2021,8/27/2021,6/23/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+520,DYLAN,Male,South,DELHI,110032,INDIVIDUAL,VOTER_ID,89914,Commerical,8,10/29/2021,1/13/2022,11/29/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+521,SHERRY,Male,South,DELHI,110025,INDIVIDUAL,PAN,1129674,Residential,1,5/6/2021,2/14/2021,6/6/2021,Approved,1460,HEM CHAND,Installation pending
+522,JACLYN,Male,South,DELHI,110011,INDIVIDUAL,AADHAR,6.28E+11,Residential,8,8/24/2021,12/13/2021,9/24/2021,Approved,1678,Manoj Pandey,Installation pending
+523,ANGELICA,Male,South,DELHI,110057,INDIVIDUAL,AADHAR,8.77E+11,Residential,1,7/27/2021,9/6/2021,8/27/2021,Approved,1460,HEM CHAND,Installation pending
+524,ROSS,Male,South,DELHI,110020,INDIVIDUAL,VOTER_ID,73441,Commerical,6,7/14/2021,2/13/2021,8/14/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+525,BRIDGET,Male,South,DELHI,110033,INDIVIDUAL,PASSPORT,46211344,Commerical,12,1/10/2021,4/24/2021,2/10/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+526,EBONY,Male,South,DELHI,110001,INDIVIDUAL,PASSPORT,269624655,Residential,10,3/8/2021,3/15/2021,4/8/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+527,RAMON,Male,South,DELHI,110022,INDIVIDUAL,VOTER_ID,83308,Residential,8,12/13/2021,7/23/2021,1/13/2022,Approved,2456,RAHUL SINGH,Installation pending
+528,RUBÉN,Male,South,DELHI,110022,INDIVIDUAL,PAN,3581361,Commerical,12,1/14/2021,10/5/2021,2/14/2021,Approved,2456,RAHUL SINGH,Installation pending
+529,DAISY,Male,South,DELHI,110064,JOINT,VOTER_ID,85579,Residential,3,4/7/2021,4/26/2021,5/7/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+530,CHARLOTTE,Male,South,DELHI,110015,INDIVIDUAL,AADHAR,5.62E+11,Commerical,2,6/8/2021,1/26/2022,7/8/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+531,TREVOR,Male,South,DELHI,110057,INDIVIDUAL,PASSPORT,576381040,Commerical,9,8/3/2021,7/26/2021,9/3/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+532,MARVIN,Male,South,DELHI,110023,INDIVIDUAL,VOTER_ID,89625,Commerical,9,7/30/2021,7/24/2021,8/30/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+533,MAURICE,Male,South,DELHI,110058,INDIVIDUAL,AADHAR,4.86E+11,Commerical,9,1/22/2021,2/20/2021,2/22/2021,Pending,1460,HEM CHAND,Documents verification in progress
+534,MADELINE,Male,South,DELHI,110042,INDIVIDUAL,AADHAR,2.29E+11,Commerical,2,11/13/2021,11/9/2021,12/13/2021,Approved,4510,VINOD GUPTA,Installation pending
+535,EDUARDO,Male,South,DELHI,110003,INDIVIDUAL,PASSPORT,893680316,Commerical,8,8/6/2021,6/3/2021,9/6/2021,Approved,1460,HEM CHAND,Installation pending
+536,GENE,Male,South,DELHI,110019,INDIVIDUAL,PAN,6073664,Residential,7,1/13/2021,6/26/2021,2/13/2021,Approved,4510,VINOD GUPTA,Installation pending
+537,MIA,Male,South,DELHI,110062,INDIVIDUAL,AADHAR,4.35E+11,Residential,2,3/24/2021,5/9/2021,4/24/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+538,PRISCILLA,Male,South,DELHI,110005,INDIVIDUAL,PASSPORT,114576976,Residential,4,3/27/2021,8/12/2021,4/27/2021,Pending,1460,HEM CHAND,Documents verification in progress
+539,LUZ,Male,South,DELHI,110013,INDIVIDUAL,AADHAR,9.55E+11,Commerical,8,5/23/2021,1/14/2022,6/23/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+540,ROSEMARIE,Male,South,DELHI,110040,INDIVIDUAL,AADHAR,6.58E+11,Residential,9,4/23/2021,8/29/2021,5/23/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+541,WHITNEY,Male,South,DELHI,110019,INDIVIDUAL,AADHAR,5.66E+11,Residential,5,2/15/2021,11/27/2021,3/15/2021,Approved,1678,Manoj Pandey,Installation pending
+542,SERGIO,Male,South,DELHI,110028,INDIVIDUAL,PAN,1564146,Commerical,5,6/23/2021,10/16/2021,7/23/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+543,LEON,Male,South,DELHI,110031,JOINT,AADHAR,7.66E+11,Commerical,11,5/3/2021,4/30/2021,6/3/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+544,PAOLA,Male,South,DELHI,110045,INDIVIDUAL,PASSPORT,414341342,Residential,7,2/14/2021,5/6/2021,3/14/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+545,SHARI,Male,South,DELHI,110021,INDIVIDUAL,PAN,5633472,Residential,8,5/12/2021,8/21/2021,6/12/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+546,PABLO,Male,South,DELHI,110044,INDIVIDUAL,PASSPORT,730248508,Residential,10,9/5/2021,1/10/2022,10/5/2021,Approved,1460,HEM CHAND,Installation pending
+547,RONNIE,Male,South,DELHI,110023,INDIVIDUAL,AADHAR,3.73E+11,Residential,5,3/26/2021,8/21/2021,4/26/2021,Approved,4510,VINOD GUPTA,Installation pending
+548,ABIGAIL,Male,South,DELHI,110010,INDIVIDUAL,AADHAR,9.28E+11,Commerical,10,12/26/2021,10/25/2021,1/26/2022,Approved,1311,Sudhanshu Gupta,Installation pending
+549,RAÚL,Male,South,DELHI,110038,INDIVIDUAL,PASSPORT,41345921,Residential,4,6/26/2021,2/5/2021,7/26/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+550,ELISA,Male,South,DELHI,110061,INDIVIDUAL,VOTER_ID,84774,Residential,5,2/8/2021,6/23/2021,3/8/2021,Pending,1460,HEM CHAND,Documents verification in progress
+551,ALEXA,Male,South,DELHI,110060,JOINT,AADHAR,1.94E+11,Residential,8,3/9/2021,10/28/2021,4/9/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+552,ETHAN,Male,South,DELHI,110032,INDIVIDUAL,PAN,3723175,Residential,4,10/10/2021,4/24/2021,11/10/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+553,MELINDA,Male,South,DELHI,110040,INDIVIDUAL,PASSPORT,937379577,Residential,10,6/24/2021,9/2/2021,7/24/2021,Approved,2456,RAHUL SINGH,Installation pending
+554,JOCELYN,Male,South,DELHI,110050,INDIVIDUAL,AADHAR,8.86E+11,Commerical,11,1/20/2021,11/7/2021,2/20/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+555,MARYANN,Male,South,DELHI,110005,INDIVIDUAL,AADHAR,3.57E+11,Commerical,4,5/12/2021,7/30/2021,6/12/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+556,STUART,Male,South,DELHI,110017,INDIVIDUAL,PASSPORT,257723237,Residential,10,6/14/2021,12/24/2021,7/14/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+557,OLIVER,Male,South,DELHI,110001,INDIVIDUAL,PAN,4988112,Residential,5,4/23/2021,12/6/2021,5/23/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+558,CECILIA,Male,South,DELHI,110062,INDIVIDUAL,PASSPORT,813045798,Commerical,5,10/6/2021,9/20/2021,11/6/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+559,KRISTINE,Male,South,DELHI,110058,INDIVIDUAL,PASSPORT,51774062,Commerical,4,1/3/2021,5/18/2021,2/3/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+560,ISABEL,Male,South,DELHI,110021,INDIVIDUAL,PAN,7643092,Residential,8,10/9/2021,7/25/2021,11/9/2021,Approved,2456,RAHUL SINGH,Installation pending
+561,AVI,Male,South,DELHI,110005,INDIVIDUAL,AADHAR,6.30E+11,Commerical,10,5/3/2021,5/12/2021,6/3/2021,Approved,1678,Manoj Pandey,Installation pending
+562,ALEJANDRO,Male,South,DELHI,110029,INDIVIDUAL,VOTER_ID,89565,Commerical,3,5/26/2021,9/4/2021,6/26/2021,Approved,1678,Manoj Pandey,Installation pending
+563,JEROME,Male,South,DELHI,110006,INDIVIDUAL,VOTER_ID,86873,Commerical,4,4/4/2021,4/15/2021,5/4/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+564,DORIS,Male,South,DELHI,110052,INDIVIDUAL,PAN,1888998,Commerical,7,12/22/2021,12/7/2021,1/22/2022,Pending,1460,HEM CHAND,Documents verification in progress
+565,FRAN,Male,South,DELHI,110035,JOINT,PAN,2959263,Commerical,6,12/19/2021,1/12/2022,1/19/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+566,CORY,Male,South,DELHI,110018,INDIVIDUAL,VOTER_ID,78927,Commerical,6,4/9/2021,5/30/2021,5/9/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+567,MARLON,Male,South,DELHI,110033,INDIVIDUAL,VOTER_ID,95313,Residential,4,7/12/2021,5/30/2021,8/12/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+568,LIZA,Male,South,DELHI,110025,INDIVIDUAL,PAN,5299841,Commerical,7,8/6/2021,8/11/2021,9/6/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+569,TANIA,Male,South,DELHI,110049,INDIVIDUAL,PASSPORT,622527780,Commerical,7,11/15/2021,4/9/2021,12/15/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+570,CHARLENE,Male,South,DELHI,110041,JOINT,PAN,7012257,Residential,2,3/3/2021,2/2/2021,4/3/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+571,KRYSTAL,Male,South,DELHI,110051,INDIVIDUAL,PASSPORT,629945056,Residential,3,5/24/2021,8/23/2021,6/24/2021,Pending,1460,HEM CHAND,Documents verification in progress
+572,STELLA,Male,South,DELHI,110010,INDIVIDUAL,AADHAR,7.58E+11,Commerical,6,11/20/2021,5/27/2021,12/20/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+573,DOREEN,Male,South,DELHI,110057,INDIVIDUAL,VOTER_ID,78809,Commerical,12,12/14/2021,7/4/2021,1/14/2022,Approved,2456,RAHUL SINGH,Installation pending
+574,CHUCK,Male,South,DELHI,110043,INDIVIDUAL,PASSPORT,162220761,Commerical,12,7/29/2021,8/13/2021,8/29/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+575,JAN,Male,South,DELHI,110065,INDIVIDUAL,AADHAR,4.91E+11,Commerical,3,10/27/2021,2/14/2021,11/27/2021,Approved,4510,VINOD GUPTA,Installation pending
+576,LINA,Male,South,DELHI,110018,INDIVIDUAL,VOTER_ID,99142,Residential,2,9/16/2021,4/25/2021,10/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+577,RÓDNEY,Male,South,DELHI,110003,INDIVIDUAL,PASSPORT,894162373,Commerical,2,5/30/2021,12/15/2021,6/30/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+578,PAM,Male,South,DELHI,110025,INDIVIDUAL,VOTER_ID,84739,Commerical,12,1/28/2021,5/12/2021,2/28/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+579,ANTOINETTE,Male,South,DELHI,110054,INDIVIDUAL,PASSPORT,580729279,Residential,4,11/26/2021,6/3/2021,12/26/2021,Pending,1460,HEM CHAND,Documents verification in progress
+580,JESÚS,Male,South,DELHI,110033,INDIVIDUAL,PAN,2192562,Residential,9,3/30/2021,11/19/2021,4/30/2021,Approved,1678,Manoj Pandey,Installation pending
+581,WILSON,Male,South,DELHI,110002,INDIVIDUAL,PAN,8823570,Commerical,12,4/6/2021,1/31/2022,5/6/2021,Approved,4510,VINOD GUPTA,Installation pending
+582,JUSTINE,Male,South,DELHI,110035,INDIVIDUAL,AADHAR,3.77E+11,Commerical,6,12/22/2021,7/10/2021,1/22/2022,Pending,4510,VINOD GUPTA,Documents verification in progress
+583,BERNADETTE,Male,South,DELHI,110009,INDIVIDUAL,AADHAR,9.18E+11,Residential,1,7/21/2021,10/7/2021,8/21/2021,Approved,4510,VINOD GUPTA,Installation pending
+584,CURTIS,Male,South,DELHI,110032,JOINT,PAN,1658639,Residential,11,12/10/2021,7/25/2021,1/10/2022,Approved,4510,VINOD GUPTA,Installation pending
+585,BEVERLY,Male,South,DELHI,110022,INDIVIDUAL,AADHAR,8.26E+11,Commerical,5,7/21/2021,8/21/2021,8/21/2021,Approved,1678,Manoj Pandey,Installation pending
+586,LOUISE,Male,South,DELHI,110060,INDIVIDUAL,VOTER_ID,73998,Commerical,5,9/25/2021,10/25/2021,10/25/2021,Approved,1460,HEM CHAND,Installation pending
+587,SAMMY,Male,South,DELHI,110056,INDIVIDUAL,VOTER_ID,92628,Commerical,7,1/22/2021,2/5/2021,2/22/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+588,AHMED,Male,South,DELHI,110005,INDIVIDUAL,AADHAR,7.87E+11,Residential,1,9/8/2021,6/23/2021,10/8/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+589,LARA,Male,South,DELHI,110022,INDIVIDUAL,AADHAR,5.94E+11,Residential,11,11/19/2021,10/28/2021,12/19/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+590,KRIS,Male,South,DELHI,110022,JOINT,VOTER_ID,99988,Residential,3,1/5/2021,4/24/2021,2/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+591,NOEL,Male,South,DELHI,110041,INDIVIDUAL,PAN,5027469,Residential,12,5/23/2021,9/2/2021,6/23/2021,Approved,2456,RAHUL SINGH,Installation pending
+592,LOU,Male,South,DELHI,110062,INDIVIDUAL,AADHAR,5.66E+11,Residential,2,5/23/2021,11/7/2021,6/23/2021,Pending,1460,HEM CHAND,Documents verification in progress
+593,DEVIN,Male,South,DELHI,110006,INDIVIDUAL,PAN,9266757,Commerical,4,9/28/2021,7/30/2021,10/28/2021,Approved,2456,RAHUL SINGH,Installation pending
+594,MARIANNE,Male,South,DELHI,110041,INDIVIDUAL,AADHAR,5.22E+11,Residential,3,3/24/2021,12/24/2021,4/24/2021,Approved,1460,HEM CHAND,Installation pending
+595,CALVIN,Male,South,DELHI,110043,INDIVIDUAL,VOTER_ID,95426,Commerical,9,8/16/2021,12/6/2021,9/16/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+596,MEG,Male,South,DELHI,110026,INDIVIDUAL,AADHAR,2.92E+11,Commerical,6,7/20/2021,9/20/2021,8/20/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+597,CHRISTY,Male,South,DELHI,110032,INDIVIDUAL,VOTER_ID,80068,Commerical,8,9/12/2021,5/18/2021,10/12/2021,Pending,1460,HEM CHAND,Documents verification in progress
+598,MARISOL,Male,South,DELHI,110052,INDIVIDUAL,VOTER_ID,81572,Commerical,3,8/2/2021,7/25/2021,9/2/2021,Approved,4510,VINOD GUPTA,Installation pending
+599,RACHAEL,Male,South,DELHI,110013,INDIVIDUAL,PASSPORT,797085932,Commerical,3,10/7/2021,5/12/2021,11/7/2021,Approved,2456,RAHUL SINGH,Installation pending
+600,GABRIELA,Male,South,DELHI,110010,INDIVIDUAL,PAN,3929296,Commerical,9,6/30/2021,9/4/2021,7/30/2021,Approved,4510,VINOD GUPTA,Installation pending
+601,LANCE,Male,South,DELHI,110042,INDIVIDUAL,VOTER_ID,75003,Residential,1,11/24/2021,4/15/2021,12/24/2021,Approved,1460,HEM CHAND,Installation pending
+602,NATE,Male,South,DELHI,110035,INDIVIDUAL,AADHAR,7.69E+11,Commerical,2,5/31/2021,,6/30/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+603,MINDY,Male,South,DELHI,110025,INDIVIDUAL,PAN,3887159,Commerical,9,2/22/2021,,3/22/2021,Pending,1460,HEM CHAND,Documents verification in progress
+604,GIOVANNI,Male,South,DELHI,110010,JOINT,AADHAR,8.60E+11,Commerical,11,6/20/2021,,7/20/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+605,ALLAN,Male,South,DELHI,110027,INDIVIDUAL,PAN,6972341,Commerical,12,11/6/2021,12/6/2021,12/6/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+606,TYRONE,Male,South,DELHI,110006,INDIVIDUAL,PAN,4481114,Commerical,7,8/20/2021,9/20/2021,9/20/2021,Approved,2456,RAHUL SINGH,Installation pending
+607,KARL,Male,South,DELHI,110053,INDIVIDUAL,AADHAR,1.24E+11,Residential,7,1/9/2021,5/18/2021,2/9/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+608,GUY,Male,South,DELHI,110059,INDIVIDUAL,AADHAR,6.77E+11,Commerical,2,4/3/2021,7/25/2021,5/3/2021,Pending,1460,HEM CHAND,Documents verification in progress
+609,MARSHA,Male,South,DELHI,110050,JOINT,PAN,4283410,Residential,5,3/6/2021,5/12/2021,4/6/2021,Pending,1460,HEM CHAND,Documents verification in progress
+610,WARREN,Male,South,DELHI,110022,INDIVIDUAL,AADHAR,9.17E+11,Commerical,2,7/17/2021,9/4/2021,8/17/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+611,KELVIN,Male,South,DELHI,110057,INDIVIDUAL,VOTER_ID,91096,Residential,12,4/1/2021,4/15/2021,5/1/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+612,JENNIE,Male,South,DELHI,110065,INDIVIDUAL,PASSPORT,154652846,Commerical,5,4/18/2021,5/18/2021,5/18/2021,Approved,2456,RAHUL SINGH,Installation pending
+613,MITCHELL,Male,South,DELHI,110031,INDIVIDUAL,AADHAR,1.19E+11,Residential,8,6/25/2021,7/25/2021,7/25/2021,Approved,4510,VINOD GUPTA,Installation pending
+614,KAYLA,Male,South,DELHI,110021,INDIVIDUAL,PASSPORT,490883811,Residential,3,4/12/2021,5/12/2021,5/12/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+615,JAMAL,Male,South,DELHI,110062,INDIVIDUAL,AADHAR,8.91E+11,Commerical,4,4/19/2021,5/30/2021,5/19/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+616,NICOLÁS,Male,South,DELHI,110034,INDIVIDUAL,VOTER_ID,90405,Commerical,2,6/1/2021,8/11/2021,7/1/2021,Pending,1460,HEM CHAND,Documents verification in progress
+617,AUSTIN,Male,South,DELHI,110009,INDIVIDUAL,VOTER_ID,83788,Residential,7,3/26/2021,4/9/2021,4/26/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+618,MOHAMED,Male,South,DELHI,110007,INDIVIDUAL,PAN,7060393,Residential,9,8/4/2021,9/4/2021,9/4/2021,Approved,2456,RAHUL SINGH,Installation pending
+619,KARLA,Male,South,DELHI,110023,INDIVIDUAL,PAN,5131060,Commerical,5,3/15/2021,4/15/2021,4/15/2021,Approved,1678,Manoj Pandey,Installation pending
+620,GERARD,Male,South,DELHI,110041,INDIVIDUAL,PASSPORT,683615137,Residential,9,3/11/2021,5/27/2021,4/11/2021,Pending,1460,HEM CHAND,Documents verification in progress
+621,DEANNA,Male,South,DELHI,110009,JOINT,AADHAR,1.25E+11,Residential,1,11/2/2021,7/4/2021,12/2/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+622,KAY,Male,South,DELHI,110027,INDIVIDUAL,AADHAR,9.10E+11,Commerical,12,10/5/2021,8/13/2021,11/5/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+623,JUNIOR,Male,South,DELHI,110025,INDIVIDUAL,AADHAR,2.42E+11,Residential,11,9/21/2021,2/14/2021,10/21/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+624,FREDDY,Male,South,DELHI,110031,INDIVIDUAL,VOTER_ID,97002,Residential,3,4/9/2021,4/25/2021,5/9/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+625,ERICK,Male,South,DELHI,110024,INDIVIDUAL,PASSPORT,974305428,Commerical,10,11/7/2021,12/7/2021,12/7/2021,Approved,2456,RAHUL SINGH,Installation pending
+626,MIMI,Male,South,DELHI,110062,INDIVIDUAL,PAN,3827418,Commerical,10,12/12/2021,1/12/2022,1/12/2022,Approved,1460,HEM CHAND,Installation pending
+627,NORMA,Male,South,DELHI,110004,INDIVIDUAL,PASSPORT,505946061,Commerical,8,4/30/2021,5/30/2021,5/30/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+628,MARITZA,Male,South,DELHI,110012,INDIVIDUAL,AADHAR,7.46E+11,Commerical,3,4/30/2021,5/30/2021,5/30/2021,Approved,1460,HEM CHAND,Installation pending
+629,HAROLD,Male,South,DELHI,110013,INDIVIDUAL,VOTER_ID,94478,Residential,2,10/13/2021,1/31/2022,11/13/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+630,SHELLY,Male,South,DELHI,110001,JOINT,PAN,9488588,Commerical,9,2/1/2021,7/10/2021,3/1/2021,Pending,1460,HEM CHAND,Documents verification in progress
+631,CARLY,Male,South,DELHI,110039,JOINT,PASSPORT,272814283,Residential,2,2/25/2021,10/7/2021,3/25/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+632,RHONDA,Male,South,DELHI,110003,INDIVIDUAL,VOTER_ID,88806,Residential,9,7/11/2021,8/11/2021,8/11/2021,Approved,1678,Manoj Pandey,Installation pending
+633,ALANA,Male,South,DELHI,110062,JOINT,VOTER_ID,89058,Commerical,3,3/9/2021,4/9/2021,4/9/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+634,DOMINICK,Male,South,DELHI,110058,INDIVIDUAL,AADHAR,9.60E+11,Residential,4,8/21/2021,,9/21/2021,Pending,1460,HEM CHAND,Documents verification in progress
+635,ANASTASIA,Male,South,DELHI,110033,INDIVIDUAL,VOTER_ID,93660,Residential,2,1/2/2021,2/2/2021,2/2/2021,Approved,1678,Manoj Pandey,Installation pending
+636,AIMEE,Male,South,DELHI,110029,INDIVIDUAL,VOTER_ID,79432,Commerical,2,7/23/2021,8/23/2021,8/23/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+637,VICKI,Male,South,DELHI,110025,INDIVIDUAL,PASSPORT,251289412,Residential,12,4/27/2021,5/27/2021,5/27/2021,Approved,1678,Manoj Pandey,Installation pending
+638,MARGARITA,Male,South,DELHI,110019,INDIVIDUAL,PAN,7911580,Residential,1,6/4/2021,7/4/2021,7/4/2021,Approved,4510,VINOD GUPTA,Installation pending
+639,MANDY,Male,South,DELHI,110065,INDIVIDUAL,PAN,3139261,Commerical,12,10/24/2021,,11/24/2021,Pending,1460,HEM CHAND,Documents verification in progress
+640,DARRYL,Male,South,DELHI,110040,INDIVIDUAL,PASSPORT,439434015,Commerical,9,11/16/2021,,12/16/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+641,DARLENE,Male,South,DELHI,110045,INDIVIDUAL,VOTER_ID,74355,Residential,7,7/31/2021,,8/31/2021,Pending,1460,HEM CHAND,Documents verification in progress
+642,RANDI,Male,South,DELHI,110021,JOINT,PAN,5644869,Residential,12,7/13/2021,8/13/2021,8/13/2021,Approved,2456,RAHUL SINGH,Installation pending
+643,MOHAMMED,Male,South,DELHI,110032,JOINT,PAN,5878623,Commerical,12,1/14/2021,2/14/2021,2/14/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+644,LENNY,Male,South,DELHI,110020,INDIVIDUAL,PASSPORT,674635216,Residential,3,7/14/2021,,8/14/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+645,ROMAN,Male,South,DELHI,110009,INDIVIDUAL,PASSPORT,317702112,Residential,8,3/25/2021,4/25/2021,4/25/2021,Approved,1678,Manoj Pandey,Installation pending
+646,BERNARD,Male,South,DELHI,110019,INDIVIDUAL,AADHAR,7.53E+11,Residential,4,5/5/2021,,6/5/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+647,FRANCINE,Male,South,DELHI,110039,INDIVIDUAL,AADHAR,7.52E+11,Residential,11,10/16/2021,,11/16/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+648,JUNE,Male,South,DELHI,110063,INDIVIDUAL,PAN,7027440,Residential,11,11/18/2021,,12/18/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+649,DAMIAN,Male,South,DELHI,110015,INDIVIDUAL,PASSPORT,109920448,Residential,8,3/18/2021,,4/18/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+650,SOFIA,Male,South,DELHI,110047,INDIVIDUAL,PAN,5643954,Residential,2,12/9/2021,,1/9/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+651,XAVIER,Male,South,DELHI,110039,INDIVIDUAL,PAN,8281241,Commerical,11,7/31/2021,,8/31/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+652,ORLANDO,Male,South,DELHI,110043,JOINT,AADHAR,6.93E+11,Residential,3,12/24/2021,,1/24/2022,Pending,2456,RAHUL SINGH,Documents verification in progress
+653,ZOE,Male,South,DELHI,110044,INDIVIDUAL,VOTER_ID,93840,Commerical,5,3/25/2021,,4/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+654,LEIGH,Male,South,DELHI,110050,INDIVIDUAL,VOTER_ID,89028,Commerical,9,1/12/2021,,2/12/2021,Pending,1460,HEM CHAND,Documents verification in progress
+655,KURT,Male,South,DELHI,110050,INDIVIDUAL,AADHAR,4.45E+11,Residential,3,6/30/2021,,7/30/2021,Pending,1460,HEM CHAND,Documents verification in progress
+656,TERRI,Male,South,DELHI,110043,INDIVIDUAL,VOTER_ID,99455,Residential,9,7/8/2021,,8/8/2021,Pending,1460,HEM CHAND,Documents verification in progress
+657,NATHANIEL,Male,South,DELHI,110032,INDIVIDUAL,PAN,5180337,Commerical,8,11/5/2021,,12/5/2021,Pending,1460,HEM CHAND,Documents verification in progress
+658,STEFAN,Male,South,DELHI,110038,INDIVIDUAL,AADHAR,9.16E+11,Residential,4,12/14/2021,,1/14/2022,Pending,1460,HEM CHAND,Documents verification in progress
+659,LENA,Male,South,DELHI,110007,INDIVIDUAL,AADHAR,8.78E+11,Commerical,10,5/24/2021,,6/24/2021,Pending,1460,HEM CHAND,Documents verification in progress
+660,TASHA,Male,South,DELHI,110049,INDIVIDUAL,PAN,9682524,Commerical,1,11/21/2021,,12/21/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+661,RENE,Male,South,DELHI,110036,JOINT,AADHAR,8.15E+11,Residential,11,7/30/2021,,8/30/2021,Pending,1460,HEM CHAND,Documents verification in progress
+662,ELISE,Male,South,DELHI,110041,JOINT,PAN,7441386,Commerical,12,3/4/2021,,4/4/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+663,JASMIN,Male,South,DELHI,110007,INDIVIDUAL,AADHAR,8.70E+11,Commerical,10,1/8/2021,,2/8/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+664,MARTA,Male,South,DELHI,110014,JOINT,PASSPORT,778597061,Residential,1,5/5/2021,,6/5/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+665,GERALD,Male,South,DELHI,110043,INDIVIDUAL,VOTER_ID,81393,Residential,3,8/8/2021,,9/8/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+666,SHANA,Male,South,DELHI,110059,INDIVIDUAL,PAN,7103941,Commerical,11,2/17/2021,,3/17/2021,Pending,1460,HEM CHAND,Documents verification in progress
+667,AISHA,Male,South,DELHI,110018,INDIVIDUAL,PASSPORT,126548689,Residential,6,11/15/2021,12/15/2021,12/15/2021,Approved,1460,HEM CHAND,Installation pending
+668,KAT,Male,South,DELHI,110040,INDIVIDUAL,PASSPORT,345820973,Residential,12,4/12/2021,5/12/2021,5/12/2021,Approved,1460,HEM CHAND,Installation pending
+669,PATRICE,Male,South,DELHI,110016,INDIVIDUAL,AADHAR,1.23E+11,Residential,9,5/3/2021,6/3/2021,6/3/2021,Approved,4510,VINOD GUPTA,Installation pending
+670,GREGG,Male,South,DELHI,110035,INDIVIDUAL,PAN,8629566,Residential,10,10/19/2021,11/19/2021,11/19/2021,Approved,2456,RAHUL SINGH,Installation pending
+671,SILVIA,Male,South,DELHI,110057,INDIVIDUAL,AADHAR,2.18E+11,Residential,5,12/31/2021,1/31/2022,1/31/2022,Approved,4510,VINOD GUPTA,Installation pending
+672,PIERRE,Male,South,DELHI,110037,INDIVIDUAL,AADHAR,4.52E+11,Commerical,9,6/10/2021,7/10/2021,7/10/2021,Approved,4510,VINOD GUPTA,Installation pending
+673,DEIRDRE,Male,South,DELHI,110047,JOINT,VOTER_ID,75600,Residential,5,9/7/2021,10/7/2021,10/7/2021,Approved,4510,VINOD GUPTA,Installation pending
+674,KATY,Male,South,DELHI,110005,JOINT,AADHAR,9.24E+11,Residential,9,6/25/2021,7/25/2021,7/25/2021,Approved,1460,HEM CHAND,Installation pending
+675,ALVIN,Male,South,DELHI,110033,INDIVIDUAL,PASSPORT,448892150,Commerical,8,12/31/2021,1/31/2022,1/31/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+676,JERMAINE,Male,South,DELHI,110019,INDIVIDUAL,VOTER_ID,82836,Residential,1,6/12/2021,7/12/2021,7/12/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+677,JANELLE,Male,South,DELHI,110034,INDIVIDUAL,AADHAR,7.71E+11,Commerical,3,5/9/2021,6/9/2021,6/9/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+678,TEDDY,Male,South,DELHI,110052,INDIVIDUAL,PAN,2027756,Commerical,2,5/22/2021,6/22/2021,6/22/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+679,AMIT,Male,South,DELHI,110059,INDIVIDUAL,PASSPORT,194396176,Residential,12,1/31/2021,2/28/2021,2/28/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+680,JO,Male,South,DELHI,110043,INDIVIDUAL,AADHAR,1.65E+11,Commerical,12,2/2/2021,3/2/2021,3/2/2021,Connection Released,1460,HEM CHAND,Installation completed
+681,BORIS,Male,South,DELHI,110058,INDIVIDUAL,VOTER_ID,91928,Residential,7,6/11/2021,7/11/2021,7/11/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+682,CHRISSY,Male,South,DELHI,110032,INDIVIDUAL,PAN,4363373,Residential,10,1/30/2021,2/28/2021,2/28/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+683,ZACK,Male,South,DELHI,110012,JOINT,PASSPORT,614392681,Residential,11,7/11/2021,8/11/2021,8/11/2021,Connection Released,1460,HEM CHAND,Installation completed
+684,CHLOE,Male,South,DELHI,110015,INDIVIDUAL,AADHAR,3.33E+11,Residential,12,5/30/2021,6/30/2021,6/30/2021,Connection Released,1678,Manoj Pandey,Installation completed
+685,ROBERTA,Male,South,DELHI,110006,INDIVIDUAL,VOTER_ID,76977,Commerical,7,5/27/2021,6/27/2021,6/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+686,KAREEM,Male,South,DELHI,110011,INDIVIDUAL,PAN,2082395,Residential,3,6/25/2021,7/25/2021,7/25/2021,Connection Released,1460,HEM CHAND,Installation completed
+687,PAULINE,Male,South,DELHI,110039,INDIVIDUAL,VOTER_ID,86545,Residential,10,8/24/2021,5/24/2021,9/24/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+688,SUNNY,Male,South,DELHI,110012,INDIVIDUAL,AADHAR,1.03E+11,Commerical,5,8/8/2021,1/30/2022,9/8/2021,Approved,2456,RAHUL SINGH,Installation pending
+689,MARCOS,Male,South,DELHI,110050,INDIVIDUAL,VOTER_ID,77016,Commerical,6,9/18/2021,9/5/2021,10/18/2021,Approved,1460,HEM CHAND,Installation pending
+690,BRENT,Male,South,DELHI,110060,INDIVIDUAL,PASSPORT,938884553,Commerical,5,5/6/2021,4/13/2021,6/6/2021,Approved,1460,HEM CHAND,Installation pending
+691,ROSIE,Male,South,DELHI,110031,INDIVIDUAL,PAN,3486415,Commerical,5,4/24/2021,8/23/2021,5/24/2021,Connection Released,1678,Manoj Pandey,Installation completed
+692,IGOR,Male,South,DELHI,110048,JOINT,PAN,2843926,Residential,11,12/30/2021,10/15/2021,1/30/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+693,SPENCER,Male,South,DELHI,110020,JOINT,PASSPORT,197566097,Commerical,4,8/5/2021,1/9/2022,9/5/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+694,TAMIKA,Male,South,DELHI,110054,INDIVIDUAL,AADHAR,2.31E+11,Residential,8,4/5/2021,5/17/2021,5/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+695,AMELIA,Male,South,DELHI,110022,JOINT,AADHAR,1.44E+11,Commerical,9,11/20/2021,1/25/2022,12/20/2021,Approved,1460,HEM CHAND,Installation pending
+696,MARJORIE,Male,South,DELHI,110063,INDIVIDUAL,AADHAR,9.69E+11,Residential,9,3/13/2021,4/26/2021,4/13/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+697,KRISTA,Male,South,DELHI,110023,INDIVIDUAL,AADHAR,6.22E+11,Residential,7,7/23/2021,6/18/2021,8/23/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+698,LUCAS,Male,South,DELHI,110007,INDIVIDUAL,AADHAR,8.04E+11,Residential,6,9/15/2021,7/8/2021,10/15/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+699,BRADLEY,Male,South,DELHI,110036,INDIVIDUAL,AADHAR,8.41E+11,Commerical,2,2/20/2021,9/7/2021,3/20/2021,Approved,1460,HEM CHAND,Installation pending
+700,JEANINE,Male,South,DELHI,110041,INDIVIDUAL,PASSPORT,556764885,Residential,8,9/15/2021,12/29/2021,10/15/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+701,HILARY,Male,South,DELHI,110020,INDIVIDUAL,VOTER_ID,82037,Commerical,1,12/9/2021,2/1/2021,1/9/2022,Connection Released,1678,Manoj Pandey,Installation completed
+702,KRISTY,Male,South,DELHI,110009,INDIVIDUAL,PAN,6072479,Residential,6,4/17/2021,11/30/2021,5/17/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+703,TERRENCE,Male,South,DELHI,110032,INDIVIDUAL,PAN,7934359,Residential,4,12/25/2021,2/4/2021,1/25/2022,Connection Released,1678,Manoj Pandey,Installation completed
+704,YESENIA,Male,South,DELHI,110064,JOINT,PAN,5303946,Residential,6,3/26/2021,2/1/2022,4/26/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+705,GLADYS,Male,South,DELHI,110012,JOINT,PAN,8872433,Commerical,12,5/18/2021,12/7/2021,6/18/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+706,DOMINIC,Male,South,DELHI,110024,INDIVIDUAL,VOTER_ID,88942,Residential,2,6/8/2021,5/19/2021,7/8/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+707,ALLIE,Male,South,DELHI,110063,INDIVIDUAL,AADHAR,3.04E+11,Residential,7,8/7/2021,7/24/2021,9/7/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+708,BLAKE,Male,South,DELHI,110016,INDIVIDUAL,PASSPORT,447141079,Residential,6,10/28/2021,11/30/2021,11/28/2021,Approved,2456,RAHUL SINGH,Installation pending
+709,BRIANNA,Male,South,DELHI,110011,INDIVIDUAL,PASSPORT,203665347,Commerical,12,3/15/2021,8/20/2021,4/15/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+710,KERRI,Male,South,DELHI,110044,INDIVIDUAL,AADHAR,9.97E+11,Residential,1,2/22/2021,1/2/2022,3/22/2021,Approved,2456,RAHUL SINGH,Installation pending
+711,BENNY,Male,South,DELHI,110037,INDIVIDUAL,PAN,2005246,Residential,5,2/26/2021,1/28/2022,3/26/2021,Approved,1460,HEM CHAND,Installation pending
+712,CLARA,Male,South,DELHI,110015,INDIVIDUAL,PASSPORT,799158675,Commerical,5,11/29/2021,8/22/2021,12/29/2021,Connection Released,1460,HEM CHAND,Installation completed
+713,IVY,Male,South,DELHI,110010,INDIVIDUAL,PAN,8096367,Commerical,10,1/1/2021,7/21/2021,2/1/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+714,ROXANNE,Male,South,DELHI,110002,JOINT,AADHAR,5.01E+11,Commerical,9,10/30/2021,1/3/2022,11/30/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+715,GUSTAVO,Male,South,DELHI,110063,INDIVIDUAL,AADHAR,9.02E+11,Residential,4,4/9/2021,3/4/2021,5/9/2021,Approved,4510,VINOD GUPTA,Installation pending
+716,MONA,Male,South,DELHI,110013,INDIVIDUAL,PAN,5994904,Commerical,3,10/20/2021,10/11/2021,11/20/2021,Approved,1460,HEM CHAND,Installation pending
+717,GISELLE,Male,South,DELHI,110045,INDIVIDUAL,VOTER_ID,95021,Residential,12,1/4/2021,9/4/2021,2/4/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+718,MELVIN,Male,South,DELHI,110017,INDIVIDUAL,PAN,5368575,Commerical,3,1/1/2022,6/8/2021,2/1/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+719,VLADIMIR,Male,South,DELHI,110016,INDIVIDUAL,PASSPORT,289279459,Commerical,2,11/7/2021,1/23/2022,12/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+720,STAN,Male,South,DELHI,110015,INDIVIDUAL,VOTER_ID,87033,Residential,8,4/19/2021,7/23/2021,5/19/2021,Connection Released,1678,Manoj Pandey,Installation completed
+721,LÉONARD,Male,South,DELHI,110025,INDIVIDUAL,VOTER_ID,97890,Commerical,12,6/24/2021,4/2/2021,7/24/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+722,CORINNE,Male,South,DELHI,110060,INDIVIDUAL,PAN,9782808,Residential,4,3/14/2021,12/5/2021,4/14/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+723,AJ,Male,South,DELHI,110048,JOINT,PAN,8530823,Commerical,9,11/22/2021,6/18/2021,12/22/2021,Approved,2456,RAHUL SINGH,Installation pending
+724,NATHALIE,Male,South,DELHI,110055,JOINT,VOTER_ID,95577,Commerical,11,12/2/2021,11/5/2021,1/2/2022,Approved,4510,VINOD GUPTA,Installation pending
+725,MELODY,Male,South,DELHI,110029,INDIVIDUAL,PASSPORT,558822596,Residential,4,7/8/2021,2/28/2021,8/8/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+726,CHRISTIE,Male,South,DELHI,110051,JOINT,PASSPORT,585672773,Residential,4,10/30/2021,5/14/2021,11/30/2021,Connection Released,1678,Manoj Pandey,Installation completed
+727,MERCEDES,Male,South,DELHI,110061,INDIVIDUAL,AADHAR,6.22E+11,Commerical,6,7/20/2021,2/9/2021,8/20/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+728,MITCH,Male,South,DELHI,110039,INDIVIDUAL,PAN,8571173,Residential,11,12/2/2021,2/15/2021,1/2/2022,Connection Released,1311,Sudhanshu Gupta,Installation completed
+729,LANA,Male,East,DELHI,110033,INDIVIDUAL,PASSPORT,207772550,Commerical,3,6/1/2021,6/19/2021,7/1/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+730,HILLARY,Male,East,DELHI,110014,INDIVIDUAL,PASSPORT,427747716,Commerical,8,10/20/2021,12/29/2021,11/20/2021,Approved,4510,VINOD GUPTA,Installation pending
+731,JEANNETTE,Male,East,DELHI,110059,INDIVIDUAL,PAN,9050790,Residential,4,12/28/2021,4/15/2021,1/28/2022,Connection Released,1460,HEM CHAND,Installation completed
+732,ALISA,Male,East,DELHI,110034,INDIVIDUAL,PASSPORT,620077226,Residential,10,7/22/2021,8/28/2021,8/22/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+733,ELLIOT,Male,East,DELHI,110048,INDIVIDUAL,VOTER_ID,93266,Commerical,4,6/21/2021,11/19/2021,7/21/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+734,MOSHE,Male,East,DELHI,110014,INDIVIDUAL,PAN,4669873,Commerical,5,12/3/2021,2/27/2021,1/3/2022,Connection Released,4510,VINOD GUPTA,Installation completed
+735,GABRIELLA,Male,East,DELHI,110029,JOINT,VOTER_ID,77133,Residential,4,2/4/2021,11/17/2021,3/4/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+736,KIRK,Male,East,DELHI,110008,JOINT,VOTER_ID,96915,Residential,10,11/5/2021,5/27/2021,12/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+737,ANNMARIE,Male,East,DELHI,110002,INDIVIDUAL,VOTER_ID,70923,Commerical,2,12/24/2021,3/24/2021,1/24/2022,Approved,1311,Sudhanshu Gupta,Installation pending
+738,NORMAN,Male,East,DELHI,110012,INDIVIDUAL,PAN,1857758,Residential,2,12/21/2021,7/9/2021,1/21/2022,Approved,2456,RAHUL SINGH,Installation pending
+739,GABE,Male,East,DELHI,110013,INDIVIDUAL,VOTER_ID,88706,Commerical,12,12/25/2021,1/24/2022,1/25/2022,Approved,2456,RAHUL SINGH,Installation pending
+740,JULIANA,Male,East,DELHI,110059,INDIVIDUAL,VOTER_ID,98191,Commerical,12,9/11/2021,4/19/2021,10/11/2021,Connection Released,1460,HEM CHAND,Installation completed
+741,KIRSTEN,Male,East,DELHI,110011,INDIVIDUAL,AADHAR,5.05E+11,Commerical,1,8/4/2021,5/29/2021,9/4/2021,Connection Released,1460,HEM CHAND,Installation completed
+742,MONIKA,Male,East,DELHI,110034,INDIVIDUAL,PASSPORT,508547820,Commerical,1,5/8/2021,1/13/2022,6/8/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+743,JADE,Male,East,DELHI,110004,INDIVIDUAL,VOTER_ID,86250,Commerical,1,2/5/2021,11/2/2021,3/5/2021,Approved,1460,HEM CHAND,Installation pending
+744,EVE,Male,East,DELHI,110047,INDIVIDUAL,PASSPORT,246143222,Residential,8,2/16/2021,9/21/2021,3/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+745,FLORENCE,Male,East,DELHI,110022,JOINT,PASSPORT,602537908,Commerical,4,12/23/2021,11/21/2021,1/23/2022,Connection Released,1678,Manoj Pandey,Installation completed
+746,MARTY,Male,East,DELHI,110062,INDIVIDUAL,PASSPORT,640992117,Commerical,7,6/23/2021,4/8/2021,7/23/2021,Connection Released,1460,HEM CHAND,Installation completed
+747,ILANA,Male,East,DELHI,110044,INDIVIDUAL,PAN,2648351,Residential,6,3/2/2021,2/24/2021,4/2/2021,Connection Released,1460,HEM CHAND,Installation completed
+748,ENRIQUE,Male,East,DELHI,110059,INDIVIDUAL,PASSPORT,291186231,Commerical,8,11/5/2021,9/28/2021,12/5/2021,Connection Released,1460,HEM CHAND,Installation completed
+749,ARIELLE,Male,East,DELHI,110020,INDIVIDUAL,VOTER_ID,90817,Commerical,5,5/18/2021,12/24/2021,6/18/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+750,ALFRED,Male,East,DELHI,110036,INDIVIDUAL,PAN,2241743,Residential,11,4/7/2021,6/27/2021,5/7/2021,Approved,4510,VINOD GUPTA,Installation pending
+751,CAMERON,Male,East,DELHI,110047,INDIVIDUAL,AADHAR,4.35E+11,Commerical,10,1/1/2021,7/14/2021,2/1/2021,Approved,1460,HEM CHAND,Installation pending
+752,MAYRA,Male,East,DELHI,110027,INDIVIDUAL,PAN,5353412,Residential,8,4/28/2021,8/10/2021,5/28/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+753,FATIMA,Male,East,DELHI,110011,INDIVIDUAL,VOTER_ID,88980,Commerical,1,9/24/2021,1/31/2022,10/24/2021,Approved,1460,HEM CHAND,Installation pending
+754,SUSIE,Male,East,DELHI,110017,JOINT,AADHAR,8.17E+11,Residential,2,10/5/2021,6/30/2021,11/5/2021,Connection Released,1460,HEM CHAND,Installation completed
+755,ANGELINA,Male,East,DELHI,110027,JOINT,AADHAR,9.99E+11,Residential,11,1/28/2021,12/17/2021,2/28/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+756,MARION,Male,East,DELHI,110029,INDIVIDUAL,PASSPORT,528364077,Commerical,9,4/14/2021,6/30/2021,5/14/2021,Connection Released,1678,Manoj Pandey,Installation completed
+757,PAIGE,Male,East,DELHI,110025,JOINT,PASSPORT,470290799,Commerical,3,8/18/2021,12/26/2021,9/18/2021,Approved,2456,RAHUL SINGH,Installation pending
+758,SERENA,Male,East,DELHI,110056,INDIVIDUAL,VOTER_ID,85897,Commerical,5,12/24/2021,4/21/2021,1/24/2022,Approved,2456,RAHUL SINGH,Installation pending
+759,CANDACE,Male,East,DELHI,110007,INDIVIDUAL,AADHAR,5.87E+11,Commerical,8,1/9/2021,10/7/2021,2/9/2021,Connection Released,1460,HEM CHAND,Installation completed
+760,HÉLÈNE,Male,East,DELHI,110029,INDIVIDUAL,AADHAR,3.13E+11,Residential,8,1/15/2021,10/20/2021,2/15/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+761,WILLIE,Male,East,DELHI,110006,INDIVIDUAL,VOTER_ID,82932,Commerical,11,5/19/2021,11/25/2021,6/19/2021,Connection Released,1678,Manoj Pandey,Installation completed
+762,DALE,Male,East,DELHI,110055,INDIVIDUAL,PAN,3244290,Commerical,1,11/29/2021,2/19/2021,12/29/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+763,IRA,Male,East,DELHI,110048,INDIVIDUAL,VOTER_ID,99603,Residential,11,3/15/2021,10/26/2021,4/15/2021,Connection Released,1460,HEM CHAND,Installation completed
+764,RUDY,Male,East,DELHI,110062,INDIVIDUAL,PAN,6464858,Commerical,3,5/19/2021,6/2/2021,6/19/2021,Approved,1678,Manoj Pandey,Installation pending
+765,NICKY,Male,East,DELHI,110023,INDIVIDUAL,PAN,4958507,Residential,5,1/24/2021,6/23/2021,2/24/2021,Approved,1460,HEM CHAND,Installation pending
+766,MARA,Male,East,DELHI,110049,JOINT,AADHAR,9.51E+11,Commerical,9,8/6/2021,2/28/2021,9/6/2021,Approved,4510,VINOD GUPTA,Installation pending
+767,MAURICIO,Male,East,DELHI,110055,JOINT,VOTER_ID,90574,Commerical,1,8/20/2021,10/9/2021,9/20/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+768,GORDON,Male,East,DELHI,110030,INDIVIDUAL,AADHAR,1.59E+11,Residential,5,7/28/2021,3/15/2021,8/28/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+769,SHELLEY,Male,East,DELHI,110012,INDIVIDUAL,PAN,2469118,Residential,1,10/19/2021,3/15/2021,11/19/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+770,MARI,Male,East,DELHI,110047,INDIVIDUAL,PAN,4726801,Residential,9,1/27/2021,1/10/2022,2/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+771,JEANNIE,Male,East,DELHI,110021,INDIVIDUAL,PASSPORT,761483902,Residential,2,7/28/2021,3/2/2021,8/28/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+772,FIONA,Male,East,DELHI,110052,INDIVIDUAL,AADHAR,9.47E+11,Commerical,2,1/9/2021,3/3/2021,2/9/2021,Approved,1460,HEM CHAND,Installation pending
+773,RUBY,Male,East,DELHI,110018,INDIVIDUAL,PASSPORT,863778477,Commerical,8,10/17/2021,12/7/2021,11/17/2021,Connection Released,1460,HEM CHAND,Installation completed
+774,FRANKLIN,Male,East,DELHI,110030,INDIVIDUAL,PASSPORT,494017099,Commerical,1,4/27/2021,7/17/2021,5/27/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+775,KELSEY,Male,East,DELHI,110065,INDIVIDUAL,VOTER_ID,86412,Commerical,11,2/24/2021,3/25/2021,3/24/2021,Connection Released,1678,Manoj Pandey,Installation completed
+776,DAMON,Male,East,DELHI,110003,INDIVIDUAL,VOTER_ID,74310,Residential,3,6/9/2021,2/2/2021,7/9/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+777,TONYA,Male,East,DELHI,110046,INDIVIDUAL,PAN,5910111,Commerical,10,12/24/2021,7/28/2021,1/24/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+778,NEAL,Male,East,DELHI,110064,INDIVIDUAL,PASSPORT,921427315,Residential,12,12/2/2021,5/21/2021,1/2/2022,Approved,1460,HEM CHAND,Installation pending
+779,JODY,Male,East,DELHI,110003,INDIVIDUAL,VOTER_ID,72995,Commerical,11,8/2/2021,7/24/2021,9/2/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+780,ALINA,Male,East,DELHI,110034,JOINT,AADHAR,6.38E+11,Commerical,6,6/5/2021,9/9/2021,7/5/2021,Approved,4510,VINOD GUPTA,Installation pending
+781,GERALDINE,Male,East,DELHI,110047,JOINT,PAN,4139282,Commerical,11,6/8/2021,11/6/2021,7/8/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+782,MOHAMMAD,Male,East,DELHI,110005,INDIVIDUAL,AADHAR,4.53E+11,Residential,2,3/19/2021,8/28/2021,4/19/2021,Connection Released,1460,HEM CHAND,Installation completed
+783,DENIS,Male,East,DELHI,110030,INDIVIDUAL,PAN,2333105,Commerical,7,4/29/2021,5/10/2021,5/29/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+784,GILLIAN,Male,East,DELHI,110048,INDIVIDUAL,PAN,9267997,Commerical,5,12/13/2021,8/17/2021,1/13/2022,Connection Released,1678,Manoj Pandey,Installation completed
+785,MARIANA,Male,East,DELHI,110062,INDIVIDUAL,VOTER_ID,78941,Commerical,11,5/16/2021,11/2/2021,6/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+786,KENDRA,Male,East,DELHI,110014,INDIVIDUAL,AADHAR,1.82E+11,Residential,5,12/25/2021,7/20/2021,1/25/2022,Approved,2456,RAHUL SINGH,Installation pending
+787,MIKEY,Male,East,DELHI,110063,INDIVIDUAL,PASSPORT,455374951,Commerical,7,10/2/2021,12/11/2021,11/2/2021,Connection Released,1460,HEM CHAND,Installation completed
+788,DANIELLA,Male,East,DELHI,110045,INDIVIDUAL,PAN,1577303,Residential,5,8/21/2021,6/6/2021,9/21/2021,Connection Released,1460,HEM CHAND,Installation completed
+789,KING,Male,East,DELHI,110002,INDIVIDUAL,AADHAR,5.93E+11,Residential,7,10/21/2021,3/16/2021,11/21/2021,Connection Released,1460,HEM CHAND,Installation completed
+790,OWEN,Male,East,DELHI,110037,JOINT,PASSPORT,85328917,Commerical,12,2/23/2021,7/15/2021,3/23/2021,Approved,1678,Manoj Pandey,Installation pending
+791,LUCIA,Male,East,DELHI,110025,INDIVIDUAL,AADHAR,7.74E+11,Commerical,6,3/1/2021,9/8/2021,4/1/2021,Approved,2456,RAHUL SINGH,Installation pending
+792,BECCA,Male,East,DELHI,110017,INDIVIDUAL,PAN,4574030,Residential,4,10/8/2021,11/29/2021,11/8/2021,Approved,4510,VINOD GUPTA,Installation pending
+793,DANI,Male,East,DELHI,110034,INDIVIDUAL,AADHAR,7.34E+11,Commerical,5,1/30/2021,11/4/2021,2/28/2021,Approved,2456,RAHUL SINGH,Installation pending
+794,CASSIE,Male,East,DELHI,110009,INDIVIDUAL,PASSPORT,649571086,Commerical,8,3/8/2021,1/29/2022,4/8/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+795,ELISABETH,Male,East,DELHI,110030,INDIVIDUAL,AADHAR,3.90E+11,Residential,11,1/24/2021,6/30/2021,2/24/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+796,FABIÁN,Male,East,DELHI,110036,INDIVIDUAL,AADHAR,7.28E+11,Commerical,4,8/28/2021,2/17/2021,9/28/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+797,DAMIEN,Male,East,DELHI,110062,INDIVIDUAL,PASSPORT,310750498,Commerical,6,1/12/2021,12/14/2021,2/12/2021,Approved,4510,VINOD GUPTA,Installation pending
+798,PATTI,Male,East,DELHI,110054,INDIVIDUAL,PASSPORT,744423844,Commerical,1,2/3/2021,1/13/2022,3/3/2021,Approved,1460,HEM CHAND,Installation pending
+799,CAROLE,Male,East,DELHI,110005,INDIVIDUAL,AADHAR,8.48E+11,Commerical,9,11/24/2021,2/23/2021,12/24/2021,Connection Released,1678,Manoj Pandey,Installation completed
+800,CELESTE,Male,East,DELHI,110016,INDIVIDUAL,PAN,9563287,Residential,5,5/27/2021,8/22/2021,6/27/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+801,SHERYL,Male,East,DELHI,110050,INDIVIDUAL,PAN,5583393,Commerical,6,6/14/2021,7/22/2021,7/14/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+802,KARIN,Male,East,DELHI,110059,INDIVIDUAL,PAN,4502652,Residential,2,7/10/2021,10/20/2021,8/10/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+803,DARA,Male,East,DELHI,110049,JOINT,PAN,5554811,Residential,1,12/31/2021,11/23/2021,1/31/2022,Connection Released,1678,Manoj Pandey,Installation completed
+804,MILLIE,Male,East,DELHI,110022,JOINT,VOTER_ID,71702,Commerical,7,6/2/2021,6/19/2021,7/2/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+805,BELINDA,Male,East,DELHI,110040,INDIVIDUAL,AADHAR,7.54E+11,Commerical,1,4/28/2021,2/3/2021,5/28/2021,Approved,2456,RAHUL SINGH,Installation pending
+806,LOURDES,Male,East,DELHI,110003,INDIVIDUAL,PAN,6702456,Commerical,5,8/31/2021,1/23/2022,9/30/2021,Approved,2456,RAHUL SINGH,Installation pending
+807,WINNIE,Male,East,DELHI,110054,INDIVIDUAL,PASSPORT,538000653,Residential,5,4/11/2021,6/13/2021,5/11/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+808,LESLEY,Male,East,DELHI,110037,INDIVIDUAL,PASSPORT,831821408,Commerical,6,5/30/2021,9/29/2021,6/30/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+809,LOUIE,Male,East,DELHI,110037,INDIVIDUAL,VOTER_ID,75586,Commerical,7,11/17/2021,11/1/2021,12/17/2021,Connection Released,1678,Manoj Pandey,Installation completed
+810,LA,Male,East,DELHI,110021,INDIVIDUAL,PAN,1455592,Residential,5,5/31/2021,4/9/2021,6/30/2021,Connection Released,1678,Manoj Pandey,Installation completed
+811,FAITH,Male,East,DELHI,110023,INDIVIDUAL,PASSPORT,142742728,Residential,5,9/16/2021,6/29/2021,10/16/2021,Approved,4510,VINOD GUPTA,Installation pending
+812,ALISSA,Male,East,DELHI,110015,INDIVIDUAL,AADHAR,3.08E+11,Residential,1,3/17/2021,3/25/2021,4/17/2021,Approved,2456,RAHUL SINGH,Installation pending
+813,MEL,Male,East,DELHI,110003,JOINT,VOTER_ID,71774,Residential,11,11/26/2021,12/3/2021,12/26/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+814,ALFREDO,Male,East,DELHI,110054,INDIVIDUAL,AADHAR,1.12E+11,Residential,11,3/21/2021,2/21/2021,4/21/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+815,DIANNE,Male,East,DELHI,110020,INDIVIDUAL,PASSPORT,865794211,Residential,9,9/7/2021,3/5/2021,10/7/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+816,LISSETTE,Male,East,DELHI,110009,INDIVIDUAL,VOTER_ID,89130,Commerical,9,9/20/2021,8/15/2021,10/20/2021,Connection Released,1678,Manoj Pandey,Installation completed
+817,MARIBEL,Male,East,DELHI,110008,INDIVIDUAL,PAN,8395520,Commerical,11,10/25/2021,12/23/2021,11/25/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+818,NICOLA,Male,East,DELHI,110021,INDIVIDUAL,PAN,8411110,Commerical,7,11/21/2021,11/19/2021,12/21/2021,Approved,2456,RAHUL SINGH,Installation pending
+819,YOUNG,Male,East,DELHI,110059,INDIVIDUAL,AADHAR,6.71E+11,Commerical,7,4/5/2021,10/12/2021,5/5/2021,Approved,1460,HEM CHAND,Installation pending
+820,CRISTIAN,Male,East,DELHI,110063,INDIVIDUAL,PAN,7421638,Residential,8,1/17/2021,9/22/2021,2/17/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+821,LYNNE,Male,East,DELHI,110045,INDIVIDUAL,PASSPORT,41505946,Commerical,3,4/2/2021,8/23/2021,5/2/2021,Approved,4510,VINOD GUPTA,Installation pending
+822,LORETTA,Male,East,DELHI,110056,INDIVIDUAL,PASSPORT,80948006,Commerical,2,1/19/2021,1/2/2022,2/19/2021,Connection Released,1678,Manoj Pandey,Installation completed
+823,YAEL,Male,East,DELHI,110010,INDIVIDUAL,AADHAR,6.12E+11,Residential,9,9/26/2021,5/8/2021,10/26/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+824,CODY,Male,East,DELHI,110052,INDIVIDUAL,PAN,7167157,Commerical,7,5/2/2021,8/25/2021,6/2/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+825,TRISHA,Male,East,DELHI,110039,INDIVIDUAL,PAN,4372705,Residential,2,10/15/2021,4/7/2021,11/15/2021,Approved,1678,Manoj Pandey,Installation pending
+826,TANISHA,Male,East,DELHI,110040,INDIVIDUAL,AADHAR,1.11E+11,Commerical,3,12/12/2021,10/22/2021,1/12/2022,Approved,1460,HEM CHAND,Installation pending
+827,ROCHELLE,Male,East,DELHI,110011,JOINT,VOTER_ID,85921,Residential,2,5/23/2021,11/12/2021,6/23/2021,Connection Released,1678,Manoj Pandey,Installation completed
+828,GLEN,Male,East,DELHI,110048,INDIVIDUAL,PAN,6557594,Residential,12,1/29/2021,5/28/2021,2/28/2021,Connection Released,1460,HEM CHAND,Installation completed
+829,MAY,Male,East,DELHI,110009,INDIVIDUAL,VOTER_ID,85335,Commerical,2,9/9/2021,8/4/2021,10/9/2021,Connection Released,1678,Manoj Pandey,Installation completed
+830,HOPE,Male,East,DELHI,110024,INDIVIDUAL,AADHAR,6.38E+11,Residential,10,2/15/2021,11/12/2021,3/15/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+831,NIGEL,Male,East,DELHI,110021,INDIVIDUAL,PASSPORT,38186930,Commerical,7,2/15/2021,10/27/2021,3/15/2021,Connection Released,1460,HEM CHAND,Installation completed
+832,GEORGIA,Male,East,DELHI,110013,INDIVIDUAL,AADHAR,2.26E+11,Commerical,4,9/17/2021,5/6/2021,10/17/2021,Approved,4510,VINOD GUPTA,Installation pending
+833,ANTON,Male,East,DELHI,110019,INDIVIDUAL,PAN,6617130,Residential,6,6/3/2021,7/3/2021,7/3/2021,Approved,4510,VINOD GUPTA,Installation pending
+834,LOIS,Male,East,DELHI,110048,INDIVIDUAL,PASSPORT,12894590,Commerical,9,3/3/2021,4/3/2021,4/3/2021,Approved,4510,VINOD GUPTA,Installation pending
+835,AMIR,Male,East,DELHI,110034,INDIVIDUAL,VOTER_ID,97571,Commerical,3,6/15/2021,7/15/2021,7/15/2021,Approved,1460,HEM CHAND,Installation pending
+836,KRISTI,Male,East,DELHI,110036,INDIVIDUAL,PAN,7851899,Residential,9,12/10/2021,8/17/2021,1/10/2022,Connection Released,1460,HEM CHAND,Installation completed
+837,DOLORES,Male,East,DELHI,110054,INDIVIDUAL,AADHAR,8.86E+11,Commerical,11,2/2/2021,1/9/2022,3/2/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+838,ELEANOR,Male,East,DELHI,110040,INDIVIDUAL,AADHAR,3.86E+11,Residential,10,2/3/2021,11/19/2021,3/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+839,WESLEY,Male,East,DELHI,110045,JOINT,VOTER_ID,84437,Commerical,1,7/17/2021,12/24/2021,8/17/2021,Approved,1678,Manoj Pandey,Installation pending
+840,LUISA,Male,East,DELHI,110059,INDIVIDUAL,AADHAR,2.74E+11,Residential,8,12/9/2021,3/4/2021,1/9/2022,Approved,1460,HEM CHAND,Installation pending
+841,AIDA,Male,East,DELHI,110047,INDIVIDUAL,AADHAR,1.69E+11,Commerical,9,11/7/2021,10/13/2021,12/7/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+842,LEONARDO,Male,East,DELHI,110038,INDIVIDUAL,PAN,6028335,Residential,5,10/19/2021,8/12/2021,11/19/2021,Approved,1460,HEM CHAND,Installation pending
+843,ISRAEL,Male,East,DELHI,110064,INDIVIDUAL,VOTER_ID,94867,Commerical,8,11/24/2021,7/22/2021,12/24/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+844,NOELLE,Male,East,DELHI,110003,INDIVIDUAL,VOTER_ID,99486,Commerical,10,2/4/2021,2/10/2021,3/4/2021,Approved,1678,Manoj Pandey,Installation pending
+845,PRINCE,Male,East,DELHI,110052,INDIVIDUAL,PAN,8809938,Commerical,6,9/13/2021,6/6/2021,10/13/2021,Approved,2456,RAHUL SINGH,Installation pending
+846,ANTOINE,Male,East,DELHI,110019,INDIVIDUAL,PAN,1551438,Commerical,6,6/17/2021,12/22/2021,7/17/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+847,ERNEST,Male,East,DELHI,110059,INDIVIDUAL,AADHAR,3.16E+11,Residential,9,2/25/2021,8/22/2021,3/25/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+848,REGINALD,Male,East,DELHI,110058,INDIVIDUAL,AADHAR,4.95E+11,Commerical,3,1/2/2021,8/11/2021,2/2/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+849,EDDY,Male,East,DELHI,110053,INDIVIDUAL,AADHAR,5.04E+11,Residential,2,7/12/2021,11/16/2021,8/12/2021,Approved,1460,HEM CHAND,Installation pending
+850,HUGO,Male,East,DELHI,110063,INDIVIDUAL,VOTER_ID,97291,Residential,3,6/22/2021,5/17/2021,7/22/2021,Approved,1460,HEM CHAND,Installation pending
+851,JIN,Male,East,DELHI,110041,INDIVIDUAL,PAN,9301659,Commerical,9,6/28/2021,2/7/2021,7/28/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+852,MAURA,Male,East,DELHI,110033,INDIVIDUAL,VOTER_ID,87304,Residential,4,4/21/2021,11/25/2021,5/21/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+853,GIL,Male,East,DELHI,110018,JOINT,PAN,8167706,Commerical,4,6/24/2021,10/13/2021,7/24/2021,Connection Released,1460,HEM CHAND,Installation completed
+854,MALCOLM,Male,East,DELHI,110047,INDIVIDUAL,VOTER_ID,77701,Residential,8,8/9/2021,2/6/2021,9/9/2021,Connection Released,1678,Manoj Pandey,Installation completed
+855,LIAM,Male,East,DELHI,110059,INDIVIDUAL,VOTER_ID,95071,Commerical,10,10/6/2021,7/23/2021,11/6/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+856,BLAIR,Male,East,DELHI,110030,INDIVIDUAL,PAN,2400179,Commerical,3,1/10/2021,5/28/2021,2/10/2021,Approved,2456,RAHUL SINGH,Installation pending
+857,MIRANDA,Male,East,DELHI,110021,INDIVIDUAL,VOTER_ID,98649,Commerical,4,5/6/2021,2/13/2021,6/6/2021,Approved,2456,RAHUL SINGH,Installation pending
+858,ARIANA,Male,East,DELHI,110014,INDIVIDUAL,VOTER_ID,88861,Residential,11,11/22/2021,6/5/2021,12/22/2021,Approved,1460,HEM CHAND,Installation pending
+859,ABRAHAM,Male,East,DELHI,110044,INDIVIDUAL,VOTER_ID,74331,Commerical,6,7/22/2021,9/6/2021,8/22/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+860,HELENA,Male,East,DELHI,110060,INDIVIDUAL,VOTER_ID,97136,Residential,12,7/28/2021,2/28/2021,8/28/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+861,ELLIE,Male,East,DELHI,110021,JOINT,AADHAR,1.37E+11,Commerical,10,4/10/2021,6/5/2021,5/10/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+862,JAMEL,Male,East,DELHI,110012,INDIVIDUAL,VOTER_ID,79719,Commerical,1,7/17/2021,1/13/2022,8/17/2021,Connection Released,1460,HEM CHAND,Installation completed
+863,VERA,Male,East,DELHI,110001,INDIVIDUAL,PASSPORT,979450091,Commerical,6,7/11/2021,5/7/2021,8/11/2021,Approved,1460,HEM CHAND,Installation pending
+864,GEOFFREY,Male,East,DELHI,110052,INDIVIDUAL,PASSPORT,375876360,Commerical,10,10/16/2021,2/18/2021,11/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+865,DUSTIN,Male,East,DELHI,110009,INDIVIDUAL,PASSPORT,532083142,Commerical,12,10/2/2021,7/4/2021,11/2/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+866,REGGIE,Male,East,DELHI,110043,INDIVIDUAL,AADHAR,8.59E+11,Commerical,7,6/20/2021,2/28/2021,7/20/2021,Connection Released,1678,Manoj Pandey,Installation completed
+867,BEATRICE,Male,East,DELHI,110041,INDIVIDUAL,PAN,4025231,Residential,1,11/11/2021,5/9/2021,12/11/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+868,SHELDON,Male,East,DELHI,110043,INDIVIDUAL,VOTER_ID,70237,Residential,7,4/17/2021,10/28/2021,5/17/2021,Approved,1460,HEM CHAND,Installation pending
+869,GENEVIEVE,Male,East,DELHI,110007,INDIVIDUAL,AADHAR,9.00E+11,Residential,6,1/7/2021,4/20/2021,2/7/2021,Approved,1460,HEM CHAND,Installation pending
+870,MARGIE,Male,East,DELHI,110026,INDIVIDUAL,VOTER_ID,96209,Commerical,7,10/25/2021,10/30/2021,11/25/2021,Approved,2456,RAHUL SINGH,Installation pending
+871,FELIPE,Male,East,DELHI,110060,INDIVIDUAL,PASSPORT,914949663,Commerical,5,9/13/2021,6/6/2021,10/13/2021,Approved,1678,Manoj Pandey,Installation pending
+872,TERENCE,Male,East,DELHI,110023,INDIVIDUAL,PAN,6659588,Commerical,8,5/6/2021,12/17/2021,6/6/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+873,BRIANA,Male,East,DELHI,110022,INDIVIDUAL,PAN,3391421,Commerical,11,2/16/2021,3/8/2021,3/16/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+874,MARIAN,Male,East,DELHI,110013,INDIVIDUAL,PASSPORT,171840570,Commerical,2,6/15/2021,12/7/2021,7/15/2021,Connection Released,1678,Manoj Pandey,Installation completed
+875,FREDERICK,Male,East,DELHI,110061,JOINT,PAN,7934654,Commerical,7,1/6/2021,1/8/2022,2/6/2021,Approved,2456,RAHUL SINGH,Installation pending
+876,ILYA,Male,East,DELHI,110035,INDIVIDUAL,AADHAR,2.91E+11,Residential,9,6/23/2021,2/20/2021,7/23/2021,Approved,2456,RAHUL SINGH,Installation pending
+877,ELANA,Male,East,DELHI,110021,INDIVIDUAL,PASSPORT,46415793,Commerical,9,8/8/2021,11/11/2021,9/8/2021,Connection Released,1460,HEM CHAND,Installation completed
+878,YELENA,Male,East,DELHI,110031,INDIVIDUAL,PAN,3806661,Residential,3,10/29/2021,1/12/2022,11/29/2021,Connection Released,1460,HEM CHAND,Installation completed
+879,KERI,Male,East,DELHI,110022,INDIVIDUAL,VOTER_ID,89130,Commerical,12,10/4/2021,9/10/2021,11/4/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+880,GAVIN,Male,East,DELHI,110027,JOINT,PASSPORT,549500843,Commerical,12,12/29/2021,10/6/2021,1/29/2022,Connection Released,1311,Sudhanshu Gupta,Installation completed
+881,CARLO,Male,East,DELHI,110027,INDIVIDUAL,VOTER_ID,93652,Commerical,11,5/31/2021,9/22/2021,6/30/2021,Connection Released,1460,HEM CHAND,Installation completed
+882,ELIAS,Male,East,DELHI,110001,INDIVIDUAL,VOTER_ID,99332,Residential,5,4/28/2021,9/20/2021,5/28/2021,Approved,4510,VINOD GUPTA,Installation pending
+883,LOLA,Male,East,DELHI,110055,INDIVIDUAL,VOTER_ID,98022,Commerical,8,1/13/2021,12/2/2021,2/13/2021,Approved,1678,Manoj Pandey,Installation pending
+884,CLIFF,Male,East,DELHI,110032,INDIVIDUAL,AADHAR,4.30E+11,Commerical,4,5/5/2021,12/9/2021,6/5/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+885,NICHOLE,Male,East,DELHI,110038,INDIVIDUAL,PASSPORT,783766572,Commerical,10,1/17/2021,2/8/2021,2/17/2021,Connection Released,1460,HEM CHAND,Installation completed
+886,NANA,Male,East,DELHI,110053,INDIVIDUAL,VOTER_ID,80568,Residential,3,11/14/2021,1/28/2022,12/14/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+887,RODRIGO,Male,East,DELHI,110032,INDIVIDUAL,VOTER_ID,73558,Residential,2,12/13/2021,8/9/2021,1/13/2022,Connection Released,2456,RAHUL SINGH,Installation completed
+888,MALIK,Male,East,DELHI,110013,INDIVIDUAL,PASSPORT,152885733,Residential,4,8/6/2021,6/7/2021,9/6/2021,Approved,1678,Manoj Pandey,Installation pending
+889,ARMANDO,Male,East,DELHI,110053,INDIVIDUAL,AADHAR,9.98E+11,Commerical,7,1/31/2021,3/1/2021,2/28/2021,Approved,4510,VINOD GUPTA,Installation pending
+890,SYDNEY,Male,East,DELHI,110049,INDIVIDUAL,PASSPORT,748973159,Residential,7,1/23/2021,12/7/2021,2/23/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+891,LORENA,Male,East,DELHI,110004,INDIVIDUAL,PASSPORT,495853946,Commerical,11,7/22/2021,7/19/2021,8/22/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+892,GRANT,Male,East,DELHI,110018,INDIVIDUAL,PASSPORT,371929035,Residential,6,6/22/2021,7/18/2021,7/22/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+893,LYNDA,Male,East,DELHI,110065,INDIVIDUAL,PAN,3266183,Residential,10,9/20/2021,9/29/2021,10/20/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+894,KAI,Male,East,DELHI,110045,JOINT,PAN,8473026,Commerical,11,10/23/2021,2/20/2021,11/23/2021,Connection Released,1460,HEM CHAND,Installation completed
+895,JULISSA,Male,East,DELHI,110019,INDIVIDUAL,PASSPORT,523788347,Commerical,4,5/5/2021,7/18/2021,6/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+896,YAN,Male,East,DELHI,110022,INDIVIDUAL,VOTER_ID,73640,Commerical,7,12/13/2021,3/5/2021,1/13/2022,Approved,1678,Manoj Pandey,Installation pending
+897,BELLA,Male,East,DELHI,110043,INDIVIDUAL,PAN,4007635,Residential,10,4/7/2021,11/21/2021,5/7/2021,Approved,4510,VINOD GUPTA,Installation pending
+898,RAJ,Male,East,DELHI,110050,INDIVIDUAL,PASSPORT,476468472,Residential,2,1/18/2021,10/9/2021,2/18/2021,Approved,2456,RAHUL SINGH,Installation pending
+899,LADY,Male,East,DELHI,110040,INDIVIDUAL,VOTER_ID,89582,Residential,4,5/19/2021,11/1/2021,6/19/2021,Connection Released,1460,HEM CHAND,Installation completed
+900,PENNY,Male,East,DELHI,110052,JOINT,PASSPORT,374177575,Residential,3,1/3/2021,2/12/2021,2/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+901,ALISHA,Male,East,DELHI,110011,INDIVIDUAL,PASSPORT,246320884,Residential,11,12/23/2021,8/5/2021,1/23/2022,Connection Released,1311,Sudhanshu Gupta,Installation completed
+902,ELYSE,Male,East,DELHI,110022,INDIVIDUAL,VOTER_ID,95666,Residential,4,6/4/2021,11/11/2021,7/4/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+903,ALEJANDRA,Male,East,DELHI,110064,INDIVIDUAL,PAN,5967885,Commerical,10,1/30/2021,8/5/2021,2/28/2021,Approved,4510,VINOD GUPTA,Installation pending
+904,KELLI,Male,East,DELHI,110011,INDIVIDUAL,VOTER_ID,72720,Commerical,12,5/13/2021,11/20/2021,6/13/2021,Connection Released,1460,HEM CHAND,Installation completed
+905,MO,Male,East,DELHI,110060,INDIVIDUAL,PAN,4070637,Residential,5,4/9/2021,11/29/2021,5/9/2021,Approved,1460,HEM CHAND,Installation pending
+906,PERRY,Male,East,DELHI,110021,INDIVIDUAL,PAN,8330986,Commerical,6,9/28/2021,11/27/2021,10/28/2021,Approved,1678,Manoj Pandey,Installation pending
+907,SONYA,Male,East,DELHI,110052,INDIVIDUAL,PAN,2391244,Residential,5,3/20/2021,9/13/2021,4/20/2021,Approved,4510,VINOD GUPTA,Installation pending
+908,DAPHNE,Female,East,DELHI,110024,INDIVIDUAL,PAN,4518661,Commerical,5,9/30/2021,11/28/2021,10/30/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+909,GEOFF,Female,East,DELHI,110051,INDIVIDUAL,PAN,4875582,Commerical,3,8/29/2021,2/12/2021,9/29/2021,Connection Released,1678,Manoj Pandey,Installation completed
+910,AGNÈS,Female,East,DELHI,110011,INDIVIDUAL,PASSPORT,981667754,Residential,1,10/1/2021,7/2/2021,11/1/2021,Connection Released,1678,Manoj Pandey,Installation completed
+911,ALLYSON,Female,East,DELHI,110055,INDIVIDUAL,VOTER_ID,88354,Commerical,7,3/9/2021,7/9/2021,4/9/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+912,DUANE,Female,East,DELHI,110062,INDIVIDUAL,VOTER_ID,94359,Commerical,7,5/6/2021,2/15/2021,6/6/2021,Approved,1678,Manoj Pandey,Installation pending
+913,SHEENA,Female,East,DELHI,110013,INDIVIDUAL,VOTER_ID,71556,Residential,8,11/17/2021,7/30/2021,12/17/2021,Approved,2456,RAHUL SINGH,Installation pending
+914,DARRELL,Female,East,DELHI,110016,JOINT,PAN,7171083,Residential,11,5/29/2021,5/18/2021,6/29/2021,Connection Released,1678,Manoj Pandey,Installation completed
+915,RAPHAEL,Female,East,DELHI,110005,INDIVIDUAL,VOTER_ID,76764,Residential,8,2/8/2021,12/14/2021,3/8/2021,Approved,1460,HEM CHAND,Installation pending
+916,JULIET,Female,East,DELHI,110038,INDIVIDUAL,PAN,1417691,Residential,2,11/7/2021,12/16/2021,12/7/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+917,ELVIS,Female,East,DELHI,110025,INDIVIDUAL,VOTER_ID,73970,Commerical,3,2/25/2021,8/26/2021,3/25/2021,Connection Released,1678,Manoj Pandey,Installation completed
+918,AILEEN,Female,East,DELHI,110039,INDIVIDUAL,VOTER_ID,76821,Residential,5,11/3/2021,1/17/2022,12/3/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+919,VALENTINA,Female,East,DELHI,110003,JOINT,VOTER_ID,77254,Commerical,6,1/21/2021,2/28/2021,2/21/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+920,TRISH,Female,East,DELHI,110029,INDIVIDUAL,VOTER_ID,90659,Residential,9,12/8/2021,1/12/2022,1/8/2022,Approved,1678,Manoj Pandey,Installation pending
+921,GARRETT,Female,East,DELHI,110036,INDIVIDUAL,AADHAR,7.28E+11,Residential,10,1/20/2021,1/3/2022,2/20/2021,Approved,4510,VINOD GUPTA,Installation pending
+922,RAVI,Female,East,DELHI,110058,INDIVIDUAL,PAN,9975577,Commerical,5,10/11/2021,4/11/2021,11/11/2021,Approved,1678,Manoj Pandey,Installation pending
+923,MAXINE,Female,East,DELHI,110013,INDIVIDUAL,PASSPORT,49707938,Residential,6,12/12/2021,6/24/2021,1/12/2022,Approved,1678,Manoj Pandey,Installation pending
+924,MILTON,Female,East,DELHI,110029,INDIVIDUAL,PAN,1394170,Commerical,7,2/5/2021,8/7/2021,3/5/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+925,LORENZO,Female,East,DELHI,110017,INDIVIDUAL,PAN,2987839,Commerical,4,7/15/2021,12/25/2021,8/15/2021,Connection Released,1678,Manoj Pandey,Installation completed
+926,MICHAL,Female,East,DELHI,110023,INDIVIDUAL,PASSPORT,855446210,Residential,2,11/23/2021,2/28/2021,12/23/2021,Connection Released,1678,Manoj Pandey,Installation completed
+927,IVETTE,Female,East,DELHI,110036,INDIVIDUAL,PAN,3729306,Residential,6,8/10/2021,7/1/2021,9/10/2021,Approved,2456,RAHUL SINGH,Installation pending
+928,LLOYD,Female,East,DELHI,110061,INDIVIDUAL,PASSPORT,912549400,Residential,4,9/6/2021,10/5/2021,10/6/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+929,CELIA,Female,East,DELHI,110061,INDIVIDUAL,AADHAR,3.24E+11,Residential,9,10/19/2021,4/21/2021,11/19/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+930,LILIANA,Female,East,DELHI,110020,INDIVIDUAL,PAN,2813784,Residential,9,9/12/2021,10/6/2021,10/12/2021,Connection Released,1678,Manoj Pandey,Installation completed
+931,ELLA,Female,East,DELHI,110010,JOINT,PAN,1567516,Residential,7,8/22/2021,7/20/2021,9/22/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+932,HASSAN,Female,East,DELHI,110060,INDIVIDUAL,PAN,7947766,Commerical,6,7/23/2021,10/24/2021,8/23/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+933,TOBY,Female,East,DELHI,110036,INDIVIDUAL,PASSPORT,44460907,Commerical,6,12/2/2021,1/10/2022,1/2/2022,Connection Released,1460,HEM CHAND,Installation completed
+934,SHIRA,Female,East,DELHI,110050,INDIVIDUAL,VOTER_ID,87149,Residential,11,8/22/2021,9/22/2021,9/22/2021,Approved,4510,VINOD GUPTA,Installation pending
+935,BETHANY,Female,East,DELHI,110014,INDIVIDUAL,VOTER_ID,92919,Commerical,11,8/20/2021,7/25/2021,9/20/2021,Approved,1460,HEM CHAND,Installation pending
+936,GRETCHEN,Female,East,DELHI,110005,INDIVIDUAL,VOTER_ID,86136,Commerical,6,11/2/2021,6/2/2021,12/2/2021,Approved,2456,RAHUL SINGH,Installation pending
+937,YANA,Female,East,DELHI,110027,INDIVIDUAL,PASSPORT,842106208,Commerical,12,4/8/2021,11/7/2021,5/8/2021,Connection Released,1460,HEM CHAND,Installation completed
+938,DEB,Female,East,DELHI,110054,INDIVIDUAL,AADHAR,2.58E+11,Residential,12,7/25/2021,1/21/2022,8/25/2021,Connection Released,1460,HEM CHAND,Installation completed
+939,ALYSON,Female,East,DELHI,110001,INDIVIDUAL,VOTER_ID,70187,Commerical,5,3/7/2021,4/23/2021,4/7/2021,Connection Released,1460,HEM CHAND,Installation completed
+940,RORY,Female,East,DELHI,110019,JOINT,VOTER_ID,95352,Commerical,3,11/9/2021,5/27/2021,12/9/2021,Approved,1460,HEM CHAND,Installation pending
+941,CANDY,Female,East,DELHI,110020,JOINT,VOTER_ID,98752,Commerical,3,1/8/2021,2/15/2021,2/8/2021,Approved,1460,HEM CHAND,Installation pending
+942,ROLAND,Female,East,DELHI,110024,INDIVIDUAL,AADHAR,3.11E+11,Residential,7,9/22/2021,6/2/2021,10/22/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+943,STÉPHAN,Female,East,DELHI,110027,JOINT,PAN,1174601,Residential,9,9/5/2021,4/7/2021,10/5/2021,Pending,1460,HEM CHAND,Documents verification in progress
+944,NELLY,Female,East,DELHI,110002,INDIVIDUAL,AADHAR,6.48E+11,Residential,12,8/10/2021,2/6/2021,9/10/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+945,WINSTON,Female,East,DELHI,110051,INDIVIDUAL,AADHAR,1.46E+11,Residential,8,1/23/2021,11/26/2021,2/23/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+946,GUILLERMO,Female,East,DELHI,110002,INDIVIDUAL,AADHAR,8.44E+11,Commerical,3,10/11/2021,1/1/2022,11/11/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+947,CLARE,Female,East,DELHI,110005,INDIVIDUAL,PAN,3568970,Commerical,10,12/28/2021,5/14/2021,1/28/2022,Approved,1460,HEM CHAND,Installation pending
+948,DAMARIS,Female,East,DELHI,110012,INDIVIDUAL,VOTER_ID,87852,Residential,2,7/9/2021,2/28/2021,8/9/2021,Approved,4510,VINOD GUPTA,Installation pending
+949,ISABELLA,Female,East,DELHI,110052,INDIVIDUAL,PASSPORT,60569218,Commerical,3,5/7/2021,9/10/2021,6/7/2021,Approved,2456,RAHUL SINGH,Installation pending
+950,JANA,Female,East,DELHI,110012,INDIVIDUAL,PAN,9621081,Residential,2,2/1/2021,5/14/2021,3/1/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+951,STEPH,Female,East,DELHI,110059,INDIVIDUAL,PAN,2532564,Commerical,11,1/6/2021,6/6/2021,2/6/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+952,TALIA,Female,East,DELHI,110026,JOINT,AADHAR,3.68E+11,Residential,4,5/22/2021,2/28/2021,6/22/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+953,ROBBIE,Female,East,DELHI,110012,JOINT,PAN,4068587,Commerical,6,11/23/2021,1/29/2022,12/23/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+954,DARYL,Female,East,DELHI,110060,INDIVIDUAL,PAN,9745394,Residential,1,11/7/2021,5/5/2021,12/7/2021,Approved,4510,VINOD GUPTA,Installation pending
+955,KAITLIN,Female,East,DELHI,110010,INDIVIDUAL,AADHAR,7.77E+11,Commerical,11,6/19/2021,4/26/2021,7/19/2021,Approved,4510,VINOD GUPTA,Installation pending
+956,VITO,Female,East,DELHI,110018,INDIVIDUAL,VOTER_ID,76104,Commerical,6,4/8/2021,10/19/2021,5/8/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+957,MEAGHAN,Female,East,DELHI,110005,INDIVIDUAL,PAN,2013181,Residential,11,6/18/2021,8/29/2021,7/18/2021,Approved,2456,RAHUL SINGH,Installation pending
+958,LEA,Female,East,DELHI,110011,INDIVIDUAL,PASSPORT,677641961,Commerical,4,8/29/2021,2/27/2021,9/29/2021,Approved,1460,HEM CHAND,Installation pending
+959,VINCE,Female,East,DELHI,110053,INDIVIDUAL,AADHAR,7.69E+11,Residential,8,1/20/2021,4/20/2021,2/20/2021,Approved,1678,Manoj Pandey,Installation pending
+960,SYED,Female,East,DELHI,110044,INDIVIDUAL,VOTER_ID,72073,Residential,4,6/18/2021,9/19/2021,7/18/2021,Approved,2456,RAHUL SINGH,Installation pending
+961,RACHELLE,Female,East,DELHI,110017,INDIVIDUAL,PAN,4558948,Commerical,3,4/18/2021,2/12/2021,5/18/2021,Pending,1460,HEM CHAND,Documents verification in progress
+962,GIUSEPPE,Female,East,DELHI,110022,JOINT,VOTER_ID,98828,Commerical,12,11/21/2021,7/8/2021,12/21/2021,Pending,1460,HEM CHAND,Documents verification in progress
+963,GUS,Female,East,DELHI,110033,INDIVIDUAL,AADHAR,4.93E+11,Commerical,2,1/24/2021,2/6/2021,2/24/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+964,ELIZA,Female,East,DELHI,110029,INDIVIDUAL,PASSPORT,213856799,Residential,9,2/5/2021,12/17/2021,3/5/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+965,DWIGHT,Female,East,DELHI,110013,INDIVIDUAL,VOTER_ID,76158,Residential,4,10/21/2021,8/20/2021,11/21/2021,Approved,1460,HEM CHAND,Installation pending
+966,MILDRED,Female,East,DELHI,110057,INDIVIDUAL,PASSPORT,463634724,Residential,9,5/14/2021,11/10/2021,6/14/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+967,GILBERT,Female,East,DELHI,110014,INDIVIDUAL,PAN,4142446,Commerical,10,9/9/2021,5/27/2021,10/9/2021,Approved,2456,RAHUL SINGH,Installation pending
+968,GIGI,Female,East,DELHI,110062,INDIVIDUAL,VOTER_ID,93813,Commerical,3,5/19/2021,7/23/2021,6/19/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+969,MINA,Female,East,DELHI,110038,INDIVIDUAL,AADHAR,9.07E+11,Residential,7,5/31/2021,7/17/2021,6/30/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+970,KAITLYN,Female,East,DELHI,110043,INDIVIDUAL,PAN,9217755,Residential,4,9/11/2021,9/3/2021,10/11/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+971,SHERI,Female,East,DELHI,110045,JOINT,PASSPORT,697149750,Residential,3,2/24/2021,4/8/2021,3/24/2021,Pending,1460,HEM CHAND,Documents verification in progress
+972,BEATRIZ,Female,East,DELHI,110009,JOINT,PASSPORT,301646221,Residential,10,7/29/2021,11/26/2021,8/29/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+973,BYRON,Female,East,DELHI,110011,INDIVIDUAL,PASSPORT,600851818,Commerical,9,5/22/2021,10/20/2021,6/22/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+974,LEWIS,Female,East,DELHI,110047,JOINT,PAN,8423565,Commerical,6,2/11/2021,4/26/2021,3/11/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+975,DARNELL,Female,East,DELHI,110045,INDIVIDUAL,AADHAR,3.27E+11,Residential,8,4/14/2021,10/10/2021,5/14/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+976,YASMIN,Female,East,DELHI,110026,INDIVIDUAL,PAN,1699211,Residential,11,4/22/2021,2/13/2021,5/22/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+977,ANTONIA,Female,East,DELHI,110058,INDIVIDUAL,AADHAR,8.56E+11,Residential,1,12/30/2021,10/9/2021,1/30/2022,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+978,BRYANT,Female,East,DELHI,110065,INDIVIDUAL,PAN,9080749,Residential,2,11/23/2021,7/15/2021,12/23/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+979,ARNOLD,Female,East,DELHI,110038,INDIVIDUAL,PASSPORT,555527377,Commerical,4,12/7/2021,12/2/2021,1/7/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+980,MISSY,Female,East,DELHI,110047,INDIVIDUAL,AADHAR,4.40E+11,Commerical,7,12/29/2021,6/10/2021,1/29/2022,Pending,2456,RAHUL SINGH,Documents verification in progress
+981,GWEN,Female,East,DELHI,110048,INDIVIDUAL,AADHAR,6.82E+11,Residential,5,5/3/2021,10/18/2021,6/3/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+982,ROSEANN,Female,East,DELHI,110063,INDIVIDUAL,PASSPORT,724333803,Commerical,12,6/6/2021,9/6/2021,7/6/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+983,BRUNO,Female,East,DELHI,110029,JOINT,AADHAR,9.60E+11,Commerical,7,11/25/2021,12/9/2021,12/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+984,PRIYA,Female,East,DELHI,110020,JOINT,PASSPORT,884162046,Residential,12,9/25/2021,4/8/2021,10/25/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+985,ALEC,Female,East,DELHI,110006,INDIVIDUAL,PASSPORT,614297374,Commerical,11,2/3/2021,10/1/2021,3/3/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+986,ERNESTO,Female,East,DELHI,110004,INDIVIDUAL,AADHAR,3.52E+11,Residential,8,1/23/2021,2/14/2021,2/23/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+987,EARL,Female,East,DELHI,110029,INDIVIDUAL,VOTER_ID,99237,Commerical,8,9/2/2021,12/30/2021,10/2/2021,Pending,1460,HEM CHAND,Documents verification in progress
+988,JOSIE,Female,East,DELHI,110049,INDIVIDUAL,VOTER_ID,90843,Residential,8,2/26/2021,8/9/2021,3/26/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+989,WEI,Female,East,DELHI,110050,INDIVIDUAL,AADHAR,7.41E+11,Commerical,8,10/1/2021,4/14/2021,11/1/2021,Approved,2456,RAHUL SINGH,Installation pending
+990,AVA,Female,East,DELHI,110055,INDIVIDUAL,VOTER_ID,77722,Residential,3,1/12/2021,7/18/2021,2/12/2021,Approved,1678,Manoj Pandey,Installation pending
+991,MIN,Female,East,DELHI,110045,INDIVIDUAL,PAN,1568357,Residential,6,7/5/2021,3/4/2021,8/5/2021,Approved,2456,RAHUL SINGH,Installation pending
+992,GRAHAM,Female,East,DELHI,110044,INDIVIDUAL,PAN,1567055,Commerical,10,10/11/2021,9/10/2021,11/11/2021,Approved,1678,Manoj Pandey,Installation pending
+993,CARMINE,Female,East,DELHI,110037,JOINT,PAN,3284069,Residential,7,7/5/2021,8/5/2021,8/5/2021,Approved,1460,HEM CHAND,Installation pending
+994,ALLY,Female,East,DELHI,110034,INDIVIDUAL,PAN,2802493,Commerical,9,10/20/2021,11/20/2021,11/20/2021,Approved,1678,Manoj Pandey,Installation pending
+995,KENYA,Female,East,DELHI,110051,INDIVIDUAL,PAN,6067426,Residential,11,10/29/2021,11/29/2021,11/29/2021,Approved,1678,Manoj Pandey,Installation pending
+996,RAMONA,Female,East,DELHI,110035,INDIVIDUAL,PAN,1514491,Commerical,9,10/27/2021,11/27/2021,11/27/2021,Approved,4510,VINOD GUPTA,Installation pending
+997,KIRA,Female,East,DELHI,110023,INDIVIDUAL,AADHAR,8.82E+11,Residential,3,6/1/2021,,7/1/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+998,ADA,Female,East,DELHI,110060,INDIVIDUAL,PAN,3217695,Commerical,12,4/24/2021,,5/24/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+999,FRANCESCO,Female,East,DELHI,110064,INDIVIDUAL,VOTER_ID,77595,Commerical,2,10/12/2021,,11/12/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1000,ELISSA,Female,East,DELHI,110063,INDIVIDUAL,AADHAR,2.14E+11,Commerical,4,12/23/2021,,1/23/2022,Pending,4510,VINOD GUPTA,Documents verification in progress
+1001,HAYLEY,Female,East,DELHI,110042,INDIVIDUAL,PASSPORT,799143397,Residential,5,8/29/2021,,9/29/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1002,LOREN,Female,East,DELHI,110019,JOINT,VOTER_ID,78311,Residential,8,9/29/2021,,10/29/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1003,JOHNATHAN,Female,East,DELHI,110029,JOINT,AADHAR,2.07E+11,Residential,12,3/16/2021,,4/16/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1004,ELSA,Female,East,DELHI,110043,INDIVIDUAL,VOTER_ID,77279,Residential,12,7/13/2021,,8/13/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1005,KÁRI,Female,East,DELHI,110042,JOINT,PAN,4537304,Residential,10,10/12/2021,,11/12/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1006,FABIO,Female,East,DELHI,110032,INDIVIDUAL,PASSPORT,101134400,Residential,9,6/16/2021,,7/16/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1007,TRISTAN,Female,East,DELHI,110030,INDIVIDUAL,PAN,1683119,Commerical,11,1/11/2021,,2/11/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1008,SVETLANA,Female,East,DELHI,110035,INDIVIDUAL,AADHAR,8.95E+11,Commerical,6,6/13/2021,,7/13/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1009,EDITH,Female,East,DELHI,110042,INDIVIDUAL,VOTER_ID,94436,Commerical,9,8/13/2021,9/13/2021,9/13/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1010,INNA,Female,East,DELHI,110052,INDIVIDUAL,VOTER_ID,87630,Commerical,11,10/28/2021,11/28/2021,11/28/2021,Approved,2456,RAHUL SINGH,Installation pending
+1011,MEAGAN,Female,East,DELHI,110001,INDIVIDUAL,VOTER_ID,74203,Residential,1,1/12/2021,2/12/2021,2/12/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1012,ISABELLE,Female,East,DELHI,110041,INDIVIDUAL,VOTER_ID,86841,Residential,5,6/2/2021,7/2/2021,7/2/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1013,KELLEY,Female,East,DELHI,110032,INDIVIDUAL,PAN,8907055,Residential,12,8/30/2021,,9/30/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1014,LETICIA,Female,East,DELHI,110063,JOINT,PAN,3879111,Residential,8,12/10/2021,,1/10/2022,Pending,4510,VINOD GUPTA,Documents verification in progress
+1015,HANNA,Female,East,DELHI,110005,JOINT,PASSPORT,993395412,Residential,10,11/20/2021,,12/20/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1016,TY,Female,East,DELHI,110036,INDIVIDUAL,PAN,7573790,Residential,8,6/9/2021,7/9/2021,7/9/2021,Approved,1678,Manoj Pandey,Installation pending
+1017,JACKSON,Female,East,DELHI,110010,INDIVIDUAL,PAN,5767336,Commerical,2,1/15/2021,2/15/2021,2/15/2021,Approved,1678,Manoj Pandey,Installation pending
+1018,TRINA,Female,East,DELHI,110026,INDIVIDUAL,VOTER_ID,73281,Residential,11,9/2/2021,,10/2/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1019,KELLIE,Female,East,DELHI,110041,INDIVIDUAL,VOTER_ID,98970,Commerical,4,3/29/2021,,4/29/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1020,ROSANNA,Female,East,DELHI,110039,INDIVIDUAL,VOTER_ID,99059,Commerical,7,10/18/2021,,11/18/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1021,CHARMAINE,Female,East,DELHI,110058,INDIVIDUAL,AADHAR,6.09E+11,Residential,6,6/30/2021,7/30/2021,7/30/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1022,RENÁTA,Female,East,DELHI,110041,INDIVIDUAL,PASSPORT,761773908,Commerical,11,4/18/2021,5/18/2021,5/18/2021,Approved,4510,VINOD GUPTA,Installation pending
+1023,MAGDALENA,Female,East,DELHI,110006,INDIVIDUAL,AADHAR,8.88E+11,Residential,4,2/14/2021,,3/14/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1024,MARCELA,Female,East,DELHI,110062,JOINT,PASSPORT,534383075,Commerical,3,10/26/2021,,11/26/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1025,GERRY,Female,East,DELHI,110029,INDIVIDUAL,VOTER_ID,88458,Commerical,5,9/4/2021,,10/4/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1026,MICKEY,Female,East,DELHI,110021,INDIVIDUAL,VOTER_ID,76901,Commerical,11,2/19/2021,,3/19/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1027,RAHUL,Female,East,DELHI,110018,INDIVIDUAL,PASSPORT,815132423,Residential,4,10/12/2021,,11/12/2021,Connection Released,1678,Manoj Pandey,Installation completed
+1028,ISAIAH,Female,East,DELHI,110047,INDIVIDUAL,PASSPORT,472544607,Residential,1,4/28/2021,,5/28/2021,Connection Released,4510,VINOD GUPTA,Installation completed
+1029,LEILA,Female,East,DELHI,110064,INDIVIDUAL,VOTER_ID,92792,Residential,4,7/4/2021,,8/4/2021,Connection Released,2456,RAHUL SINGH,Installation completed
+1030,LI,Female,East,DELHI,110012,INDIVIDUAL,VOTER_ID,89334,Residential,10,11/14/2021,12/14/2021,12/14/2021,Approved,1460,HEM CHAND,Installation pending
+1031,JUANITA,Female,East,DELHI,110047,INDIVIDUAL,VOTER_ID,74146,Residential,4,11/16/2021,12/16/2021,12/16/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1032,ANDREAS,Female,East,DELHI,110047,INDIVIDUAL,AADHAR,2.77E+11,Residential,1,7/26/2021,8/26/2021,8/26/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1033,ALEXANDRIA,Female,East,DELHI,110024,JOINT,PASSPORT,421553035,Residential,8,12/17/2021,1/17/2022,1/17/2022,Approved,1311,Sudhanshu Gupta,Installation pending
+1034,HARVEY,Female,West,DELHI,110046,JOINT,PAN,1302214,Commerical,2,10/12/2021,,11/12/2021,Connection Released,1311,Sudhanshu Gupta,Installation completed
+1035,ROSALIE,Female,West,DELHI,110028,INDIVIDUAL,VOTER_ID,94613,Commerical,11,9/27/2021,,10/27/2021,Connection Released,1460,HEM CHAND,Installation completed
+1036,VLAD,Female,West,DELHI,110017,JOINT,AADHAR,9.70E+11,Commerical,8,4/6/2021,,5/6/2021,Connection Released,1678,Manoj Pandey,Installation completed
+1037,HUGH,Female,West,DELHI,110028,INDIVIDUAL,AADHAR,5.59E+11,Commerical,12,1/30/2021,2/28/2021,2/28/2021,Approved,1678,Manoj Pandey,Installation pending
+1038,PAULETTE,Female,West,DELHI,110017,INDIVIDUAL,PASSPORT,355110403,Commerical,6,12/12/2021,1/12/2022,1/12/2022,Approved,2456,RAHUL SINGH,Installation pending
+1039,LATISHA,Female,West,DELHI,110043,INDIVIDUAL,PASSPORT,895391678,Commerical,4,6/10/2021,,7/10/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1040,JUN,Female,West,DELHI,110033,INDIVIDUAL,PAN,5687827,Residential,1,11/22/2021,,12/22/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1041,RENA,Female,West,DELHI,110029,INDIVIDUAL,VOTER_ID,75929,Commerical,9,6/26/2021,,7/26/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1042,MUSTAFA,Female,West,DELHI,110025,INDIVIDUAL,VOTER_ID,74559,Residential,11,11/29/2021,,12/29/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1043,MARCY,Female,West,DELHI,110040,INDIVIDUAL,VOTER_ID,88828,Residential,10,10/23/2021,,11/23/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1044,LAUREL,Female,West,DELHI,110012,INDIVIDUAL,PAN,4775014,Commerical,8,12/3/2021,1/3/2022,1/3/2022,Approved,2456,RAHUL SINGH,Installation pending
+1045,GABBY,Female,West,DELHI,110047,JOINT,PASSPORT,385420135,Commerical,10,3/11/2021,4/11/2021,4/11/2021,Approved,1678,Manoj Pandey,Installation pending
+1046,JAYSON,Female,West,DELHI,110058,JOINT,AADHAR,3.96E+11,Residential,11,5/24/2021,6/24/2021,6/24/2021,Approved,1460,HEM CHAND,Installation pending
+1047,JULIEN,Female,West,DELHI,110022,INDIVIDUAL,PASSPORT,362642517,Commerical,3,7/7/2021,8/7/2021,8/7/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1048,EMILIO,Female,West,DELHI,110055,INDIVIDUAL,AADHAR,9.54E+11,Residential,3,5/11/2021,,6/11/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1049,EDNA,Female,West,DELHI,110023,INDIVIDUAL,PASSPORT,291382301,Commerical,9,11/6/2021,,12/6/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1050,SHERRI,Female,West,DELHI,110020,INDIVIDUAL,PAN,5991974,Residential,1,6/26/2021,,7/26/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1051,JAE,Female,West,DELHI,110064,INDIVIDUAL,VOTER_ID,73536,Residential,7,11/25/2021,12/25/2021,12/25/2021,Approved,2456,RAHUL SINGH,Installation pending
+1052,TAMAR,Female,West,DELHI,110026,INDIVIDUAL,AADHAR,4.47E+11,Residential,6,1/29/2021,2/28/2021,2/28/2021,Approved,1460,HEM CHAND,Installation pending
+1053,ASIA,Female,West,DELHI,110005,INDIVIDUAL,PASSPORT,620289266,Residential,3,3/15/2021,,4/15/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1054,SHANI,Female,West,DELHI,110051,INDIVIDUAL,PAN,5371115,Residential,2,10/20/2021,,11/20/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1055,THEODORE,Female,West,DELHI,110002,JOINT,VOTER_ID,71101,Commerical,2,9/8/2021,,10/8/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1056,NOREEN,Female,West,DELHI,110041,INDIVIDUAL,AADHAR,2.12E+11,Residential,6,9/18/2021,,10/18/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1057,RUSS,Female,West,DELHI,110002,INDIVIDUAL,AADHAR,6.67E+11,Residential,3,9/7/2021,,10/7/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1058,TIA,Female,West,DELHI,110062,INDIVIDUAL,PAN,6123374,Commerical,4,6/1/2021,7/1/2021,7/1/2021,Approved,4510,VINOD GUPTA,Installation pending
+1059,ALMA,Female,West,DELHI,110038,INDIVIDUAL,PASSPORT,491182941,Commerical,2,9/5/2021,10/5/2021,10/5/2021,Approved,1678,Manoj Pandey,Installation pending
+1060,CARMELA,Female,West,DELHI,110038,INDIVIDUAL,PAN,1928025,Residential,12,3/21/2021,4/21/2021,4/21/2021,Approved,4510,VINOD GUPTA,Installation pending
+1061,ELIJAH,Female,West,DELHI,110058,INDIVIDUAL,VOTER_ID,70250,Residential,12,9/6/2021,10/6/2021,10/6/2021,Approved,1678,Manoj Pandey,Installation pending
+1062,ABDUL,Female,West,DELHI,110011,INDIVIDUAL,AADHAR,4.16E+11,Commerical,9,3/11/2021,,4/11/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1063,NIKI,Female,West,DELHI,110042,INDIVIDUAL,AADHAR,7.32E+11,Commerical,5,11/3/2021,,12/3/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1064,TARYN,Female,West,DELHI,110065,JOINT,AADHAR,4.76E+11,Commerical,3,4/29/2021,,5/29/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1065,MOE,Female,West,DELHI,110064,JOINT,PASSPORT,280319730,Residential,2,6/20/2021,7/20/2021,7/20/2021,Approved,1460,HEM CHAND,Installation pending
+1066,ABE,Female,West,DELHI,110021,INDIVIDUAL,PASSPORT,704537914,Commerical,11,9/24/2021,10/24/2021,10/24/2021,Approved,1678,Manoj Pandey,Installation pending
+1067,LYNETTE,Female,West,DELHI,110004,JOINT,PAN,1321999,Residential,2,12/9/2021,,1/9/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+1068,PAULINA,Female,West,DELHI,110004,INDIVIDUAL,VOTER_ID,77236,Commerical,5,1/16/2021,,2/16/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1069,BRANDI,Female,West,DELHI,110057,INDIVIDUAL,AADHAR,9.51E+11,Residential,9,5/26/2021,,6/26/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1070,ALESSANDRA,Female,West,DELHI,110050,INDIVIDUAL,PAN,7826427,Residential,7,11/8/2021,,12/8/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1071,FARAH,Female,West,DELHI,110033,INDIVIDUAL,AADHAR,7.64E+11,Commerical,12,12/30/2021,,1/30/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+1072,PAOLO,Female,West,DELHI,110041,INDIVIDUAL,VOTER_ID,76480,Residential,9,12/10/2021,1/10/2022,1/10/2022,Approved,1678,Manoj Pandey,Installation pending
+1073,ILENE,Female,West,DELHI,110001,INDIVIDUAL,PAN,3639258,Residential,9,8/22/2021,9/22/2021,9/22/2021,Approved,1460,HEM CHAND,Installation pending
+1074,CALEB,Female,West,DELHI,110044,INDIVIDUAL,PAN,1860255,Commerical,10,6/25/2021,7/25/2021,7/25/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1075,LUCA,Female,West,DELHI,110031,INDIVIDUAL,VOTER_ID,98535,Residential,4,5/2/2021,6/2/2021,6/2/2021,Approved,2456,RAHUL SINGH,Installation pending
+1076,HILDA,Female,West,DELHI,110048,JOINT,PAN,4651071,Commerical,1,1/22/2021,,2/22/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1077,LAURENCE,Female,West,DELHI,110026,JOINT,PAN,7791031,Residential,4,3/3/2021,,4/3/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1078,HARRIET,Female,West,DELHI,110040,INDIVIDUAL,AADHAR,6.49E+11,Commerical,1,10/18/2021,,11/18/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1079,ELLIOTT,Female,West,DELHI,110061,INDIVIDUAL,VOTER_ID,89638,Commerical,3,10/7/2021,11/7/2021,11/7/2021,Approved,2456,RAHUL SINGH,Installation pending
+1080,MARIANNA,Female,West,DELHI,110042,INDIVIDUAL,AADHAR,7.70E+11,Commerical,10,12/21/2021,1/21/2022,1/21/2022,Approved,1311,Sudhanshu Gupta,Installation pending
+1081,VIVIANA,Female,West,DELHI,110020,INDIVIDUAL,PASSPORT,449022282,Commerical,2,5/3/2021,,6/3/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1082,RANDALL,Female,West,DELHI,110049,INDIVIDUAL,PASSPORT,330894262,Residential,10,12/18/2021,,1/18/2022,Pending,1460,HEM CHAND,Documents verification in progress
+1083,LILLY,Female,West,DELHI,110048,INDIVIDUAL,PASSPORT,889556098,Residential,1,10/19/2021,,11/19/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1084,ANGELIQUE,Female,West,DELHI,110003,INDIVIDUAL,AADHAR,1.73E+11,Residential,8,8/18/2021,,9/18/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1085,GABY,Female,West,DELHI,110065,INDIVIDUAL,VOTER_ID,80661,Commerical,12,9/4/2021,,10/4/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1086,JULIUS,Female,West,DELHI,110043,INDIVIDUAL,AADHAR,1.25E+11,Commerical,11,3/23/2021,4/23/2021,4/23/2021,Approved,4510,VINOD GUPTA,Installation pending
+1087,LIBBY,Female,West,DELHI,110043,INDIVIDUAL,VOTER_ID,71820,Commerical,3,4/27/2021,5/27/2021,5/27/2021,Approved,1460,HEM CHAND,Installation pending
+1088,MILAGROS,Female,West,DELHI,110045,INDIVIDUAL,PAN,2432105,Residential,5,1/15/2021,2/15/2021,2/15/2021,Approved,4510,VINOD GUPTA,Installation pending
+1089,MARTINA,Female,West,DELHI,110044,INDIVIDUAL,PASSPORT,843040185,Commerical,12,5/2/2021,6/2/2021,6/2/2021,Approved,1678,Manoj Pandey,Installation pending
+1090,RAVEN,Female,West,DELHI,110063,JOINT,PASSPORT,696952500,Residential,3,9/1/2021,,10/1/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1091,JEANNINE,Female,West,DELHI,110008,JOINT,VOTER_ID,85308,Residential,8,12/22/2021,,1/22/2022,Pending,4510,VINOD GUPTA,Documents verification in progress
+1092,LIZZIE,Female,West,DELHI,110053,INDIVIDUAL,VOTER_ID,89874,Residential,5,10/11/2021,,11/11/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1093,CARYN,Female,West,DELHI,110040,INDIVIDUAL,PAN,8515426,Commerical,4,3/7/2021,4/7/2021,4/7/2021,Approved,1678,Manoj Pandey,Installation pending
+1094,MILES,Female,West,DELHI,110064,INDIVIDUAL,PASSPORT,467085684,Residential,5,1/6/2021,2/6/2021,2/6/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1095,CHANEL,Female,West,DELHI,110022,INDIVIDUAL,AADHAR,3.53E+11,Commerical,8,9/2/2021,,10/2/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1096,STACIE,Female,West,DELHI,110047,INDIVIDUAL,VOTER_ID,79725,Commerical,3,4/26/2021,,5/26/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1097,MARLA,Female,West,DELHI,110025,INDIVIDUAL,AADHAR,4.86E+11,Residential,5,3/25/2021,,4/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1098,SUSANNA,Female,West,DELHI,110013,INDIVIDUAL,PASSPORT,415044232,Residential,10,9/14/2021,,10/14/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1099,ALFONSO,Female,West,DELHI,110010,INDIVIDUAL,AADHAR,2.14E+11,Commerical,7,9/23/2021,,10/23/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1100,TRACI,Female,West,DELHI,110004,JOINT,VOTER_ID,76735,Commerical,12,10/26/2021,11/26/2021,11/26/2021,Approved,1678,Manoj Pandey,Installation pending
+1101,YURI,Female,West,DELHI,110034,INDIVIDUAL,PASSPORT,552585509,Residential,11,12/1/2021,1/1/2022,1/1/2022,Approved,1678,Manoj Pandey,Installation pending
+1102,EL,Female,West,DELHI,110021,INDIVIDUAL,VOTER_ID,75458,Residential,10,4/14/2021,5/14/2021,5/14/2021,Approved,1678,Manoj Pandey,Installation pending
+1103,LARISSA,Female,West,DELHI,110047,INDIVIDUAL,AADHAR,2.14E+11,Commerical,7,1/31/2021,2/28/2021,2/28/2021,Approved,2456,RAHUL SINGH,Installation pending
+1104,LIA,Female,West,DELHI,110063,INDIVIDUAL,AADHAR,5.03E+11,Residential,12,9/15/2021,,10/15/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1105,BROOKLYN,Female,West,DELHI,110045,INDIVIDUAL,PAN,7963164,Residential,12,12/25/2021,,1/25/2022,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1106,DEXTER,Female,West,DELHI,110026,INDIVIDUAL,VOTER_ID,79870,Residential,12,9/30/2021,,10/30/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1107,SAUL,Female,West,DELHI,110037,INDIVIDUAL,VOTER_ID,97417,Commerical,10,8/10/2021,9/10/2021,9/10/2021,Approved,2456,RAHUL SINGH,Installation pending
+1108,KENT,Female,West,DELHI,110040,INDIVIDUAL,VOTER_ID,94534,Commerical,4,4/14/2021,5/14/2021,5/14/2021,Approved,1678,Manoj Pandey,Installation pending
+1109,MEI,Female,West,DELHI,110051,INDIVIDUAL,PASSPORT,604127548,Residential,2,12/24/2021,,1/24/2022,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1110,DANTE,Female,West,DELHI,110040,INDIVIDUAL,PASSPORT,296576735,Residential,12,3/17/2021,,4/17/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1111,AHMAD,Female,West,DELHI,110058,INDIVIDUAL,PAN,1615902,Commerical,4,1/4/2021,,2/4/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1112,KIKI,Female,West,DELHI,110014,INDIVIDUAL,PASSPORT,473051507,Commerical,2,5/6/2021,6/6/2021,6/6/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1113,PHILIPPE,Female,West,DELHI,110065,JOINT,PAN,8651232,Residential,9,1/30/2021,2/28/2021,2/28/2021,Approved,1678,Manoj Pandey,Installation pending
+1114,TERI,Female,West,DELHI,110012,JOINT,PAN,5942368,Residential,1,12/29/2021,1/29/2022,1/29/2022,Approved,4510,VINOD GUPTA,Installation pending
+1115,ANYA,Female,West,DELHI,110010,INDIVIDUAL,AADHAR,2.22E+11,Commerical,4,4/5/2021,5/5/2021,5/5/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1116,HALEY,Female,West,DELHI,110055,INDIVIDUAL,PAN,5552196,Residential,10,2/2/2021,,3/2/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1117,MATHEW,Female,West,DELHI,110040,INDIVIDUAL,AADHAR,1.35E+11,Commerical,3,5/5/2021,,6/5/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1118,LUCILLE,Female,West,DELHI,110057,INDIVIDUAL,PAN,8156438,Commerical,4,8/16/2021,,9/16/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1119,TIMMY,Female,West,DELHI,110056,INDIVIDUAL,PAN,5426024,Residential,1,3/26/2021,4/26/2021,4/26/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1120,JEREMIAH,Female,West,DELHI,110060,INDIVIDUAL,PASSPORT,175695474,Commerical,5,9/19/2021,10/19/2021,10/19/2021,Approved,4510,VINOD GUPTA,Installation pending
+1121,FANNY,Female,West,DELHI,110061,INDIVIDUAL,PASSPORT,919988273,Commerical,6,9/29/2021,,10/29/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1122,BRITTNEY,Female,West,DELHI,110027,INDIVIDUAL,VOTER_ID,85118,Commerical,7,2/21/2021,,3/21/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1123,LUIGI,Female,West,DELHI,110008,JOINT,VOTER_ID,84135,Commerical,11,5/13/2021,,6/13/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1124,BLANCA,Female,West,DELHI,110038,INDIVIDUAL,VOTER_ID,96412,Residential,8,4/12/2021,,5/12/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1125,YOSSI,Female,West,DELHI,110001,INDIVIDUAL,PASSPORT,633809062,Commerical,7,12/21/2021,,1/21/2022,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1126,CHAIM,Female,West,DELHI,110052,INDIVIDUAL,PASSPORT,865816708,Residential,2,7/29/2021,8/29/2021,8/29/2021,Approved,2456,RAHUL SINGH,Installation pending
+1127,ALLA,Female,West,DELHI,110053,INDIVIDUAL,AADHAR,8.88E+11,Residential,1,1/27/2021,2/27/2021,2/27/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1128,SIOBHAN,Female,West,DELHI,110028,INDIVIDUAL,PAN,8091811,Residential,9,3/20/2021,4/20/2021,4/20/2021,Approved,2456,RAHUL SINGH,Installation pending
+1129,GIOVANNA,Female,West,DELHI,110013,INDIVIDUAL,AADHAR,9.43E+11,Commerical,3,8/19/2021,9/19/2021,9/19/2021,Approved,2456,RAHUL SINGH,Installation pending
+1130,TERRANCE,Female,West,DELHI,110048,INDIVIDUAL,PAN,2913268,Residential,4,2/12/2021,,3/12/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1131,NICO,Female,West,DELHI,110031,INDIVIDUAL,PAN,6414364,Commerical,7,6/10/2021,,7/10/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1132,SANTIAGO,Female,West,DELHI,110040,INDIVIDUAL,AADHAR,8.73E+11,Residential,7,10/20/2021,,11/20/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1133,SUSANNE,Female,West,DELHI,110049,INDIVIDUAL,PAN,3921383,Residential,6,1/12/2021,2/12/2021,2/12/2021,Approved,4510,VINOD GUPTA,Installation pending
+1134,DIANNA,Female,West,DELHI,110025,INDIVIDUAL,PASSPORT,364953319,Residential,3,6/8/2021,7/8/2021,7/8/2021,Approved,1460,HEM CHAND,Installation pending
+1135,BO,Female,West,DELHI,110022,INDIVIDUAL,AADHAR,1.49E+11,Commerical,11,11/18/2021,,12/18/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1136,ROHAN,Female,West,DELHI,110022,INDIVIDUAL,VOTER_ID,93254,Residential,10,5/29/2021,,6/29/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1137,KARYN,Female,West,DELHI,110053,JOINT,PASSPORT,246016487,Commerical,1,1/9/2021,,2/9/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1138,LIONEL,Female,West,DELHI,110014,INDIVIDUAL,VOTER_ID,88676,Residential,11,6/3/2021,,7/3/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1139,RINA,Female,West,DELHI,110006,INDIVIDUAL,VOTER_ID,92456,Residential,2,3/14/2021,,4/14/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1140,CHASE,Female,West,DELHI,110012,INDIVIDUAL,PAN,9891117,Residential,10,1/6/2021,2/6/2021,2/6/2021,Approved,1678,Manoj Pandey,Installation pending
+1141,DENA,Female,West,DELHI,110064,INDIVIDUAL,VOTER_ID,99794,Commerical,12,11/17/2021,12/17/2021,12/17/2021,Approved,4510,VINOD GUPTA,Installation pending
+1142,SHELBY,Female,West,DELHI,110037,INDIVIDUAL,PASSPORT,502974807,Residential,10,7/20/2021,8/20/2021,8/20/2021,Approved,2456,RAHUL SINGH,Installation pending
+1143,MICHEL,Female,West,DELHI,110047,INDIVIDUAL,PAN,3181772,Commerical,5,10/10/2021,11/10/2021,11/10/2021,Approved,1460,HEM CHAND,Installation pending
+1144,JACKY,Female,West,DELHI,110039,INDIVIDUAL,AADHAR,2.07E+11,Residential,2,1/2/2021,,2/2/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1145,CONOR,Female,West,DELHI,110027,INDIVIDUAL,VOTER_ID,91189,Residential,6,7/25/2021,,8/25/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1146,LIANA,Female,West,DELHI,110045,INDIVIDUAL,AADHAR,4.61E+11,Residential,11,9/24/2021,,10/24/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1147,MEHMET,Female,West,DELHI,110024,INDIVIDUAL,VOTER_ID,95819,Residential,3,4/27/2021,5/27/2021,5/27/2021,Approved,4510,VINOD GUPTA,Installation pending
+1148,GINGER,Female,West,DELHI,110054,INDIVIDUAL,PAN,5833442,Residential,2,6/23/2021,7/23/2021,7/23/2021,Approved,4510,VINOD GUPTA,Installation pending
+1149,TOMÁS,Female,West,DELHI,110014,JOINT,PASSPORT,121797938,Commerical,7,10/9/2021,,11/9/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1150,MARSHALL,Female,West,DELHI,110048,INDIVIDUAL,PASSPORT,484606866,Residential,4,3/25/2021,,4/25/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1151,GLENDA,Female,West,DELHI,110045,INDIVIDUAL,PAN,9953024,Commerical,11,2/16/2021,,3/16/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1152,KARIM,Female,West,DELHI,110045,INDIVIDUAL,AADHAR,7.74E+11,Commerical,4,1/26/2021,,2/26/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1153,LEROY,Female,West,DELHI,110010,INDIVIDUAL,PAN,8297256,Residential,12,1/14/2021,,2/14/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1154,TERRELL,Female,West,DELHI,110065,INDIVIDUAL,PAN,8315187,Residential,5,6/17/2021,7/17/2021,7/17/2021,Approved,2456,RAHUL SINGH,Installation pending
+1155,JONAH,Female,West,DELHI,110032,INDIVIDUAL,PAN,7175648,Commerical,2,8/3/2021,9/3/2021,9/3/2021,Approved,1460,HEM CHAND,Installation pending
+1156,MARCEL,Female,West,DELHI,110024,INDIVIDUAL,PAN,8457801,Residential,1,3/8/2021,4/8/2021,4/8/2021,Approved,1311,Sudhanshu Gupta,Installation pending
+1157,KRYSTLE,Female,West,DELHI,110044,INDIVIDUAL,VOTER_ID,87824,Residential,6,10/26/2021,11/26/2021,11/26/2021,Approved,1678,Manoj Pandey,Installation pending
+1158,ATHEÑA,Female,West,DELHI,110003,INDIVIDUAL,AADHAR,5.69E+11,Residential,11,4/2/2021,,5/2/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1159,DESMOND,Female,West,DELHI,110007,INDIVIDUAL,AADHAR,9.04E+11,Residential,10,1/2/2021,,2/2/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1160,SERGE,Female,West,DELHI,110065,INDIVIDUAL,VOTER_ID,84310,Residential,4,4/21/2021,,5/21/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1161,DINO,Female,West,DELHI,110004,INDIVIDUAL,VOTER_ID,78821,Commerical,4,9/20/2021,10/20/2021,10/20/2021,Approved,1460,HEM CHAND,Installation pending
+1162,CONNOR,Female,West,DELHI,110012,INDIVIDUAL,PASSPORT,921769070,Commerical,5,3/26/2021,4/26/2021,4/26/2021,Approved,1460,HEM CHAND,Installation pending
+1163,SABINA,Female,West,DELHI,110013,JOINT,AADHAR,7.89E+11,Residential,12,9/7/2021,,10/7/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1164,PHOEBE,Female,West,DELHI,110002,INDIVIDUAL,AADHAR,5.08E+11,Residential,8,9/10/2021,10/10/2021,10/10/2021,Approved,1460,HEM CHAND,Installation pending
+1165,ANIL,Female,West,DELHI,110042,INDIVIDUAL,VOTER_ID,70779,Commerical,6,1/13/2021,2/13/2021,2/13/2021,Approved,4510,VINOD GUPTA,Installation pending
+1166,SUSANA,Female,West,DELHI,110029,INDIVIDUAL,AADHAR,9.22E+11,Residential,6,9/9/2021,10/9/2021,10/9/2021,Approved,4510,VINOD GUPTA,Installation pending
+1167,IMRAN,Female,West,DELHI,110021,INDIVIDUAL,AADHAR,3.33E+11,Commerical,9,6/15/2021,7/15/2021,7/15/2021,Approved,1460,HEM CHAND,Installation pending
+1168,ROCCO,Female,West,DELHI,110024,INDIVIDUAL,PASSPORT,524468610,Commerical,4,8/25/2021,,9/25/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1169,BERNICE,Female,West,DELHI,110016,INDIVIDUAL,PASSPORT,356665581,Commerical,5,12/4/2021,,1/4/2022,Pending,1460,HEM CHAND,Documents verification in progress
+1170,ALVARO,Female,West,DELHI,110043,INDIVIDUAL,PASSPORT,361503443,Commerical,4,10/1/2021,,11/1/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1171,ROCKY,Female,West,DELHI,110004,JOINT,PAN,2425938,Residential,4,11/2/2021,12/2/2021,12/2/2021,Approved,2456,RAHUL SINGH,Installation pending
+1172,ADELE,Female,West,DELHI,110042,INDIVIDUAL,PASSPORT,948304519,Residential,4,5/10/2021,6/10/2021,6/10/2021,Approved,2456,RAHUL SINGH,Installation pending
+1173,HUNTER,Female,West,DELHI,110003,INDIVIDUAL,PASSPORT,573620864,Residential,1,12/25/2021,,1/25/2022,Pending,1678,Manoj Pandey,Documents verification in progress
+1174,MUHAMMAD,Female,West,DELHI,110010,INDIVIDUAL,VOTER_ID,72803,Commerical,2,9/1/2021,,10/1/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1175,GAYLE,Female,West,DELHI,110049,INDIVIDUAL,VOTER_ID,96962,Residential,7,9/25/2021,,10/25/2021,Pending,2456,RAHUL SINGH,Documents verification in progress
+1176,SHAUNA,Female,West,DELHI,110001,INDIVIDUAL,PAN,2586989,Residential,2,3/21/2021,,4/21/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1177,MYRA,Female,West,DELHI,110038,INDIVIDUAL,VOTER_ID,78484,Commerical,1,8/7/2021,,9/7/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1178,SAMIR,Female,West,DELHI,110024,INDIVIDUAL,AADHAR,7.01E+11,Commerical,6,9/18/2021,10/18/2021,10/18/2021,Approved,1678,Manoj Pandey,Installation pending
+1179,TATYANA,Female,West,DELHI,110041,INDIVIDUAL,PAN,1995994,Residential,12,8/6/2021,9/6/2021,9/6/2021,Approved,1460,HEM CHAND,Installation pending
+1180,TORI,Female,West,DELHI,110043,INDIVIDUAL,VOTER_ID,95078,Commerical,2,11/9/2021,12/9/2021,12/9/2021,Approved,2456,RAHUL SINGH,Installation pending
+1181,AVERY,Female,West,DELHI,110021,INDIVIDUAL,PAN,1484465,Residential,5,3/8/2021,4/8/2021,4/8/2021,Approved,1460,HEM CHAND,Installation pending
+1182,REBEKAH,Female,West,DELHI,110063,INDIVIDUAL,AADHAR,6.52E+11,Residential,3,6/2/2021,,7/2/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1183,SUZY,Female,West,DELHI,110009,INDIVIDUAL,VOTER_ID,94872,Commerical,2,10/29/2021,,11/29/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1184,ISMAEL,Female,West,DELHI,110025,INDIVIDUAL,AADHAR,1.43E+11,Residential,2,10/26/2021,,11/26/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1185,ELENI,Female,West,DELHI,110059,JOINT,PASSPORT,40377258,Commerical,2,9/1/2021,10/1/2021,10/1/2021,Approved,4510,VINOD GUPTA,Installation pending
+1186,WILFREDO,Female,West,DELHI,110004,INDIVIDUAL,VOTER_ID,99734,Residential,12,1/14/2021,2/14/2021,2/14/2021,Approved,4510,VINOD GUPTA,Installation pending
+1187,THEO,Female,West,DELHI,110045,INDIVIDUAL,VOTER_ID,78485,Commerical,6,3/14/2021,,4/14/2021,Pending,1460,HEM CHAND,Documents verification in progress
+1188,LIN,Female,West,DELHI,110017,INDIVIDUAL,VOTER_ID,82887,Commerical,11,7/24/2021,,8/24/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1189,DMITRY,Female,West,DELHI,110027,INDIVIDUAL,AADHAR,8.89E+11,Commerical,9,3/12/2021,,4/12/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1190,MARCELO,Female,West,DELHI,110006,JOINT,PAN,4685728,Commerical,8,11/30/2021,12/30/2021,12/30/2021,Approved,2456,RAHUL SINGH,Installation pending
+1191,JOJO,Female,West,DELHI,110041,INDIVIDUAL,VOTER_ID,99104,Residential,3,7/9/2021,8/9/2021,8/9/2021,Approved,1460,HEM CHAND,Installation pending
+1192,ARTURO,Female,West,DELHI,110050,INDIVIDUAL,VOTER_ID,97292,Commerical,1,3/14/2021,4/14/2021,4/14/2021,Approved,2456,RAHUL SINGH,Installation pending
+1193,DMITRIY,Female,West,DELHI,110041,INDIVIDUAL,AADHAR,1.74E+11,Residential,5,6/18/2021,7/18/2021,7/18/2021,Approved,2456,RAHUL SINGH,Installation pending
+1194,SAMI,Female,West,DELHI,110049,INDIVIDUAL,PASSPORT,962715933,Commerical,9,4/16/2021,,5/16/2021,Pending,1678,Manoj Pandey,Documents verification in progress
+1195,GERMAN,Female,West,DELHI,110014,INDIVIDUAL,VOTER_ID,91784,Commerical,5,7/22/2021,,8/22/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1196,TESSA,Female,West,DELHI,110005,INDIVIDUAL,PASSPORT,749654648,Residential,12,7/25/2021,,8/25/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
+1197,SHANNA,Female,West,DELHI,110010,INDIVIDUAL,AADHAR,8.11E+11,Residential,7,2/4/2021,3/4/2021,3/4/2021,Approved,4510,VINOD GUPTA,Installation pending
+1198,DORA,Female,West,DELHI,110058,INDIVIDUAL,AADHAR,1.44E+11,Commerical,8,8/10/2021,9/10/2021,9/10/2021,Approved,1678,Manoj Pandey,Installation pending
+1199,JAZMIN,Female,West,DELHI,110054,INDIVIDUAL,PAN,6146843,Commerical,8,10/8/2021,,11/8/2021,Pending,4510,VINOD GUPTA,Documents verification in progress
+1200,LOGAN,Female,West,DELHI,110002,INDIVIDUAL,PASSPORT,562668033,Residential,6,6/4/2021,,7/4/2021,Pending,1311,Sudhanshu Gupta,Documents verification in progress
