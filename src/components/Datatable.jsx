@@ -4,6 +4,7 @@ import { GrView } from 'react-icons/gr';
 import Popup from './Popup';
 import useTable from '../cHooks/useTable'; // Import the custom hook
 import { saveAs } from 'file-saver'; // You can use this to save the file
+import { useNavigate } from 'react-router-dom'; // Import useNavigate hook
 
 const DataTable = () => {
   const {
@@ -19,6 +20,8 @@ const DataTable = () => {
     handlePopup,
     isShow,
   } = useTable();
+
+  const navigate = useNavigate(); // Initialize useNavigate
 
   // Paging Range
   const pageRange = 20;
@@ -59,6 +62,12 @@ const DataTable = () => {
 
   return (
     <div>
+       <h2>Electric Shock ⚡</h2>
+      {/* Button to navigate back to the homepage */}
+      <button className='toggle-button2' onClick={() => navigate('/')}>
+      ⬅️ Go Back
+      </button>
+      
       <table border="1">
         <thead>
           <tr>
@@ -202,8 +211,9 @@ const DataTable = () => {
       </table>
       {isShow && <Popup />}
       <div className='export-container'>
-      <button className='export-btn' onClick={exportToCSV}>Export to CSV</button>
+        <button className='export-btn' onClick={exportToCSV}>Export to CSV ⬇️</button>
       </div>
+
       {/* Pagination Controls */}
       <div className="pagination">
         <button

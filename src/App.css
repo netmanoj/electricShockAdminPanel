@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 /* General Application Styles */
 .App {
@@ -44,6 +45,35 @@
 
 .toggle-button:hover {
   background-color: #092635;
+}
+h3{
+ 
+  font-family: "SUSE",sans-serif;
+}
+/* Button styling */
+.toggle-button2 {
+  margin-left: 30px;
+  padding: 12px 24px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #1B4242;
+  border: none;
+  border-radius: 8px; /* Rounded corners for the button */
+  cursor: pointer;
+  margin-top: 25px;
+  transition: background-color 0.3s ease; /* Smooth transition effect */
+  margin-bottom: 30px;
+}
+
+/* Button hover effect */
+.toggle-button2:hover {
+  background-color: #092635;
+}
+
+/* Link styling inside the button */
+.visualize-link {
+  text-decoration: none; /* Remove underline from the link */
+  color: inherit; /* Ensure the link inherits the button's text color */
 }
 
 /* Header Styles */
