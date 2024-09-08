@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h2>Electric Shock </h2>
+        <h2>Electric Shock ⚡</h2>
         {/* Main page section */}
         <section className="main-page">
           <h1>Welcome to the Electricity Connection Management System</h1>
