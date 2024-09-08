@@ -17,7 +17,7 @@ const Popup = () => {
             return (
               <div>
                 <div className="container">
-                  <h4>Applicant Personal Info:</h4>
+                  <h4>Personal Info:</h4>
                   <div>
                     <p>
                       <span> Applicant ID:</span>
@@ -45,10 +45,10 @@ const Popup = () => {
                   </div>
                 </div>
                 <div className="container">
-                  <h4>Application Other Details</h4>
+                  <h4>Other Details</h4>
                   <div>
                     <p>
-                      <span>Applicant Ownership: </span>
+                      <span>Ownership: </span>
                       <span>{row.Ownership}</span>
                     </p>
                     <p>
