@@ -210,7 +210,7 @@ const DataTable = () => {
           onClick={() => handlePageChange(currentPage - 1)}
           disabled={currentPage === 1}
         >
-          {'<< '}Previous
+          {'< '}Previous
         </button>
         {Array.from(
           { length: endPage - startPage + 1 },
@@ -228,7 +228,7 @@ const DataTable = () => {
           onClick={() => handlePageChange(currentPage + 1)}
           disabled={currentPage === totalPages}
         >
-          Next {' >> '}
+          Next {' > '}
         </button>
       </div>
     </div>
