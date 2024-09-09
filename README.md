@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Electricity Management Panel UI.</h1>
+<h1 align="center">Electricity Connection Management Panel UI.</h1>
 
 ###
 
